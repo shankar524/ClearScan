@@ -25,3 +25,57 @@ os.makedirs(OUTPUT_DIR, exist_ok=True)
 os.makedirs(DEBUG_DIR, exist_ok=True)
 
 
+
+# =================================================
+# 2. DOCUMENT INGESTION (LOOPING THROUGH FILES)
+# =================================================
+for filename in os.listdir(INPUT_DIR):
+    # Skip any files in the folder that aren't PDFs
+    if not filename.lower().endswith('.pdf'):
+        continue 
+
+    print(f"Processing: {filename}...")
+    
+    # Getting the exact full path to the current PDF
+    pdf_path = os.path.join(INPUT_DIR, filename)
+    
+    # Converts the PDF into a list of high-quality images (300 dots-per-inch) using PyMuPDF (fitz)
+    pdf_document = fitz.open(pdf_path)
+
+    # An empty list to hold all the text we find in this specific document
+    document_text = []
+
+
+
+    # ===================================
+    # 3. PAGE BY PAGE PROCESSING
+    # ===================================
+    for page_num in range(len(pdf_document)):
+        print(f"  -> Reading page {page_num + 1}...")
+        
+        # Grabs the current page
+        page = pdf_document[page_num]
+        
+        # PDFs default to 72 DPI. W're zooming in to 250 DPI to get a clearer image for OCR.
+        zoom = 250 / 72
+        mat = fitz.Matrix(zoom, zoom)
+        
+        # Renders the page to a pixel map (image)
+        pix = page.get_pixmap(matrix=mat)
+
+        # Converting the PyMuPDF image directly into a NumPy array for OpenCV
+        img_array = np.frombuffer(pix.samples, dtype=np.uint8).reshape(pix.h, pix.w, pix.n)
+
+        # PyMuPDF might output RGB (3 channels) or RGBA (4 channels). We need BGR for OpenCV.
+        if pix.n == 4:
+            doc_bgr = cv2.cvtColor(img_array, cv2.COLOR_RGBA2BGR)
+        elif pix.n == 3:
+            doc_bgr = cv2.cvtColor(img_array, cv2.COLOR_RGB2BGR)
+        else:
+            doc_bgr = cv2.cvtColor(img_array, cv2.COLOR_GRAY2BGR)
+
+        # Saving the very first page as a debug image
+        if page_num == 0:
+            cv2.imwrite(f'{DEBUG_DIR}/{filename}_page1.png', doc_bgr)
+
+
