@@ -79,3 +79,52 @@ for filename in os.listdir(INPUT_DIR):
             cv2.imwrite(f'{DEBUG_DIR}/{filename}_page1.png', doc_bgr)
 
 
+
+        # ============================================
+        # 4. RUNNING INFERENCE (EXTRACTING THE TEXT)
+        # ============================================
+        # cls=True tells PaddleOCR to actively check and fix the rotation of the text.
+        result = ocr.ocr(doc_bgr, cls=True)
+
+        # PaddleOCR returns a complex list of boxes, text, and confidence scores. 
+        # We're just gonna pull out just the text strings.
+        page_text = ""
+        
+        # 'result' can be None if the page is completely blank, so we're checking if it exists first.
+        if result and result[0]: 
+            for line in result[0]:
+                text_string = line[1][0]
+                page_text += text_string + "\n"
+        
+        # Adding extracted text from this page to our document-level list.
+        document_text.append(f"--- PAGE {page_num + 1} ---\n{page_text}")
+
+        # Using Python's GC for freeing up memory after processing each page
+        del pix
+        del img_array
+        del doc_bgr
+        del result
+        gc.collect()
+
+
+    # ============================
+    # 5. SAVING THE OUTPUT
+    # ============================
+    # Changing the file extension from .pdf to .txt for saving
+    if filename.endswith('.pdf'):
+        output_filename = filename.replace('.pdf', '.txt')
+    
+    if filename.endswith('.PDF'):
+        output_filename = filename.replace('.PDF', '.txt')
+
+    output_path = os.path.join(OUTPUT_DIR, output_filename)
+
+    # Writing all the collected text into the text file and saving it in the output folder
+    with open(output_path, 'w', encoding='utf-8') as f:
+        f.write("\n".join(document_text))
+        
+    print(f"Finished! Saved text to {output_path}\n")
+    
+    pdf_document.close()  # Closing the PDF file to free up memory
+
+
