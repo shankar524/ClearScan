@@ -1,77 +1,127 @@
-# from pdf2image import convert_from_path
-# import os
-# import numpy as np
-# import cv2
+import os
+import cv2
+import numpy as np
+import fitz  # PyMuPDF (i removes teh pdf2image bcoz of "poppler" issues)
+from paddleocr import PaddleOCR
+import gc  # Garbage collector to free up memory after processing each document
 
-# def deskew(image):
-#     inverted = cv2.bitwise_not(image)
 
-#     coords = cv2.findNonZero(inverted)
-#     angle = cv2.minAreaRect(coords)[-1]
+# =====================================
+# 1. INITIALIZING THE OCR MODEL
+# =====================================
+# use_angle_cls=True: Turns on the automatic rotation correction
+# lang='sv': Sets the language to Swedish for the Palme archives. 
+# show_log=False: Stops PaddleOCR from flooding your terminal with diagnostic text.
 
-#     # Adjust angle logic
-#     if angle < -45:
-#         angle += 90
+ocr = PaddleOCR(use_angle_cls=True, lang='sv', show_log=False)
 
-#     # Rotate the image to straighten it
-#     (h, w) = image.shape[:2]
-#     center = (w // 2, h // 2)
-#     M = cv2.getRotationMatrix2D(center, angle, 1.0)
-#     straightened = cv2.warpAffine(image, M, (w, h), flags=cv2.INTER_CUBIC, borderMode=cv2.BORDER_REPLICATE)
+# Initiating our main folders
+INPUT_DIR = 'data'
+OUTPUT_DIR = 'output'
+DEBUG_DIR = 'debug'
 
-#     return straightened
+# Creating the output and debug folders if they don't already exist on your computer
+os.makedirs(OUTPUT_DIR, exist_ok=True)
+os.makedirs(DEBUG_DIR, exist_ok=True)
+
+
+
+# =================================================
+# 2. DOCUMENT INGESTION (LOOPING THROUGH FILES)
+# =================================================
+for filename in os.listdir(INPUT_DIR):
+    # Skip any files in the folder that aren't PDFs
+    if not filename.lower().endswith('.pdf'):
+        continue 
+
+    print(f"Processing: {filename}...")
     
+    # Getting the exact full path to the current PDF
+    pdf_path = os.path.join(INPUT_DIR, filename)
+    
+    # Converts the PDF into a list of high-quality images (300 dots-per-inch) using PyMuPDF (fitz)
+    pdf_document = fitz.open(pdf_path)
 
-# path = 'data'
-# filenames = []
+    # An empty list to hold all the text we find in this specific document
+    document_text = []
 
-# for filename in os.listdir('data'):
-#     filenames.append(filename)
 
-# datasets = np.array(filenames)
 
-# os.makedirs('debug', exist_ok=True)
+    # ===================================
+    # 3. PAGE BY PAGE PROCESSING
+    # ===================================
+    for page_num in range(len(pdf_document)):
+        print(f"  -> Reading page {page_num + 1}...")
+        
+        # Grabs the current page
+        page = pdf_document[page_num]
+        
+        # PDFs default to 72 DPI. W're zooming in to 250 DPI to get a clearer image for OCR.
+        zoom = 250 / 72
+        mat = fitz.Matrix(zoom, zoom)
+        
+        # Renders the page to a pixel map (image)
+        pix = page.get_pixmap(matrix=mat)
 
-# for i in range(len(filenames)):
-#     pdf_path = os.path.join(path, datasets[i])
-#     pages = convert_from_path(pdf_path, dpi=300)
+        # Converting the PyMuPDF image directly into a NumPy array for OpenCV
+        img_array = np.frombuffer(pix.samples, dtype=np.uint8).reshape(pix.h, pix.w, pix.n)
 
-#     for page_num, pil_image in enumerate(pages):
-#         doc = np.array(pil_image)
+        # PyMuPDF might output RGB (3 channels) or RGBA (4 channels). We need BGR for OpenCV.
+        if pix.n == 4:
+            doc_bgr = cv2.cvtColor(img_array, cv2.COLOR_RGBA2BGR)
+        elif pix.n == 3:
+            doc_bgr = cv2.cvtColor(img_array, cv2.COLOR_RGB2BGR)
+        else:
+            doc_bgr = cv2.cvtColor(img_array, cv2.COLOR_GRAY2BGR)
 
-#         # Convert RGB to BGR for OpenCV
-#         doc = cv2.cvtColor(doc, cv2.COLOR_RGB2BGR)
-#         gray = cv2.cvtColor(doc, cv2.COLOR_BGR2GRAY)
+        # Saving the very first page as a debug image
+        if page_num == 0:
+            cv2.imwrite(f'{DEBUG_DIR}/{filename}_page1.png', doc_bgr)
 
-#         # Adaptive thresholding to handle local light variations
-#         thresh = cv2.adaptiveThreshold(
-#             gray,
-#             maxValue=255,
-#             adaptiveMethod=cv2.ADAPTIVE_THRESH_GAUSSIAN_C,
-#             thresholdType=cv2.THRESH_BINARY,
-#             blockSize=11,
-#             C=2
-#         )
 
-#         # Deskew (straighten) the thresholded image
-#         straightened = deskew(thresh)
 
-#         # Remove salt and pepper noise with median blur
-#         cleaned = cv2.medianBlur(straightened, 3)
+        # ============================================
+        # 4. RUNNING INFERENCE (EXTRACTING THE TEXT)
+        # ============================================
+        # cls=True tells PaddleOCR to actively check and fix the rotation of the text.
+        result = ocr.ocr(doc_bgr, cls=True)
 
-#         # Save a sample debug image from the first page of the first document (for my testing)
-#         if i == 0 and page_num == 0:
-#             cv2.imwrite('debug/sample_thresh.png', cleaned)
+        # PaddleOCR returns a complex list of boxes, text, and confidence scores. 
+        # We're just gonna pull out just the text strings.
+        page_text = ""
+        
+        # 'result' can be None if the page is completely blank, so we're checking if it exists first.
+        if result and result[0]: 
+            for line in result[0]:
+                text_string = line[1][0]
+                page_text += text_string + "\n"
+        
+        # Adding extracted text from this page to our document-level list.
+        document_text.append(f"--- PAGE {page_num + 1} ---\n{page_text}")
 
-#         # TODO: Insert OCR model inference here
+        # Using Python's GC for freeing up memory after processing each page
+        del pix
+        del img_array
+        del doc_bgr
+        del result
+        gc.collect()
 
-#         print(f"File: {datasets[i]} | Page: {page_num + 1} | Shape: {cleaned.shape}")
 
-#         # Free up memory before the next page or file
-#         del doc
-#         del gray
-#         del thresh
-#         del straightened
-#         del cleaned
+    # ============================
+    # 5. SAVING THE OUTPUT
+    # ============================
+    # Changing the file extension from .pdf to .txt for saving
+    if filename.endswith('.pdf'):
+        output_filename = filename.replace('.pdf', '.txt')
+    
+    if filename.endswith('.PDF'):
+        output_filename = filename.replace('.PDF', '.txt')
 
-# # Pre-processing pipeline 
+    output_path = os.path.join(OUTPUT_DIR, output_filename)
+    with open(output_path, 'w', encoding='utf-8') as f:
+        f.write("\n".join(document_text))
+        
+    print(f"Finished! Saved text to {output_path}\n")
+    
+    pdf_document.close()  
+
