@@ -30,6 +30,22 @@ pip install -r requirements.txt
 ```
 
 
+
+### 2. Using docker
+Build the image
+```sh
+docker build -t clearscan .
+```
+
+run the image with volume mapping
+```sh
+docker run --rm \
+  -v "$(pwd)/data:/app/data" \
+  -v "$(pwd)/output:/app/output" \
+  -v "$(pwd)/debug:/app/debug" \
+  clearscan
+```
+
 ## The "Forensic" Pipeline
 
 ### 1. Pre-processing Pipeline

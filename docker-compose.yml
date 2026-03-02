@@ -1,0 +1,12 @@
+services:
+  clearscan:
+    build: .
+    image: clearscan:latest
+    volumes:
+      # Map local directories to container directories
+      - ./data:/app/data          # Input PDFs
+      - ./output:/app/output      # Output text files
+      - ./debug:/app/debug        # Debug images
+    # Uncomment to keep container running for debugging
+    # stdin_open: true
+    # tty: true
