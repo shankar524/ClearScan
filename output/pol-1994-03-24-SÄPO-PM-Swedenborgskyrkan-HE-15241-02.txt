@@ -1,0 +1,151 @@
+OCR OUTPUT: pol-1994-03-24-SÄPO-PM-Swedenborgskyrkan-HE-15241-02.pdf
+Model    : Qwen3-VL-2B (Q4_K_M GGUF)
+Started  : 2026-03-04 01:47:18
+Settings : ctx=4096, temp=0.7, presence_penalty=1.5, jinja=ON, no_think=ON, max_size=1120px
+============================================================
+
+--- PAGE 1/4  [153.9s | ENHANCED | c=39] ---
+SÄPO
+LB
+Mordet på Olof Palme
+PM
+1994-03-24
+HE 15241-2
+Angående Palmetips HE 15241
+1993-11-01 berättade Olle Hjern, internationell chef,
+tillika präst, inom Swedenborgskyrkan följande.
+Swedenborgskyrkan är indelad i två olika internatio-
+nella avdelningar. Den ena är i huvudsak inriktad på
+Amerika. Den andra avdelningen, som Hjern är chef
+för, är förgrunden på flera olika håll i världen.
+I Stockholm finns två församlingar och två Sweden-
+borgssällskap.
+Församlingen som har sina lokaler i Tegnérlund,
+leds av prästen
+Vid tidpunkten för
+mordet på Olof Palme var Olle Hjern ansvarig för
+dessa lokaler (större inflytande än å dagslæget).
+Hjern upplät ett rum, till en f d sekretära.
+.Hjern kommer ihag att det var "precis
+efter skilsmässe", som denne frågade om
+han fick lana rummet. Hjern minns inte om detta var
+före eller efter mordet på Olof Palme.
+är ca 40-45 år gammal.
+tänkte börja hålla kamratträffar och han
+anslag att Kyrkans lokal skulle vara lämpligt för
+detta ändamål.
+Eftersom [?] tidigare skött sig felfritt ville
+Hjern vara snäll och tillmötesgå honom. Hjern beslu-
+tade själv att [?]
+skulle få lana lokalen.
+Hjern tog aldrig upp frågan på något styrelsemöte.
+preciserade inte vad som skulle avhandlas
+under dessa möten. Hjern fick den uppfattningen att
+det rörde sig om en ordinar herrklubb.
+[??] skulle få lana lokaler mot att de städade och holl
+snygt efter sig. Kyrkan tog inte betalt för utlä-
+ningar. Lokalen har en egen ingång och den ligger en
+trappa upp från gatan. Lokalen kallas inte för "lof-
+tet". hade egna nycklar. Det förekom inte
+nägon bokningslista. Det går inte i efterhand att
+kontrollera om det var någon i lokalens under mordnat-
+ten.
+Till att börja med var det inget konstigt med träf-
+farna. De hade sina tråffar en gång i veckan fram
+till 1989. Efterhänder upprättade de egenmäktigt genom
+att de bar in böcker och satte upp bogkylor. De hade
+demonstrativt placerat ut svenska flagggor. Hjern
+"associerade till diverse konservativa nationella
+ordenssamfund"; Att de var ofarliga, men samtidigt
+[?]
+
+--- PAGE 2/4  [143.8s | ENHANCED | c=46] ---
+SÄPO
+FM
+1994-03-24
+att det var olämpligt att de lånade lokalen. Hjern kände dock att ett "löfte är ett löfte". Han ville ha en konkret anledning att köra ut dem. Vid ett tillfälle, okänt när, anträffade han höcerextrema skrifter i en låda (norska skrifter: National Samling). När Hjern och samtidigt fick klart för sig att ej längre deltog i "träffarna" förbjudde de fortsatta möten. De bytte ut läsens till lokalren. Detta var någon gång under år 1991. Lokalen rymmer ca 25 personer.
+Olle Hjern kände till att och deltog i "träffarna". Dessa hade vid några tillfällen "dykt upp vid Swedenborgssällskapens mörnen". Vilka som i övrigt deltog i "kamratträffarna" kninner inte Hjern till.
+Olle Hjern uppgår att Swedenborgskyrkan och Swedeborgssällskapet är "oppa demokratiska" rörelser. "Kyrkan är ingen liten hemlig sektor". Bara i Afrika finns det ca 20 000 medlemmar. Kyrkan är en religiös föreelse, som ingår i den "Nya kyrka" som Swedenborg förkunnande om. Swedenborg gav ut en mängd andliga skrifter.
+Swedenborgssällskapen ägnar sig inte åt politiska möten. Sällskapen ger ut böcker, tidskrifter, över- sätter skrifter, håller föredrag och haller diskussioner. Mötena påannonseras genom predikoturer och genom högmässor och annonser i tidningar. Gemena man från gatan är välkommen att delta gå mota. Under våren 1993 gjäftförelåste för dem.
+De två Swedenborgssällskapet heter "Skandinaviska Swedenborgssällskapet" och "Föreningen Swedenborgs Minne". Olle Hjern är ordförande i Skandinaviska Swedenborgssällskapet och han är även ledamot i den andra styrelsen. är ordförande i "Föreningen Swedenborgs Minne. Denne är chef för och (bankdirektör) ingår också i styrelsarna.
+Sällskapen håller sina möten på flera olika häl1.
+B I a i kyrkans lokaler i Teqnérulunden, i Hjerns lokalren på Banérgatan 4 samt i församlingslokaler på Hornsgatan i Stockholmm.
+och har besökt sällskapen vid tre till fyra gänger/år. Hjern vet att och har kontakt med och att dessa
+[REDACTED]
+[?]
+[?]
+
+--- PAGE 3/4  [100.1s | ENHANCED | c=37] ---
+SÄPO
+PM
+3
+1994-03-24
+närvarat vid möten då den kände revisionisten Fauris-
+son varit i Stockholm.
+Anmärkning:
+Vid kontroll med skattemyndigheten 1993-11-30 framkom
+att 1987-07-06. Enligt mantslregistret finns det bara
+tre som har förnamnet Av dessa
+är det endast ovannämnde som är I ars åldern.
+Denne år
+Vid kontakt med Hjern 1993-11-30 vidhöll han uppgif-
+ten om att lånat rummet efter det att
+denne skilt sig. Hjern erinrade sig att f d hustrun
+bröt med i början av 1987.
+Hjern uppger att det inte kan utelutas att
+upplåtit rummet, på eget beväg, till kamrater,
+före 1987. Hjern finner detta dock osannolikt.
+knät kontakter med efter skils-
+mässan. De kände emellertid varandra sedan tidigare.
+Enligt Hjern är ingen högreextremist.
+/ Swedenborgskyrkan- och sällskapen har inte tidigare
+tilldragit sig SÄPOs intresse.
+[REDACTED]
+KompL
+[?]
+[?]
+
+--- PAGE 4/4  [163.8s | CLEAN | c=66] ---
+LÖRDAG 24 APRIL 1993
+VARD
+Nya kyrkan eller Swedenborgarna
+Mystikern bakom den hemliga sekten
+Emanuel Swedenborg, vara lära från värld av en lön skämd selt. var en främstående vetenskap man och mystiker.
+STOCKHOLM (DAG) TV-kändisen Ärwe Weise är medlem i en ökland religiösa sekts med startet fiske I Sydafrika.
+Varje sägning gäller ett ställt av mod-
+lemmarina i den svenska avdelningen till
+eppa godstransfer,
+- Vi tror på 1700-tals-mystikern Swe-
+denborgs Lirn, såger Årne Weise.
+Av OISIN CANTWELL
+I USA. England och Sydfriska har "Nya kyrkan" som grundades 1781 i London - sammanlagt 20 000 medlemmar.
+Men i Sverige är sekken nyligen helt skänd.
+Den här ett 50-tal medlemmar - och det är bara ett önsk av dödsen som vrigg mäddar
+samhället till godstjänster in den egna kyrkan Stockholm lösmedad!
+Arne Weise, 63, har varit med i sektion i hela sitt. Här mamma tve- Swedenborgs-
+re, han får digp och konfrunrund I Emanuelling:
+- Men jag är inte aktivt medmam. Jag jobb-ar helt enklare för nyckel, säger han till HIMJ.
+Sekken är inspirerad av Emanuel Sweden-
+berg, känt vetenskapssmen och mystiker som leved på 1790-talet.
+- Han är ett mycket synat-påklikar möjliggör
+med en vällig human inställning Till nästlek-liga svaghet!
+INGET HOPP FÖR ONDA MÄNNISKOR
+Sekten tror in i hänlden eller bekväma på samma sätt som kristendomen. God! och oda mättnakas kommer till alla platsler,
+men de förtaltert så leva på samma satt som de gärde under det finns livet.
+- En osammanbok för att röra ut, varv.
+Men han eller hon skulle ju ändå inte finna sig till mig i hinken. Han kör ju med att
+supsa och hora eller vad han nu har gjort.
+Ihänd stiger Arne Weise, kninner han en orbehind närbast till ett brygge visu-
+- Det kan vara på avanserat I Konya är smäkningar mott. Fler nr jag tror om du väd min
+commantmorgon.Det är svårt att förlora kans-kun, men den är måligh.
+Arne Weise säger att han ibland varit trekt som lät att behöva lära för erg.
+Men enligt livens gud rör vi ut i det orgeln livs och pekarna står eller kitidr i sitt.
+Sveinbeng är en del af de mest kända svenskare bor havand tuggt i Sverige näst- tan bara nom vetenskapssmen. man utom-
+fands även kompensationsillen - ett allts ingåning från natt av et andet — har inspirerat många filmvärde fortfarande som
+Strindberg och Holzke.
+[REDACTED]
+
+============================================================
+Completed : 2026-03-04 01:56:40
+Pages     : 4  (errors: 0)
+Total time: 142.4 minutes

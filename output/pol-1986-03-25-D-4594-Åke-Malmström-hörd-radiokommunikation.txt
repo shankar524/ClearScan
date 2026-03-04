@@ -1,0 +1,504 @@
+OCR OUTPUT: pol-1986-03-25-D-4594-Åke-Malmström-hörd-radiokommunikation.pdf
+Model    : Qwen3-VL-2B (Q4_K_M GGUF)
+Started  : 2026-03-04 00:59:09
+Settings : ctx=4096, temp=0.7, presence_penalty=1.5, jinja=ON, no_think=ON, max_size=1120px
+============================================================
+
+--- PAGE 1/15  [149.5s | ENHANCED | c=44] ---
+Stockholm
+02 Arbetsslag
+KK 1
+03 Uppgångsplatser för samman
+epa B. Enberg
+4115
+04 telefon
+06 datum
+86-07-25
+11:30
+10 Drömt med vilket uppgångslogor för samman
+11 Spanningsuppslagen (format)
+vid person-
+lgr besked.
+pär telefons
+F--0ri-män-deg -mrt
+12 Uppgångsmarrens efternamn och alla (Ornam f r till följd, tillsattnas namn) 19 Årbeslaget (arbetsvare, postadress och telefon kretsen)
+Str
+Jagens nyheter
+738 10.85
+14 Postadress (utdeladssedress och ortskodess), telefon bestoden
+16 Månadsbok för rodnings av person, fordon, gods, ekstolassning etc med angivande av tid-
+till- plats
+Mäntlantkt radiofaktik.
+18 Isack (amöckanerätt bånd person: ryka, namn, lödetallid, boas, talar och orsakshavard - åldre persons kun, fildet, signalement och Mikaela -
+berör lerdens reglar, fabriks, typ, årsmodell, lägg in m i samlm annu görs med noggrann beskrivningen. Däretter övriga gaskupplar till av användning av ev hällpunkter för lidor platsen samt bedömning av uppgångsfärlons trecklighet et cetera: eller ruckolapsarkvarran)
+Ul upperat att han kvällon den 28x
+28/2-86 kl. 23.35 lysande på sin polis-
+radio.
+Ul kunde vid ovan nämnda tidpunkt höra två manspersonor samtala på ovanska
+onl, nodan.
+-Halla där uppge hur Er det.
+-Det är för djärligt knilt.
+-Stationsinstitern mördad:
+U l reagerade särkbit på att männen som talnde i radion ej använde sig av något anrop vilket polison vanligvis gör.
+Motsatika ul. for narnave wtr. Fördes samt,
+exakt på polisen frekvent-
+19 Ovningtsende uppslag
+21
+kan ankryta till utsigor nr
+23 Angerad tildelst
+I datum I signatur
+Forts-Blad
+Tegl dnr
+860325/747
+Spanningscher
+Biljepanschetsar Registrator
+Signaler.
+KIVO
+21 Tillskottet: (börja) datum
+(2)
+till spaningsochofen pärn (r n r i lldJ inom avsamt)
+Med felo frijer ogngrannas erav
+Hyrh. 9.85 7S
+
+--- PAGE 2/15  [264.6s | ENHANCED | c=58] ---
+01 Förlägning (där uppgågot motlagt)  
+stockholms pd
+876-23495
+spaningrupsplag
+i grövre brottet
+Kring Ruttig
+4109
+10 Brätt med villat uppdrag för samman
+Hordet på stcsminister Olev Palme
+C viden person-
+per brev
+(1)Uppgångsdatum
+14.30
+13 Yrktillhet
+14 Fotografi [arbetsskolor, postadress och telefon (arbete)
+15 Dagens Nyheter 08:738 10 85
+16 Uppsgel ager person
+godskan
+18 Händelse (ort närlicning av pperson, förtid, goda, positivt sanning o ch med enrigande av id- 
+19 lask (arnimfik i kund persen yrra; namn, lokalaostad, bestod, telfon och arsögkvare) - pa hordet persons inl. alder, signalement och klädsal-
+beird fordringar ingo, teckni, bp, drnodkllig, läga m m samnt gods med reggorbeting: Därhier stviga salugatjuller mod anglande av
+av hjallpunkter för ildor och plattas saml bedömning av uppgiftsamtnurs provrdhet o ch or spilt- eller narkolikspverdara
+Detta uppdrag har ankyrning till d 4594.
+-arbetare arbeta fotografi på dagens nyheter. Fredagen den 28 februari 1986 
+Klockan 23,30 - 25,35 lämnade han restaurang Tennestopet i högmut Dalagatan/odorgata
+förs att gå til lll som var parkerad på dalagatan via Eastministeriet,
+88 fort hon hade natt sig å blien kopplade hon på sin poliradio. På hordet han
+- Hälla där uppe, hur är det.
+-"Btsmiministrorn mörda."
+Detta samtals utropades mellan tvä manpersensar som talade riksvenska helt utan
+dialekt och brytning. Han både östernas mycket klart. Den som påbjudare sattlade talalet mer tygligt än den som var ovanad att det var kallt.
+fick intyckat att den som påbjudrade samtal befamt sig på en platu heft utan bakgrundslud,
+medan den som avvande kanske hade något lät tot takkungel, 
+har on sjljtvokände polisradio, som stannar när den reagerar för ett
+samtal, han har vid senare samtals med arbetsbekomstator om 1r radioekuniga kommit
+från till att sattade kan ha utpelet sig på kanul 72, rikskonlan. Under färsen
+hom til 83tta, hörde ingen mer radiofunktion varken från poli eller
+amblyans. Det förekom inga radiodloplin davs han hdöra inna amroopsignaler och
+"krätt alut' när ordvikning var avsluta.
+Underkock som inte Er radokunnig har bettt att skrivor nor on redgjare,
+lne ang., radion, dess kankar punit kristallat, kommer att sckonas till mig 
+omgående
+tycker själv att det är egendommigt att han into hörde någon
+mer radiofunktion under kvällen. Raddan har följande kanalier: 1. Radinge 2. Anv-
+llans 3. Tfrik 004. Kanal 40 radar 5. Kanal 50 traflrak6. Kanal 708.
+Kanal 08 Stockholm 9- laval 72 riktkanl. 10. Brandkänken,
+hade undar tvållen på förstet opndast omdat frukit on till, och han var späkt
+rycketz. Aledningen till att han fust den 25 mars ringde in silt tips, borner paa
+att han hade haft mycket arbete i samband med norden och attthan även var tuong en 
+att Åka til London for ett fotografera för tändingen.
+avslutar förbätret med att han tidigare har fått in radiotrafik som han
+inte borte ha fått. Dan har vid flera tillfällen blivit stårt av taxis radio.
+Förhnet evolutat klockan 15,10
+19 Ovanslände uppstag
+kan avgynas till uppgag nr
+21
+anknyter till uppslag nr
+23 Anordet tilldelat
+O dämon
+78-142S
+Ex: 2: till spaningsochens pärn (i) mrfjla inom avenits)
+[REDACTED]
+[?]
+D A E S T D R I M F L A N G C H J P K R Y Z B U X T V W R L Q L R T S M E A D I n o r t i k l e h u s b g c j O
+Förslag bland:
+059618
+blir spänningschef
+registrator
+sigurar
+signatur
+37- dämon
+45 2. -dämon
+spänningsskifte datum
+Sjöfärtsvistnare skrivet som försvarande, varm och vattenrättad.
+[REDACTED]
+[?]
+A: C H J P K R Y Z B U X T V W R L Q S M E A D I n o r t i k l e h u s b g c j O
+D : S G N F P K R Y Z B U X T V W R L Q S M E A D I n o r t i k l e h u s b g c j O
+Pärla 2018
+Hålls på första avslutning (vår)
+
+--- PAGE 3/15  [95.9s | ENHANCED | c=28] ---
+01 Polisförsälj
+Stockholm På
+02 Albässchen!
+Kp 1
+03 Uppgåtst(?) av:
+talation"
+C I: Porträtt,
+I Upplättnämna (etternamn och förnamn)
+- Läsningblad
+05
+08
+UttarHsdatum
+Pönadsprei Promemoria
+10 | pt.
+Sedan undertecknad 87 05 14 hörde [REDACTED] har jag vid ett flertal till-
+fullen stuk honom för att få en klutnet i nur hans radio och kristaller
+fungerade. [REDACTED] har inte hört av sig, och jeg tar detta som an intakt
+på att han komme aldrig har ahört det samtal som han har relaterat i förhör:
+et. Det verkar egendomligt att em person som arbetar på en tånning inte omed-
+elbart sätter sig I förbindelse dels med sin tidning och deis mad polis. Bet
+ärjör os 25 dagor innan han underrättar polis.
+Ex: 2: Till spaningschefens pärn (f nr-6ljd inom avsnitt)
+BPS 48313
+
+--- PAGE 4/15  [112.3s | ENHANCED | c=53] ---
+TILL HANS ÖLVEBRO
+Betr. Programmet om Palmeutredningen i TV 3.
+Jag, [REDACTED], fotograf på DN, måste protestera mot de uppgifter du framförde i programmet. De är helt felaktiga. Mina ikktagelser och vittnesmål är enligt följande:
+1. Dagen efter mordet anmälde jag vad jag hört per det tipstelefonnummer som fanns. En: kvinna tog emot vittnesmålet.
+2. Efter ett (1) år blev jag uppkladd till Polishuset.
+Där talade en manlig polis om att min amman nyligen hittats i ett lätt rum!! Han bød om ursäkt för dröjsmålet!
+Vid detta samtal berättade jag åter vad jag hör ut över polisradion. Jag tilltalande också att sama bil med radion stod utanför på gatan. Han var inte intresserad av att se den,
+3. Efter detta har ingen någonsin kontaktat mig.
+De uppgifter du gav i söndagens TV 3-program är renägner
+vad gäller att jag vägrat inställa mig för nya färhör.
+Jag har aldrig blivit kallad! Jag happas att alla andra uppgifter betr andras vittnesmål inte är lika lugnaktiga.
+Jag vill inte bli utpekad som vittnesvägare och begår en förlkaring, varför du så fel beskriver mitt vittnesmål. Allt jag sagt finns för övrigt inspelat på TV 3.
+Tacksam för en reaktion!".
+Stockholm den 16 februari 1995
+PS. Jag har fortfarande radion i min ägo. DS
+[REDACTED]
+2-3-95 H&D
+
+--- PAGE 5/15  [125.9s | ENHANCED | c=54] ---
+95-02-16 13:54 TO:6505260
+FROM:RPS! JOURCENTRAL
+46 B 6528818 S.1/1
+D 4594 -B
+De:
+41 /78-95
+95-02-1 6
+RIKSKRIMINALPOLISEN
+TILL HANS OLVEBRÖ
+Betr. Programmet am Palmeutredningen i TV 3.
+Jag, [REDACTED], fotograf på DN, måste protestera mot de uppgifter du framförde i programmet. De är helt felaktiga. Mina ikktagelser och vittnesmål är enligt füljande:
+1. Dagen efter mordet anmälde jag vad jag hört per det tipstелефonnummer som fanns. En:kvinnan tog emot vittnesmålet.
+2. Efter att (1) år blev jag uppkallad till Felishuset,
+Där talade en manlig polis om ät min annulän nyligen hittats
+i ett läst rum!! Han bød om ursäkt för dröjsmålet!
+Vid detta samtal berättade jag åter vad jag hört över
+polisradion, Jag tilllade också att samma bil med radion stod utanför på gatan. Han var inte intresserad av att se den,
+3. Efter detta har ingen någonsin kontaktat mig.
+De uppgifter du gav i söndagens TV-3-program är rena lögner
+vad güler att jag vägrat inställa mig får nya färhur,
+Jag har aldrig blivit kallad!?
+Ygg: hoppas att alla andra uppgifter betr andras vittnesmål
+inte år lika lägaktiga,
+Jag vill inte bli utpekad som vittnensvägrare och begår en förklaring, varför du så fel beskriver mitt vittnesmål.
+Allt jag sagt finns för tvärgt inspelat på TV 3.
+Tacksom för en reaktion!
+Stockholm den 14 februari 1995
+PS. Jag har fortfarande radion i min ägo. DS
+
+--- PAGE 6/15  [122.6s | ENHANCED | c=50] ---
+RIKSKRIMINALEN
+RKP-A
+Avsnitt       Löpande nr
+D           4S94-C
+Protokoll fört vid förhör med förtidspen-
+nären och frilansfotografen
+Har arbetet under bostadsadressen.
+Förhöret hålet i RKP-A:s lokaler, Polhemsg
+30, Stockholm, tisdagen den 14 mars 1995
+med början kl. 14.20.
+Förhörsledare: krins Jan-Åke Andersson.
+har innan förhört underrättats om att han ska höras
+kompletterande över de uppgifter han lämnat till polisen, dels den 25
+mars 1986 samt i förhör den 14 maj 1987.
+Innan förhöret har [REDACTED] fått uppgiften från dessa datum
+upplästa för sig.
+Inledningsvis så tillfrågas [REDACTED] om när han satte på radion i bilen och han
+upper går därvid att han gjorde detta omedelbart då han steg in i denna och
+innan det att han startade bilen. Han uppger i det sammanhanget att man
+måste vrida på radion för att fa den ingång. Således går den inte igång via
+bilens tändningssystem.
+[REDACTED] uppger också att innan han ens hade hunnit att starta bilen,
+så kom den tidigare i förhör relaterade radiokonversationen över tre
+meningar. Han uppger att han inte hade hört något anrop i samband med
+denna kommunikation och inte hellre hörde han i övrigt någon s.k. radio-
+disiplin mellan den som sånde respektive svarade.
+Under det att han stod stilla vid trottoarkanten, kom han inte att höra något
+yttreligare över sin s.k. polisradio, utan han startade bilen och äkte till
+bostaden i Skärholmen. Han hörde under färd en inget ytteliggare
+[?]-95-Heo P.K
+
+--- PAGE 7/15  [143.1s | CLEAN | c=61] ---
+komunikation på nämnda radio. Färden till bostaden uppskattar har tagit femton till tjugo minuter. Under hela denna tid hade han sin radio påslagen.
+Som ovan nämnts så hörde han ingen ytterligare kommunikation över huvud taget på polisradion. uppger i det här sammanhanget att han uppfattade det som konstigt att han inte höre någon ytterligare kommunikation. Han hade vid denna tidpunkten inte själv hört talas om mordet på Olof Palme och det var först efter det att han kommit hem och varit hemma en stund som han blev upprungd från sin arbetsgivare, vilken då var Dagens Nyheter, som han informerades om mordet. Därefter fick han åka in till tidenning för att att jobba i samband därmed.
+I förhöret som är hållnet med honom 14 maj 1987 finns en uppgift som säger att han vid senare samtal med arbetskamrater som är radiokunniga, kommit fram till att det samtal han avhört på polisradion kunde ha eller troligen har kommit på kanal 72, vilken benämns rikskanalen.
+har i dag ingen säker uppfattning om just denna specifika uppgift, men uppper att han efter det inträffade kom att tala med arbetskratrar och att han då fick uppgiftern om man kan så att säga överhöra samtal från olika radiokommunikationer om man är tillräckligt nära den som sänder respektive svar vid en sådan. Det är så [?] har uppgett det, att hans kollegor beskrev situationen för honom när han ställde frågan till dem hur han hade kunnat höra något som han kom att göra.
+har i dag inget säkert minne av att han skulle ha fått svaret att kommunikationen troligen hade ägt rum på kanal 72.
+Han tillfrågas också om han kom att titta på sin polisradio, vilken är försedd med toa kanaler, huvudida det samtal han avhört kom att registreras på någon av dessa förutbestämda kanaler. Han uppper att han aldrig kom att på titta på den och bl.a har det sin förklaring i att han var tvungen att böja sig ner och kontrollera extra för att kunna se detta. säger att han helt enkelt inte kom att tanka på det vid det här tillfället.
+Av den anledningen så kan han av naturliga skil inte svara på huruvida det avhörda samtalaet kom på någon av de för radion föroprogrammerade kanaclerna.
+[REDACTED]
+[?]
+[REDACTED]
+
+--- PAGE 8/15  [155.4s | CLEAN | c=66] ---
+Vidare uppper på fråga därom att han, när han nyttjade sig av denna polisradio under stund om kom att höra även annan radiotrafik än den för vilken radion var programmerad. Det gällde bl.a. taxi och vid vissa tillfällen även samtal över mobiltelefon. Sämst uppflattar det senare, så var det inte enbart ett nära avstånd till den som fördre et sädant samtal som gjorde att man uppfattade sådan kommunikation, utan på något sätt måste man också förhålla sig i viss vinkel till den telefon/kommunikationsapparat man då kom att höra samlatet från.
+Beträffande uppgiften om att hans först lämnade uppgift den 25 mars 1986, sä är det uppfattning, än i dag, att han kom att lämna denna uppgift tidigare. Hans egen minnesbild av när han lämnade uppgiften, är att det kan ha varit på söndagen efter mordet eller senast en veckan som följde därpå. Han upper i det här sammanhanget att han kan tala med arbetskamrater från denna tid för att den vägen få fram tippunkter för lämnandet av uppgifter.
+Han tillfragas också om den uppgift som har noterats från förhöret den 14 maj 1987 om att han skulle skicka in en skriftlig redgörelse för hur hans polisradio fungerade. Uppper, upp sårar är att han inte har något minne av att han ombads eller uppmänades att göra detta. Han säger det detta sammanhang, att var det så att han hade ombatts ett göran en sådan sak, så skulle han självfallet ha gjort detta och även skickat in det med det snaraste. Även uppgiften om att han skulle ha försökt nå via kallelse, antingen skriftligt eller muntligt, förnek [?] att han tagit del av. Han säger sig aldrig ha erhållit någon uppgift om att polisen har velat komma i kontakt med honom. I vart fall är det ingen uppgift som har rätt fram till honom själv, varken skriftligt eller per telefon. Åven i denna del uppger [] att skulle så ha varit fallet, så skulle han självklart, omedelbart ha ställt upp.
+Uppper också att han själv inte är speciellt tekniskt kunnig beträffande sin polisradio, men att han har fått berättat för sig att man bör befinna sig geografiskt nära den som sänder och även svarar på radioanrop för att denna ska höras i hans radio. Han vet ej hur långt ett sådant avstånd ska vara, men uppskattar det att kan röra sig om någon kilometer kanske.
+Uppgiften om de olika-kanalerna och vad dessa står för, vilka finns nedtecknade i förhöret från den 14 maj 1987, säger sig inte känna igen. Han vart att han kunde ta emot radiotrafik från polisen,
+[REDACTED]
+
+--- PAGE 9/15  [104.0s | ENHANCED | c=46] ---
+brandkår och ambulans bl.a men vad de olika kanalerna såsom de finns beskrivna i förhöret representerade hade han ingen egen uppfattning om:
+Såsom [REDACTED] kan förstå detta, måste uppgifterna inhämtats någon annanstans ifrån, men inte från honom själv. I vart fall har han i dag inget som helst minne av att han skulle ha lämnat dessa uppgifter.
+I samband med dagens förhör, så överlämnar [REDACTED] den polisradio som var aktuell vid den år tiden och som fortfarande ska ha samma inställningar som den då hade. [REDACTED] gör detta för att låta polisens radioverkstad själ undersöka radion och dessa tekniska funktioner och vilka kanaler den eventuellt tar emot.
+Förhöret indiketerat från fördra konceptanteckningar och i närvaro av [REDACTED] och jag frågar dig direkt[? ] om förhöret är rätt återgivet såsom du har berättet det för mej?
+Å: Svar ja.
+F: Önskar du få bandet återuppspelat för dej?
+Å: Nej.
+Förhöret avslutad kl. 15.14.
+Stockholm som ovan
+Jan-Ake Andersson, krisp
+Utskriftsdatum 950316/GT
+
+--- PAGE 10/15  [193.9s | ENHANCED | c=55] ---
+VILLO spår om Flammerordet
+har lagts ut av oväxta krafter - ingen ska
+här att RKKs men polisen har ju sina
+spanningar -- i syfte ett masskreditera
+våra myndigheter. Allmänheten vannas.
+Trä inte ett vittnen på dylika skrorn, om
+ni stöter på dem!
+Några exempel:
+SKÄNSKA lantbrukare,
+vars dotter kände en 33-åring, sa några
+dagar för mordet till grannfamilj: "Påre
+söndag är Palme dd". Fornnekade det senare.
+JUGO slav uppgiv i jan 1896 vid
+besök hos socialborgarraden Inger Uov-
+i Stadshuset att han av en bekant
+rikknik f d legosolid hade erbjudits
+gaxon miljon för att mörda Palme.
+Hiten fick vilda upp det Säpochef som
+är morder sa at uppgiftt kom efter
+mordet.
+ASSE L, berättade på mor- 
+dades morgon for en viss Janna pe ett k
+Göteborg att han tillslags hälla sig
+an från Stockholm några dagar
+Gerför att där skolle händer något
+"Jättestort". Han visade upp det samma
+morgen utgivna till blända "Kultur-
+nytt", som har var redaktör för,
+Det innehåll en satrisk berättelse om
+"Lelle Olei" som efter en statsskup är
+en pistol riktad met sig av sin polischef
+och sägt: "Mig kan ni väl inte sjukat!"
+FEM timmar före mordet urname-
+ras Palmes s k Harvardsråde från
+länssträten dator i Stockholm. Efter
+förför med fem av 270 inställda anser
+polisen det klarlagt att Inget samband finns med mordet.
+En kvinnlig jurist på länsrätten säger i
+mordutredningen att hon samma kväll
+blilade med en manlig bekant i dennes
+"Vita Voivod" till en speltkub på Mark-
+vardsgatan. Bekaningsen säger tvättom
+att de åkte kommunalt men till spotklub-
+ben Oxen först.
+OXEN delgäran Sigge C säger
+att han på Luntmakargarten, nära kors-
+En kurios Sö 1064-9715
+men inte ovanlig hållning
+folk som lever på brotts-
+skolan - krimerologer bru-
+de kallas - är att p斯塔,
+den företeelse som ger
+dem deras bärging egent-
+ligen är av obetydligt omfatte-
+"ne framför allt att den
+kar.
+in tillfört brrott annmås
+Äk, det enligt domna tanke-
+skola, bero på att "samli-
+ningsbeangenheten", ökar,
+inte brottsligheten.
+Den frömma sängen ju-
+der stark och troviss till den
+VITTENSMÅL PÅ VIDEO
+- Lät incensmistänka föräldrar se sitt barns vittensmål
+på video. Det skulle leda till fler erkännandet och därmed
+större möjlighet att rehabilitera de incesttalade.
+Det anser familjärutsexperter Fanny Waldenström.
+Hennes förslag kan bli verklighet inom några år.
+Justiteminister Lailla Freivald tillsatte nyligen en utred-
+ning som ska se över åkargarverksamheten och förundersök-
+ningsreglering. I direktiven till utredarna heter det bland
+annat att vidocupptagningar kanske kan vara en möjlig väg
+att "åstadkomma ett säkrare underlag för rättsens avgöran-
+OM det verkliga är så
+att brottsligheten är låg och
+stabil är känsla Brotsförebyggande radet inte fullt samlhällsnödvändigt, som
+dess lönylyftare tror.
+FÄST er alltsa inte vid sadana
+uppenbara vilsopar. Ur polisens synvinkel är det uppenbar i vilospar.
+Ingenting i Palmenordet tyder med andra ord på en SammanSveriging!
+
+--- PAGE 11/15  [124.9s | ENHANCED | c=36] ---
+Rikspolisstyrelsen
+RKPA-A
+Krinsp Jan-Åke Andersson, ankn, 9173
+Datum
+1995-03-15
+D4S-94-2
+Dirfent(äberpas vid korresp)
+K 23.037-86
+Er referens
+K Westerlund
+O: 2.90-95
+95 -03-15
+RIKSMALEHJÄLLEN
+Polismyndigheten i Stockholm län
+Radioverkstaden
+Enligt tidigare överenskomelse per telefon överlämnas en s.k. polisradio av fabrikat Commander FM Scanner 317 för teknisk undersökning.
+Enligt innehavaren har den inte undergått några förändringar från den 1986-02-28. Av tidigare erhållna uppgifter framgår vidare, att den ska ha varit programmerad på 10 "kanaler" enligt nedan.
+Kanal 1: Huddinge
+" 2: Ambulans
+" 3: Trafik 00
+" 4: Kanal 40 radar
+" 5: Kanal 50 trafik
+" 6: Kanal 62
+" 7: Kanal 70
+" 8: Kanal 08 Stockholm
+" 9: Kanal 72 Rikskanal
+" 10: Brandkåren
+Uppgifter gör vidare gällande, att radiokommunikationen troligen ska ha skett på kanal 72, den s.k. rikskanalen. Detta är dock bara ett antagande, då det inte har iakttagits visuellt.
+Det hemställs om ett skriftligt utlåtande om de uppgifter, vilka kommer ut av den tekniska undersökningen.
+Stockholm som ovan
+Jan-Åke Andersson
+Krinsp
+Postadress:
+Box 122 86
+5-102 2S STOCKHOLM
+Telefon: Växel 08-769 70 00
+Direktval 08-769 ... 08.......... 19872 RPS STH S
+[REDACTED]
+[?]
+[?]
+
+--- PAGE 12/15  [91.3s | ENHANCED | c=29] ---
+Polismyndigheten
+i Stockholms Län
+Förvaltningsavdelningen
+Dataenheter/Radiogruppen
+Kenneth Westerlund 769 32 56
+D4S3Y-3
+Datum
+1995-03-21
+K23.037-86
+Er referens:
+Krinsp Jan-Ake Andersson
+Rikspolitstrelsen
+RKPA-
+Teknisk undersökning av polisscannermottagare
+Teknisk undersökning har utforts på nämnda polismottagar.
+Bifogar mätprotokoll på måttingarna.
+Mvh
+Kenneth Westerlund
+23/95 Håll
+Postadress: Box 125 10
+102 29 STOCKHOLM
+Göteborgs:
+Agnegatan 33-37
+Telefon: växel 08-769 32 62
+Telfax: 08-769 58 93
+
+--- PAGE 13/15  [243.2s | CLEAN | c=69] ---
+Beskrivning av polisscanner K 23.037-86
+Fabrikat: Commander modell 317
+Serienr: 670883
+Mottagaren täcker 76-82 MHz och 407-413 MHz.
+Polisscannern har 10 st LED-lampor för att indikera kanal.
+Vid mottagningen på UHF-bandet (407-413 MHz), lyser även en extra lampa (U) för att indikera band.Då lyser även någon av de andra 10 lamporna samtidigt.
+Frekvenser bestäms av kristaller för varje kanal. På UHF-bandet är endast 6 kanaler bestyckade.
+Mottagaremtningar 80MHz-bandet
+Känslighet: 0,2μV(12 dB SINAD).
+Spegelfrekvensundertryckning:>69 dB.
+Bandbredd:12,9 kHz
+Kanal Frekvena(normal)   Frekvens/känslighet (ej normala frekvenser)
+1      79,0625 MHz         26,354MHz/99,31μV; 79,970MHz/368μV
+2      78,9125 MHz         26,304MHz/117,V; 79,820MHz/375μV
+3      79,0125 MHz        26,338MHz/122,V; 79,920MHz/417μV
+4      79,5125 MHz       26,504MHz/100,5μV; 80,421MHz/442μV
+5      79,6375 MHz       26,546MHz/115,V; 80,546MHz/439μV
+6      79,7875 MHz     26,596MHz/102,U; 80,695MHz/459μV
+7      79,8875 MHz   26,629MHz/104,U; 80,794MHz/481μV
+8      79,1125 MHz    26,371MHz/102,M; 80,020MHz/406μV
+9      79,9125 MHz    26,637MHz/122,V; 80,820MHz/484μV
+10     78,4375 MHz    26,145MHz/123,V; 79,345MHz/407μV
+Mottagaremtningar 400 MHz-bandet
+Känslighet:0,5μV(12 dB SINAD).
+Spegelfrekvensundertryckning:5 dB (mycket dåligt).
+Bandbredd:14,6 kHz.
+Kanal Frekvena(normal)   Frekvens/känslighet(ej normala frekvenser)
+3      410,850 MHz         390,450MHz/0,76μV
+4      410,350 MHz        388,950MHz/0,81μV
+5      412,450 MHz       391,050MHz/0,50μV; 407,100MHz/275μV
+6      412,050 MHz     390,650MHz/0,68μV
+7      412,950 MHz    389,550MHz/0,86μV
+8      410,950 MHz   388,650MHz/1,30μV; 454,418MHz/35,4μV
+Sammanfattning
+Mätningarna utfördes genom att svepa varje kanal mellan 26-470 MHz med 500μV tills signal hördes i högталaren.
+Känsligheten är angiven i μ V vid 12 dB SINAD.
+Normal känslighet är ca 0,5μV.
+80MHz-delen tog emot signaler på 26,145-26,637 MHz,vilket ligger nära Privatradiobandet.Det är barbara apparater med långa teleskop-antemner.Med en lämplig kristall kan en sådan fungera i det nämnda bandet och på några avstånd horas i polisscannern. PR-bandet ligger på 26,965-27,405kHz,Mellan 26,100-26,958MHz är reserverat till företag med prov & demonstrationstillstånd.
+400MHz-delen hade dålig spegelfrekvensundertryckning,så
+388,650-391,050 MHz hördes nästan lika bra som originalfrekvenser.
+454,418MHz ligger inom NMT450-systemets frekvenser(biltelefonens sändningsfrekvens).
+Om radiokommunikationen har hörts på kanal 9,sår följande frekvens aktuell:
+79,9125 MHz Normala frekvensen
+26,637 MHz
+80,820 MHz Då krävs det starka radiosignaler (korta avstånd)
+
+--- PAGE 14/15  [76.9s | ENHANCED | c=26] ---
+410,050 MHz Om mottagaren var inställd på UHF-bandet
+388,650 MHz Spegelfrekvens av 410,050 Mhz
+454,418 MHz Inom NMT450.
+Det är även möjligt att andra frekvenser kan höras i polismottagaren
+om flera starka sändare som sänder samtidigt blandas i
+mottagaren eller blandning i någon av sändarna.
+
+--- PAGE 15/15  [76.8s | ENHANCED | c=47] ---
+KVITTENS
+Härmed erkännes mottagandet av den kommunikationsradio/polisscanner, vilken lämnades till polisen för teknisk undersökning i samband med förhör den 1995-03-14.
+Stockholm den / 1995
+Återlämnad av krinsp Jan-Åke Andersson
+DYS94-y
+[?]
+28/95 HAD
+P.K
+
+============================================================
+Completed : 2026-03-04 01:33:50
+Pages     : 15  (errors: 0)
+Total time: 119.5 minutes

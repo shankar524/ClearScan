@@ -1,0 +1,964 @@
+OCR OUTPUT: pol-1986-03-04-L854-Anja-Landgree-Inga-Ålenius.pdf
+Model    : Qwen3-VL-2B (Q4_K_M GGUF)
+Started  : 2026-03-03 23:54:08
+Settings : ctx=4096, temp=0.7, presence_penalty=1.5, jinja=ON, no_think=ON, max_size=1120px
+============================================================
+
+--- PAGE 1/29  [142.5s | ENHANCED | c=44] ---
+01 Polisdistrikt (där uppslaget mottagits)
+Stockholm
+02 Arbetssnhet
+KK 1
+03 Uppgiftsmottagare
+04 telefon
+Epa Stefan Carp
+05 datum 06 klockan
+1986-03-04 19.30
+07 Avsnitt
+08 L�pande nr
+L
+09 Plats för f���rtstumpel
+10 Brott med vilket uppgaget hör samman
+Mordet på Palme
+11 Spaningsuppslagen lämnat
+vid person-
+ligt besök
+per telefon
+[ F-djr [mån] -dag ]-nr
+12 Uppgiftslämnarnas offentligen och alla förmåna (i rätt foljd, tilltalsnamnet markeras)
+langré, Anja.
+13 Yrke/titel
+14 Postadress (udelningsaddress och ortsadress), telefon bostaden
+15 Arbetsplats (arbetsgivare, postadress och telefon arbetet)
+Riktastern
+16 Uppgaget avser
+misstänkt
+person
+fordon
+gods
+17 Händelse (kort rubricering t ex laktagelse av person, fordon, gods, skotflössning etc med angivande av tid
+och plats}
+18 I sak. (antekna först k�nd persons yrke, namn, f��sodset, bostad, telefon och arbetsgivare - eckd persons kon, ���der, signalament och kladdsl- 
+borden fordseln reg nr, fabrikat, typ, årsmottell, fl\"r m som annat gods med noggrann beskrivning. Dibetter d?riga saluppgifter med angivande ov
+ov hÃ¶lpunkter f\u00f6r l\xdfer och platser samt bedömning av uppgiftslämnarnes trovÄrdighet och ev sprit- eller narkotikapaverkan)
+Langre uppgrav att hon satt snett bakom Palme under föreställningen.
+19 Ovanstaende uppslag
+20 Tagit det: 60304
+Spaningschef
+I Bit rspaningschef Registrator
+signatur Signatur
+21
+ansvare till uppslag nr
+22 Registerat:
+Signatur
+23 Ãrendet tillsk�d
+i datum
+24 Fardgjepearbetal, datera
+25 Svarade
+Med feta linjer avgrÃnssade avsnitt
+styrle ej av uppgiftsmottagaren
+EX 2: Till spaningschelens parm (i nr-toljd inom avsnitt)
+[REDACTED]
+[?]
+[?]
+
+--- PAGE 2/29  [146.8s | ENHANCED | c=48] ---
+01 Polisdistrikt (där uppslaget mollgits)
+02 Stockholm
+03 Arbetsområde
+Kv. 1
+04 telefon
+586908
+14.00
+07 Avisnitt
+08 Lopande nr
+L
+09 Plats för forutssstämpl
+SPANINGSUPPLAG
+i grövre brottmål
+Mord, Olof Palme
+Langrå, Anja
+13 Yrkofacil
+14 Postadress (udelingsadress och orsadsess), telefon postaden
+15 Arbetsplats (arbetsgivare, postadress och (eller arbete)
+Riketatern
+16 Uppslaget avser
+misaktknt
+person
+fordon
+händelse
+( kort rubricering ex lakligpelsa av person, fordon, gods, skattlcsning eto med angivande av tid
+och plats) 
+10 sak. (anlockna törst känd persons yrko, namn, födeldopid, bostad, telefons och arbetsgivare - okänd persons kön, älder, signalement och klädssl-
+berört fordens reg nr, färskhet, typ, årmodell, får m samt annat gods mod noggrann beskrivning. Därefter övriga sakupplager med angivande av
+ev hållpunkter för tider och platser samt bedömning av uppgiftsämarnas trovrdighet och ex spilt- eller narkolikspåverk)
+Langre uppgrav följande:
+Hon besökte biografen Grand och såg samma föreställning som paret
+Palme. Hon noterade att Olof Palme var på biografen när hon kom in i
+salongen. Han satt en eller två bänkrader framför henne.
+Langre kan inte komma ihäg vilket platsnummer hon satt på.
+Hon noterade inget anmärkningsvärt under föreställningen. Hon kan inte
+heller komma ihåg att hon lade märke till någoitannmärkningsvart
+före eller efter föreställningen.
+Efter films slut gick hon Sveavigen mot Kungsgatan för att dår-
+efer gå mot Stureplan. Hon såg inte till paret Palme efter före-
+ställningen.
+19 Ovanstående uppslag
+kan anknyta till uppslag nr
+20 Taglit del
+Spaningschef | Bitr spaningschef | Registrator
+21 
+ankynerat till uppslag nr
+| datum | signatur
+23 Arrendet tilldelat
+| datum | signatur
+24 Fördagsbeskriv else |
+25 Spanningsfels sgnr
+Med feta linjer avgransade avsnitt
+dylis ej av uppgiftsmottagaren
+Ex 2: Till spansingscheffens pärn (i nr-följd inom avsnitt)
+[REDACTED]
+[]
+
+--- PAGE 3/29  [123.5s | ENHANCED | c=60] ---
+01 Polarönskt*
+Stockholm
+02 Arbetssnhet*
+RK A-2
+03 Upprättat(?) av* telefon*
+Krinsp Per Gustavsson
+09 Brott med vikket uppgiften här samman*
+Nordet på Olof Palme
+10 | sak
+SPANINGSUPPSLAG
+i grövre brottmål
+07 Avsnitt
+A
+08 Lopande nr.
+Sid nr. 1
+04 Fortsatt-
+ningslad
+Uppgiftslämnare (ellemanna och formann)
+05
+Förhörsprot
+Promemoria
+88-12-28 EÄ
+Landsgré höres i Palmetredningen.
+Hon informerades vidare om att hon skall höras angående sina eventuella
+ikkttagelser under kvällen den 28 februari 1986 då hon besökte biografen Grand
+på Sveavägen i Stockholm, Ladgré har 860304 per telefon till polisen meddelat
+att hon den aktuella kvällen såg samma föreställning som statsminister Olof
+Palme.
+Landgré berättar att hon kvällen den 28 februari 1986 besökte biografen Grand
+på Sveavägen i Stockholm tillsammans med Inga Ahlenius. . [?] anställd vid
+Vid den här tiden var både hon och Åhlenius anställda vid Riksteatern och hon
+kommer idag inte ihåg ifall man höll på med repetitioner av en pjäs som heter
+"Den goda människan från Sezuan" av Brecht. Landgré minns nu inte säkert ifall
+man ver på turné med den här pjäsen eller om man höll på med repetitioner.
+Repetitionerna hade man i så fall på ABF-huset i Stockholm. ABF-
+huset är belagt i samma fastighet som biografen Grand.
+Akkn: D103/3
+*Ifyls ej am blanketten används som fortsättningsblad.
+Ex 2: Till spaningschefens pärn (i nr-följd inom avsn
+
+--- PAGE 4/29  [154.1s | ENHANCED | c=48] ---
+01 Polisdistrikt
+02 Arbetshet
+03 Upprattat(år) telefon
+SPANINGSUPPLAG
+i grövre brottmål
+04 Fortsätt-
+ningsblad
+Uppgiftslämnare (ellernamn och förnamn)
+07 Avsnitt
+08 Lopande nr
+09 Brott med vilket uppgiften har samman*
+05
+Förhörsprot
+06
+Promemoria
+88-12-28 EÅ
+10 | sak
+Hon säger att det har gått alldeles för lång tid för att hon säkert skall komma ihåg hur det egentligen förfölll sig på kvällen den 28 februari 1986. Om det var så att man hällt på med repetitioner i ABH-huset så höll inte dom på så länge som till klockan 21.00 på kvällen, utan de slutade tidigare varför hon hade gått hem till sin bostad på Östermalm och bytt om innan biobesöket.
+Landgre kommer inte håg ifall de hade beställt biljetter i förköp med minns att det var mycket folk vid biografentren när dom kom dit. Det var många olika typer av människor i foajén och hon säger att hon fick uppfattningen att det kunde vara kulturnpersonligheter, journalister m.m. Efter att dom hade köpt biljetter så stannade dom kvar i foajén innan insläpptet. När man sedan öppnade portarna så gick hon och Ählenius in och satte sig på sina platser. Efter en stund så vill hon minnas att hon sāg Palme komma in i biografen och sätta sig på sin plates.
+Vid förhörstiftället får hon titta på en skiss över biosalongen på Grond och hon visar då att han ock Ählenius satt på bänkrad 10 eller 11 och till höger i salongen när man har blicken riktad mot biodukken. Olof och Lisbeth Palme satt snett till vänner några bänkramer framför dom.
+Hon tyckte det var fantastiskt att se statsministern gå på bio en kväll utan livvakter.
+Det kom också fram en medelålders män och hälsade på Olaf Palme når han satt på sin plates inne i biosalongen.
+Landgre minns nu en händelse som inträffade i samband med att hon skulle gå in i biosalongen. Innan biljetterna revs så stod det en kille i kön som liksom verkade nervös och knuffade på personerna i kön. Hon beskriver honom till cirka 30 år, cirka 175 cm lång, ikläd en trängingsöverall samt glasigon. Något närmare signalement på personen kan Landgre inte ge.
+Hon sāg sedan inte till personen inne i biosalongen.
+*Mylls ej om blanketten anvands som forts-ttningsblad
+Ex 2: Till spaningschefens pärn (i nr-följd inom avsn
+
+--- PAGE 5/29  [157.9s | ENHANCED | c=48] ---
+01 Polisiastrikt*
+02 Arbetsenhet
+03 Upptrattade av* telefon*
+SPANINGSUPPSLAG
+i grövre brottmål
+04 Fortsätt-
+ningstid
+Uppgiftslämnare (efternamn och förnamn)
+07 Avsnitt 08 Löpande nr
+09 Bröt med vilkok uppgiften hör samman*
+05 Förmorsprät Promemoria
+88-12-28 EÅ
+10 | sak
+Under själva filmen så händer ingenting som Anja Landgré kommer ihåg.
+När filmen är slut sär hon Lisbeth och Olof Palme gå ut från salongen. Det går ungefärl samtidigt ut därifrån och vidare ut till foajén. Anja Landgré säger att hon känner Palme lite grand och därför tänkte att hon skulle gå fram och prata med honom. I förra ser han dock ett antal människor som verkar vara intresserade av att prata med Olof Palme och bland annat då en kille och tjeg. Hon säger att dessa båda är genska unga människor och hon bestämmer sig då för att inte prata med Olof och Lisbeth Palme. Paret Palme lämnar biografen och går ut på gatan. Anja Landgré går efter och tänder att hon kanske skall gå fram och prata med Olof Palme men ser att det hela tiden kommer fram andra människor som vill tala med honom varför han bestämmer sig för att gå vidare hemmat. När hon kommer ut på Sveavägen viker hon av till höger och går denna gata i riktning söderut.
+Hon och Inga Åhlenius promenerar alltså Sveavägen soderut, och var makarna Palme därefter tog vägen är hon inte riktigt säker på men säger att hon fick en känsla av att de båda gick över Sveavägen i hörn med Tegnérgatan. Hon säger att hon såg aldrig detta utan det var en känsla som hon fick.
+Det sista hon såg av makarna Palme det var att de stod utanför biografentren på Sveavägen.
+Hon och Inga Åhlenius fortsätter promenera sedan efter och tänder att han kanske skall gå fram från Sveavägen och vidare ut mot Birger Jarlsgatan. De stannar upp vid tunnelbanedagungen i hornet Sveavägen/Tunnelgatan och på Sveavägens östra sidan.
+De står en stund på platsen och funderar över ifall de skall gå igenom tunneln som leder från Sveavägen och vidare ut mot Birger Jarlsgatan. Hon minns också det var något byggde på platsen och att det hängde skykken ner från fastig-heten. Eftersom det var fredag kväll och mörkt ute så tycke dom att det var lite otackt att gå genom tunneln varför man beslutade sig för att promenera Sveavägen vidare soderut för att sedan gå ner på Kungsgatan och vidare hem.
+*Hylls ej om blanketten använd som fortsättningsblad
+Ex 2: Till spaningschefens pärm (i nr-följd inom avsn
+
+--- PAGE 6/29  [154.3s | ENHANCED | c=45] ---
+01 Pofadistrikt
+02 Arbetssomhet
+03 Upprättat(d) av* telefon*
+SPANINGSUPPSLAG
+i grövre brottnål
+04 Fortså-
+ningsslöd
+Uppgiftslämnare (elevnamn och förnamn)
+07 Avislnt 08 Lopande nr
+09 Brott med vilket uppgiften hör samman"
+05 Förhörsprot
+06 Promemoria
+88-12-28 EÅ
+De stod väl på platsen ganska kort stund innan dom bestämde sig för att promenera upp mot Kungsgatan. De pratade också en hel del om filmen och Anja säger att när man därefter gått några steq vidare på Sveavägen så härde hon en smäll som hon trodde berodde på att två bilar krockade. Hon minns i alla fall att hon reflekterade över smållnen med att hon liksom inte orkade ta reda på vad det egentligen rörde sig om för någonting, utan de båda gick och resonerade om filmer som hade varit bra.
+Själv har han hörlcken riktad upp mot korsningen Sveavägen/Kungsgatan där det är liv och rörelse. Hon säger att det är mycket folk drupppe och bilar som kör, varför hon mer eller mindre omedvetet bestämmer sig för att smällen förmolldig kom där uppfriån fast hon egentligen inte vet det.
+Dom promenerar sedan vidare Kungsgatan ner mot Stureplan för vidare färd hem till bostaden. Vid den här tiden bodde även Inga Ahlenius på Östermalm varför dom har sällskap i stort sett hela vägen hem.
+Dagen efter den 1 mars 1986 fick Anja reda på att statsminister Olof Palme hade blivit mördad. Det var hennes man som ringde och vacktke henne på morgonen och berättade det hela.
+Kvällen den 28 februari 1986 var Anja förmolldigen klädd i sin svarta kappa. Hon är 161 cm lång. Normal kroppsbyggnad. Cendrrefårgat axellångt här.
+Beträffande promeden från biografen upp mot Tunnelgatan så gick de båda på Sveavägen utefter Adolf Fredriks kyrkogårds. Hon kommer ihag att det var ganska mörkt utefter den här promenadvägen och att det var väldigt lite folk som dom mötte. Hon menar att det var liksom mera liv och rörelse uppe i korsningen av Sveavägen/Kungsgatan.
+Under promaden anupp mot Tunnelgatan så var det liksom ingen människa som utmärkte sig på något sätt. Det finns ingenting under promeden som hon lagt på minnet.
+* Nyliss ej om blanketten används som fortsattningsblad.
+Ex 2: Till spaningschefens pärn (i nr-följd inom avsnitt
+[REDACTED]
+[?]
+
+--- PAGE 7/29  [137.2s | ENHANCED | c=46] ---
+01 Polisdistrikt"
+02 Arbetsnehet"
+03 Upprättad(d): av" telefon"
+SPANINGSUPPSLAG
+i grövre brottmål
+07 Avsatt 08 Lopande nr
+04 Fortsät-
+ningblåd
+Uppgiltstämare (eftermann och förmann)
+05
+Förhörsprot
+Promonoria
+88-12-28 EÅ
+09 Brott med viket uppgiften hor samman'
+10 | sak
+På fråga ifall hon träffat några bekanta kvällen den 28 februari 1986 så på-
+minner sig Anja Landgré att hon på biografen Grand sett en gammal gymnasie--
+kompis som heter [?] Hon kommer ihag att han liksom reflekterade
+över att han var hemma i Sverige. Hon vet inte riktigt var bor och
+säger att det var mera liksom en känsla hon hade att han kanske bodde utomlands
+eftersom han sysslade lite grand med film.
+På direkt fråga till Anja Landgré ifall hon träffat denna
+kväll så säger hon att det minns hon inte, men att det kan vara mycket möjligt.
+Hon säger att det jobbade tillsammans vid den här tiden på Riksteatern, och
+att hon därför inte skulle ha reagerat speciellt över ifall han hade varit på
+bio just den här kvällen. De träffas ju sätt som dagligen. De jobbade vid
+den här tiden i samma uppsättning på teater och repeterade tillsammans, hon
+menar att har man sett honom på dagen så skulle hon inte ha reagerat speciellt
+över att han hade varit på bio senare på kvällen.
+Förhöret övergår nu i konferansform.
+Förhörsledare: F
+Landgré: L
+F: Ja Anja, nu har jag talat in på bandet vad du har berättat, och du har ju
+varit närvarande hela tiden så jag tänkte fråga dig om du vill lysna
+förhöret eller om du kan godkänna det utan att vi behöver spela upp det
+för dej?
+L: Ja, jag kan godkänna det.
+F: Förhöret avslutas klockan 10.40.
+Stockholm som ovan
+Per Gustavsson
+Krisp.
+* flytis ej om blanketten används som fortsättningsblad
+Ex 2: Till spaningschefens pärn (i nr-följd inom avsnl
+[REDACTED]
+[?]
+[?]
+
+--- PAGE 8/29  [146.7s | ENHANCED | c=54] ---
+Stockholm
+02 Arbetsgivar
+RK A-2
+03 Upprättad i arv telefon"
+Krisp Inge Uvemo
+Mordet på Olof Palme
+10 | sak
+SPANINGSUPSLAG
+i grövre brotmmål
+07 Avsnitt 854-1
+L
+04 Försalt: ningsbåd I Uppgiftslämnare (efternamn och förnamn)
+05 Forskortning Promemoria 1989-01-28 EÅ
+09 Brott med vilket uppgiften har samman*
+Här det hörde på sin tillfälliga adress i
+Aleniuss är för närvarande anställd vid Västmanslands Lånsteater i Västeras,
+Förhört hållet i Ålenius bostad i Västeras onsdagen den 25 januari 1989 med början klockan 18.05.
+Förhörsledare: krinsp Inge Uvemo och krinsp Per Gustavsson, RK A-2
+Inga övriga närvarande.
+Bandupptagning.
+Protokoll fört vid förhör med skådespelare Aleniuss, INGA Maria,
+Hon hörer på sin tillfälliga adress i
+Aleniuss är för närvarande anställd vid Västmanslands Lånsteater i Västeras,
+Förhört hållet i Ålenius bostad i Västeras onsdagen den 25 januari 1989 med början klockan 18.05.
+Förhörsledare: krinsp Inge Uvemo och
+krinsp Per Gustavsson, RK A-2
+Inga övriga närvarande.
+Bandupptagning.
+Ingå Aleniuss höres i Palmeutredningen.
+Hon informerades vidare om att hon skall höras angående sina eventuella iakttagelser under kvällen den 20 februari 1986. Vidare att honnes väninna Anja uppgivit att de tillsammans besökt biografen Grand på kvällen den 28 februari 1986.
+Inga Ålenius kallas Inga under förhöret.
+Inga berättar att hon vid den tidpunkten den 28 februari 1986 var engagerad i en teater som hette "den goda människan". Anja var med i samma uppsättning. De repeterade nere i ABF-huset på Sveavägen. Biografen Grand finns in samma fastighet.
+Repetitionen var mellan 10.00 till cirka 17.00.
+* Hylis ej om blanketten används som fortsattningsblad
+Ex 2: Till spaningschefens pärn (i nr-följd inom avsnitt
+[REDACTED]
+[?]
+[?]
+
+--- PAGE 9/29  [157.0s | ENHANCED | c=46] ---
+SPANINGSUPPSLAG
+i grövre brottmål
+07 Avenitt 08 Lopande nr
+04 Fortsätt-
+ningsbld Uppgiftslsamnare (elternamn och förnamn)
+05 Förhorsprot Promemoria
+1989-01-28 EÅ
+>01 Polisdistrikt*  
+02 Arbetshetnet  
+03 Upprätta(d) av* telefon*
+09 Brett med vilket uppgiften hör samman*
+10 sak
+Denna fredag den 28 februari 1986 bestämde sig Inga och Anja de skulle gå och se filmen "Bröderna Mozart" som nu gick på biografen Grand. Detta beslut togs nångång under lunchen. De hade för avsikt att gå och se 19.00-föreställningen men de fick inte tag på några biljetter till den. Det blev då istället 21.00- föreställningen.
+Inga vill minnas att direkt efter repetitionen vid 17.00-tiden slank in på biografen Grand för att då försöka få tag på biljetter till 19.00-föreställningen, men att de då inte fick några sådana utan de fick biljetter till 21.00-föreställningistället.
+Efter det att de fått biljetternas bestämde de sig för att gå ut och äta middag. Inga säger att de gick till en liten restaurang som är belägen på Olofsgatan. De satt och åt och småpratade i cirka två timmar. De lämnade restaurangen ganska lagom för att gå direkt ner till biografen och 21.00-föreställningen.
+Hon tror att det var vid biografen Grand vid 20.30-tiden.
+Då Inga och Anja kommer fram till Grand så ser Inga att det fanns mycket folk både utanför biografen Grand på gångbanan, samt inne i foajén. Hon har dock inget minne ifall det var så att 19.00-föreställningens slutat och att publiken strömmede ut från denna. Hon kommer dock ihåg att de två fick stå i kö inni i foajén för att komma in i biosalongen. Inga som tycker om reklamfilm ville gärna med från bürjan då reklamfilmen startar upp.
+Inga berättar vidare att då hon och Anja stod i kön i foajén för att komme in i salongen så lade Inga märke till en man som stod längst fram i kön. Anledningen till att Inga lade märke till honom var att han liksom inte passade in i miljön. Hon tycker liksom att filmen var gjord för intellektuella människor. Mannen gav intrycket att inte vara en sådan. Inga tycker att det kanske låter fördomsfullt det hon sagt men hennes känsla och uppfattning var sådan då hon säg mannen i kön.
+*Hylls ej om blanketten används som fortsättningsblad*
+Ex 2: Till spaningschefens pärn (i nr-följd inom avsnitt)
+[REDACTED]
+
+--- PAGE 10/29  [157.1s | ENHANCED | c=46] ---
+SPANINGSUPPSLAG
+i grövre brottmål
+07 Avsnitt 08 Lopande nr
+04 Fortsatt-
+ningsslåd
+Uppgiftslämnare (efternamn och förnamn)
+05 Förrahrsot
+Promemoria
+1989-01-28 EÅ
+03 Upprättat(6) är*
+telefon*
+09 Brett med vikot uppgillen hör samman*
+10 i sak
+Då dörrarna till biosalongen öppnades så lämnade mannen som stod längst fram i
+kön sin plats och försvann därifrån. Såvitt Inga kunde se så gick han inte in
+i biosalongen utan han gick mot utgången. Om han sedan lämnade bioografens
+foejé och gick ut på Sveavägen det vet inte Inga. Hon säg honom dock inget mer.
+Mannen beskrives till cirka 185 centimeter lång, 35-40 år, kantige anletsdrag,
+typisk svensk utseende. Han hade en tredagars skaggstubb. Ikläd en ljus-
+färgad täckjacka. Inga kan ej närmare specifisera färger. Hon såg den dock i
+stark belysning. Han bar eventuellt jeans. På huvudet hade han en stickad mössa
+med någon text, okänd färg på mossan, även texten är okänd. Han bar på en plast-
+kasse. Inga vill mena att det nog var en kasse från systembolaget men att den
+inte innehöll någon sprit utan det fanns något ingenting annat i kassen.
+Hannen gav dock ett fräscht intryck.
+Mannen verkade nervös. Han stod även med ryggen mot dörren som vetter in till
+biosalongen och tittade liksom ut över publikens som stod i kö. Detta tyckte
+Inga också var anmärkningsvärt. Det verkade som om han liksom väntade på någon
+eller tittade ut efter någon.
+I detta skede visste vara sig Inga eller Anja om att Olof Palme fanns i bio-
+foején. Olof Palme lade inte inte Inga märke till förän de hade kommit in i salongen
+och kommit fram till sin sittplats.
+Närmare beskrivning av jackan. Det var ingen midjejacka och inget halvlång jacka
+utan en jacka som gick ner till stussten. Jackan saknade ärrmudder. Jackan som
+eventuellt hade dragkedjaa hade den belägen på sidan av centrum på bröstet.
+Alltså inte traditionellt enligt mitt på bröstet.
+Nu vid detta förhörstillfälle förevisas Inga en skiss över Grandbiografsalongen
+där hon säg filmen "Bröderna Mozart".
+Inga pekar ut den plats där hon och Anja eventuellt satt. Hon mener att det
+Ex 2: Till spaningschefens pärn (i nr-följd inom avsnitt
+* Hyllis ej om blanketter används som fortsättningsblad
+
+--- PAGE 11/29  [157.7s | ENHANCED | c=47] ---
++01 Polisdistrikt*
+02 Arbetsenhet
+03 Upprättad (dj) av* telefon*
+SPANINGSUPPSLAG
+i grövre brottmål
+07 Avisnitt 08 Lopande nr
+4 Fortsatt-
+ningssåd
+05 Uppsätslammare (effernann och törnarna)
+06
+Lutskriftsdatum
+Forhorsprot Promemoria 1989-01-28 EÅ
+10 | sak
+nog var rad nio på platserna 161,160 eller 159. Hon säger dock att Anja sparat
+biobiljetten såsom ett minne. Inga kommer dock ihåg att hon satt till vänster
+om Anja, Anja satt alltså till högre om inga.
+Inga och Anja hade suttit en stund och tittat på reklamfilmen då Inga lade
+märke till att Olof Palme med sin hustru Lisbeth Palme kommer in i biosalongen.
+De sätter sig snett till väntare framför Inga och Anja. I detta läge säger Inga
+nägonting liknande, tänk vad fantastiskt att våran statsminister kan gå på en
+bio ensam utan livvakter så här sent en fredagkväll. Därefter tänkte även Inga
+att han medvetet kanske kommer så här sent för att inte vacka ondigt uppmärks-
+samhet. För han gjorde entré precis innan huvudfilmen skulle börja.
+Precis innan huvudfilmen började och belysningen var i det närmaste nederdragen
+i salongen så såg Inga hur en man i 40-45-årsåldern lutade sig fram och viskade
+nägonting till Olof Palme. Det var någon ting som både mannen och Olof Palme
+verkade uppskatta. Inga fick den klara uppfattningen om att mannen och Olof
+Palme var bekanta med varandra.
+Därefter började huvudfilmen och Inga satt och njöt av denna.
+Under filmförställningen hade ingenting speciellt som Inga lagt på minnet.
+Inga och Anja satt och rollistan. Efter det att rollisten rullat ut så började
+även Inga och Anja att gå ut från salongen.
+Såvitt Inga kan förstå så började hon och Anja ungefärd samtidigt som makarna
+palme att lämna sina sittplatser. Då Inga och Anja kommit ut vid kanten vid
+bänkrad nio yttersta kant så hade parét Palme också kommit ut till den kanten
+vid bänkrad åtta. I detta skede mötes liksom Ingas och Olof sedan tidigare. Även
+Inga har stött på Olof Palme i teatersammanhang. Hon vet dock inte hur mycket
+Olof kommer ihåg av henne. Hon menar dock att det hälsade på varandra.
+* Hylls ej om bläkketten använd som fortsättningsblad.
+Ex 2: Till spaningschefens párm (i nr-följd inom avsnitt)
+[REDACTED]
+[?][?]
+
+--- PAGE 12/29  [155.5s | ENHANCED | c=48] ---
+·01 Polisdistrikt*
+02 Arbetsomhet
+03 Upprättat(?) av* telefon"
+SPANINGSUPPSLAG
+i grövre brottmål
+04 Försatt-
+ningsblad
+Uppgiftslämnare (offrenann och förnamn)
+05 06
+Förhårsprot Promemoria 1989-01-28 EÅ
+Sid nr. 5...
+07 Avsnitt 08 Lopande nr
+10 | sak
+Inga och Anja lät paret Palme passera dem och de följde med ut efter dem.
+Olof Palme och Lisbeth lämnade biosalongen före Inga och Anja. Anja sade till Inga ett hon skulle vilja gå fram till Olof Palme och fräg a horon vad han tyckte om filmen. Då såg Inga att en yngre flicka ikläd täckjaka kommit fram till Olof Palme någonstans i jämnhöjd vid biljettkassan och pratade med honom. Det verkade som om den unge flickan argumenterade om någonting med Olof Palme. Det är helt okänt vad som sades. I detta läge då Inga och Anja säg denna unga flicka vara frame och argumentera med Palme så besimde sig Anja för att inte gå fram och besvär A Olaf met på Sveavågen. Palme stod da kvar och samtalade med denna flicka vid den stängda biljettkassan.
+Då de kommit ut på Sveavågen sa vet de inte riktigt var de ska gå. De står och velar någon sekund innan de bestämmer för att gå Sveavägen Söderut på den västra sidan. Strax innan Kammakargatan korser de Sveavägen och går över på Sveavägens östra sida. Därefter promenera de Sveavägen söderut på den östra gånghaban. Detta har anledningen till att de nu korsade Sveavägen och gick söderut på östra sidan.
+Inga tillfrågas om hon lagt märke till någonting speciellt då hon kommit utan- för Grandbiografen och börjat gå upp mot Kammakargatan och sedan korsade Swe-
+vägen. Hon säger att det var mycket folk ute efter filmen men att hon inte lade märke till någonting särskilt.
+Sedan de korsat Sveavägen och promenerade upp mot Tunnelgatan så mötte de inte en enda person under hela promeden.
+De två kom fram till Tunnelgatan och hade inte mått nägra människor. De tyckte att det kändes ödsligt. De två stod en stund och pratade och dividerade om de skulle ta tunneln eller gå Kungsgatan ner mot Stureplan. Båda två skulle upp till Östermalmstorg. De bestämde sig dock för att ta Kungsgatan eftersom det
+* ifyls ej om bläsketten används som fortsättningsblad.
+Ex 2: Till spaningschefens pär (i nr-följd inom avsnitt
+
+--- PAGE 13/29  [166.8s | ENHANCED | c=47] ---
+SPANINGSUPPSLAG
+i grövre brottmål
+07 Avsnitt 08 Läpande nr
+44 Fortsätt-
+Uppgiftslömnare (efternamn och förnamn)
+05 Forsårspot Promemoria 1989-01-28 EÅ
+09 Broti med vilket uppgiften hör samman?
+10 | sak
+verkade så ödsligt in mot Tunnelgatan och tunneln. Inga kommer även ihåg att det fanns byggnadsställningar en bit in på Tunnelgatan och pressningarna liksom fladdrade ut. Det fanns inga andra människor omkring de två utan de var helt ensamma på platsen. De två tyckte det var kusligt och bestämde sig då för att gå upp mot Kungsgatan och sedan upp till üstermalm den vägen.
+Inga vill mena att det var vändigt mörkt där de stod på Tunnelgatan utanför Dekorima.
+Då de bestämt sig för att gå mot Kungsgatan så går de en bit dä de kommer till en plates som verkar vara upplyst, det kan eventuellt vara en skoaffar vid nam "Haga Skor". Inga är dock inte riktigt säker på om det var "Haga Skor". De hade dock inte hunnit fram till Kungsgatan. Ljusuppfattade då att det liksom blev mer a förelse då de kom till detta ljus. Det var ungefär här som inga och Anja hörde denna småll. De två trodde att det var en avgasknall. Hon menar att det fanns ju inget annat och tänka på i det läget.
+Denna knall sammankopplade Inga genast med någon bil. Hon mener att det strax innan hon hörde denna så kallade knall så kom det tvä bilar från Kungsgathället och var på väg norrut. De hade nedvevade rutor och spelade musik. De pratades mellan bilarna, okänd dock vad som sades. De var ungdomar i bäda bilarna. Åldern på dessa var cirka tjugo år. Okänt vad det var för bilar de åkte i. Inga säger att hon inte är hemma på bilar men att hon dock tyckte att det säg ut att vara lite finare bilar. Inte typ "raggarbilar".
+Det var strax efter det att hon sett dessa bilar som den så kallade knallen uppfattades. Allt detta som Inga berättat uppfattade hon under sin fortsatta promenad mot Kungsgatan. Hon mener att hon och Anja gick säkert och småpratade som de brukade. Inga sager vidare att precis då bilarna passerat dem så hördes denna knall. Dä vände hon och Anja lite lätt på hurvudet och tittade ner till höger. Det vände sig aldrig helt om för att titta i Sveavängens norra förlängning. Inga sammankopplade knallen omedelbart med de bilar som precis passerat dem.
+* I tycks ej om blanketten används som fortsättningslad.
+Ex 2: Till spaningschefens pärn (i nr-foljd inom avsnit)
+[REDACTED]
+??
+??
+??
+??
+
+--- PAGE 14/29  [134.7s | ENHANCED | c=40] ---
+01 Polisdistrikt*
+02 Arbetsmä
+03 Upprättad av* telefon"
+SPANINGSUPPLAG i grövre brotmtål
+07. Avsnitt 08 Låpande nr
+04 Fortsättningsblad
+Uppgiftslömnare (efternamn och förnamn)
+05 Fomörspot Promemoria 1989-01-28 EÅ
+06
+10 I sak
+Inga säger även att hon är osäker om detta med knallen är någon efterhandskonstruktion eftersom hon läst en hel del av detta i massmedia.
+Inga och Anja promemenerar Sveavägen vidare och viker då Kungsgatan ner mot Stureplan. De promenerar på Kungsatans norra sida. De två promenerar vidare upp mot Östermalm. Anja skulle till Sibyllegatan och Ina till Skeppargatan.
+De gick var och en hem till sig.
+Inga kommer hem till  och lägger sig snart för att sova. Då hon vaknar på morgonen den 1 mars 1986 och ser morgontidningen så ser hon vad som inträffat.
+Denna kväll kväll var Inga sannolikt kläd i svart. Svarta långbyxor samt en svart halvlång jacka. Hon menar att hon eventuellt kan ha haft en grå fuskpåls på sig, denna fuskpåls gick ner till vristen.
+Anja var sannolikt klädd i en svart kappa som gick ner till vristen. Till denna bar hon en lila halsduk.
+Inga är 159 centimeter lång.
+Inga tillfrågas om hon träffade eller så några bekanta under sin vistelse i biosalongen. Hon säg inga men hon har i efterhand hört att hon hade bekanta som såg samma föreställning.
+Förhöret avslutas klockan 19.30.
+F = Förhörsledare
+Å = Ålenius, Inga
+F. Ja Inga, nu har vi avslutat förhöret och du har suttit här och lyssnat på när jag har indiketerat din berättelse, och därför skall jag fråga dig om
+* Yllis ej om blanketten anvands som fortsättningsblad.
+Ex2: Till spaningschefens pärn (i nr-följd inom avsnitt)
+[REDACTED]
+
+--- PAGE 15/29  [90.0s | ENHANCED | c=30] ---
+01 Polisdistrikt"
+02 Arbeisemer"
+03 Upprättar(d) av" telefon"
+SPANINGSUPPLAG
+i grövre brottmål
+07 Avsnitt 08 Lopande nr
+04 Fortsatt-
+ningsblad
+05 Förhörspor 06 Promemoria 1989-01-28 EÅ
+09 Brutt med vilket uppgiften hår samman"
+10 I sak.
+du kan godkänna det indikerade utan att få bandet återuppspelat eller om du vill lysna igenom utsagan?
+Ä. Nej, jag godkänner det som det är nu, icke uppapelat.
+F. Då avslutar vi det hela, klockan har hunnit bli 19.32.
+Västerås som ovan
+Inge Uvemo
+Krisp.
+* Itylls ej om blanketten används som fortsättningsblad
+Ex 2: Till spaningschefens pärn (i nr-följd inom avsnitt
+
+--- PAGE 16/29  [130.3s | ENHANCED | c=57] ---
+01 Polisdistrikt*
+'Stockholm
+02 Arbetsskett'
+RK-A2
+Krisp Håkan Ström
+telefon"
+03 Upptatt(6) av:
+08 Brott med vilket uppgiften hör summan"
+Mordet på Olof Palme
+SPANINGSUPPSLAG
+i grövre brottslä
+07 Avsnitt  L     08 Löpande nr:      1    854-1-
+04 Försättningsslad        Uppgiftslmämare (efternamn och förnamn)
+05           G6          Utskriftsdatum
+Fomhorsprot   Promemoria       1989-02-26         GS
+10 | sak
+Protokoll fört vid konfrontation med,
+ÅHLENIUS, INGA Maria,
+Konfrontationsledare krinsp Håkan ström
+och krisp Lars Hamrén.
+Konfrontatsvittne: är advokat Arne
+Liljeros.
+Ålenius skall i konfrontationsgrupp, söka igenkänna den man som hon iakttog
+i foajen till biografen Grand, den 28 februari 1986 vid 21-tiden. Konfronta-
+tionsgruppen är filmad på ett videoband och uppspelas för Ålenius.
+F = Förhörsledare Håkan Ström     H = Hamrén, Largs/krinsp
+Ä = Ålenius, Inga           L = Liljeros, Arne/advokat
+F. Innan vi sätter på det här bandet, så vill jag fråga dig om du har sett
+nägot fotografi på den person, som för närvarande sitter häktad, misstänkt
+för det här brottet?
+A. Näe, jag vet inte vem det är.
+F. Har du sett något fotografi?
+A. Nej.
+Avc: KD 10700 Konfrontation video       13/3-99 ddd
+* Hylis ej cm blanketten används samorortfyllningsslad
+KD 10682
+Ex 2: Till spaningschefens pärn (i nr-följd inom avsnitt
+[REDACTED]
+
+--- PAGE 17/29  [154.8s | ENHANCED | c=44] ---
+2
+SPANINGSUPPSLAG
+i grövre brottmål
+07 Avnitt 08 Lopande nr
+04 Fonsit-
+ningsslad
+Uppgiftslsamnare (ettermann och förnamn)
+05 Forhörspol
+Piememoria 1989-02-26 GS
+09 Brett med vilket uppgiften hör samman*
+10 | sak
+F. I någon tidning eller något annat?
+Ä. Nej.
+F. Det har ju i flera tidningar förekommit fotografier där ansiktet har mas-kats av på en person, har du ikktagit något sådant fotografi?
+Å. Ja, det har jag. Det har jag.
+F. Och då vill vi erinra dig om vikten av att du söker bortse från detta och i stället jämför din minnesbild till den iakttagelse du gjorde den 28 februari 1986 istället.
+Å. Ja.
+F. Då startas bandet.
+F. Den här konfrontationsgruppen är filmad den 14 december 1988 och konfron-tationsgruppen består av 12 personer, vilka visas i helfigur samlade. Kame-ran zoomar nu in konfrontationsgrupper och visar deltagarna i halvfigur.
+Och vi vill då att du kommer tera personnelna, i förhållande till den num-merbricka de bär. Och vi kan även göra så att sedan du tittat igenom hela filmen en gång, sä får du se det här avsmyttet och begära om det är någon eller några personer, som du speciellt vill granska ånyo. Vi har då även möjlighet att frysa bilden, sätt att du i lugn och ro kan få falla eventuell-la kommentarer. Och det är viktigt att du talar högt och tydligt, så att det du säger kommer in på bandet ordentligt.
+Å. Jaa, det är jättesvårt, för den minnesbilden jag har ifrån Grand, bion, det är en späd man, för att det var ju ytterkläder. Så att det jag har sett nu, så 5-, nummer 5 och nummer 7, men det är bara för att alla andra är så stora, det måste jag särja också. Så det kan man ju bli lurad av.
+F. Nu kommer nummer 1 in och kommer att gå en sväng.
+Ä. Mm.
+F. Har du någon kommentar till nummer 1, någon likhet eller olikhet?
+Å. Nae, jag kan inte säga nätting.
+F. Ingen kommentar?
+A. Näe.
+F. Därefter kommer nummer 2.
+Har du någon kommentar till nummer 2?
+Å. Næe, jag har inte det. Jag försöker hela tiden tanke mig en mössa på, för att det-, den jag såg hade det och det är Möjligt,-
+Ex: Till spaningschefens pärn (i nr-följd inom avsnitt)
+[REDACTED]
+BPS-4522
+
+--- PAGE 18/29  [137.8s | ENHANCED | c=39] ---
+01 Polisdistrikt"
+02 Arbetssmet"
+03 Upprättat (6) av" telefon"
+SPANINGSUPPSLAG
+i grövre brottmål
+07 Avsnitt 08 Lopande nr
+04 Fortsatt-
+ningslad
+Uppgiftslömnare (efternamn och förnamn)
+05 Förhörspot Promemoria
+1989-02-26 GS
+09 Brott med vilket uppgiften hör samman"
+10 i sak
+Å. för så som nummer 2:s skägg är, så uppfattade jag den mannen som jag säg,
+alltså det var inte så mörk skäggväxt, som dom andra har.
+F. Nummer 3 har gjort entré. Har du någon kommentar till nummer 3?
+A. Née.
+F. Nu kommer nummer 4. Har du någon kommentar till nummer 4?
+Ä. (Lång paus) Ja, det är när-, näe, nån, jag har inte det.
+F. Nu kommer nummer 5. Har du någon kommentar till nummer 5, någon likhet
+eller olikhet?
+Å. Jaa.
+F. Vad?
+A. Det är en sorts likhet, tycker jag.
+F. Vad är det-, ......... ?
+Å. Det är ögonen.
+F. Och?
+A. Och så det blonde intrycket eller vad ska vi kalla det för.(?)
+F. Någon olikhet?
+Ä. Ja, det är mustaschen, den var inte sä-, mörk.
+F. Nu kommer nummer 6. Her du någon kommentar till nummer 6, någon likhet
+eller olikhet?
+Å. Näe, jag har ingen kommentar.
+F. Ingen kommentar alls?
+Ä. Näe.
+F. Nu kommer nummer 7. Zhar du någon kommentar till nummer 7?
+Ä. Ja, sår-, sår- , så är kroppen tyckte jag mitt minne var på den här personen
+som jag säg.
+F. Någon ytterligare likhet eller olikhet?
+(Lång Paus) Näe, jag vågar inte säga nät. För minnets skull.
+F. Nu kommer nummer 8.
+Har du någon kommentar till nummer 8, någon likhet eller olikhet?
+Å. Näe, det har jag inte. Mer än att gången-, gängen gjorde att jag fick någon
+association.
+F. Gången?
+Ä: Ja, som nummer 8 hade, det där lite slängiga.
+*Hyls ej om blanketten används som fortsattningsblad*
+Ex 2: Till spaningschefens pärn (i nr-följd inom avsnitt
+
+--- PAGE 19/29  [156.4s | ENHANCED | c=42] ---
+01 Poli distrikt*
+02 Arbetsomhet
+03 Upprättat (d) av* telefon*
+SPANINGSUPPSLAG
+i grövre brottmål
+04 Fortsatt-
+ningsbld
+Uppgiftslämnare (efternamn och förnamn)
+05 Avsnitt 08 Lopande nr
+06 Brutt med vilket uppgiften hör samman*
+05 Fohårsprot Promemoria 1989-02-26 GS
+10 | sak
+F. Någon annan likhet eller olikhet?
+A. Näe. Inte vad jag kommer ihag.
+F. Nu kommer nummer 9. Har du någon kommentar till nummer 9 ? Någon likhet eller olikhet?
+A. Näe.
+F. Ingen kommentar?
+A. Näe. Det känns precis som att ju flera man ser, ju mer osäker blir man.
+F. Nu kommer nummer 10. Har du någon kommetar till nummer 10?
+A. Näe.
+F. Ingenting?
+A. Näe. Jag-, den men MÅN säg tyckte jag var yngre än 10ian, men-,- men det här ljusare som 10:an är i ansiktet, det är-, så var det också alltså, inte så markerade ögonbryn och mustasch, utan ljusare.
+F. Nu kommer nummer 11. Har du någon kommentar till nummer 11?
+A. Näe.Näe.
+F. Ingenting?
+A. Näe, det var det inte. Nummer 11-, inte min-, minnesbild i alla fall.
+F. Nu kommer nummer 12. Har du någon kommetar till nummer 12?
+A. -
+F. Likhet eller olikhet som slår dig?
+A. Jaa, det är det här inte markerade igen, som slår mig, för jag måste sätta mössor på dem allihop. Men-,- näe, det är svårt att säga. Jag såg personen sa här, så framifrån. Men det är ju svårt.
+F. Ska vi spola tillbaka bandet och se om det är någon person i konfrontationsgruppen, som du vill så att säga specialstuderera?
+A. Jahaha (skrattar till).
+F. Vi gör ett uppehöll klockan 11.52, då bandet återspolas.
+Och bandet har återspolats och kameran zoomar in över konfrontationssdel-tagarna, vilka visas i halvfigur. Om det är någon person här, som du vilt titta på speciellt, så talar du om vilket nummer vederbörande bär.
+År det någon i gruppen, som du-,- kännor dig osäker på?
+A. Det är 5,7 och 8 som jag känner mig osäker på. Och 9:an tycker jag att jag känner igen, men från nät annat sammanhang.
+Ex 2: Till spaningschefens pärn (i nr-följd inom avsnitt)
+* Tylls ej om blanketten används som fortsattningsslad.
+
+--- PAGE 20/29  [151.9s | ENHANCED | c=41] ---
+01 Polisdistrikt
+02 Arbetsenhet
+03 Uppträtt (d) av" telefon"
+SPANINGSUPPSLAG
+i grövre brottmål
+07 Avsnitt 08 Läpande nr
+04 Fortsatt-
+ningssåld
+Uggiftslämna re (ettermann och församn)
+05 Förhörsprot Promemoria 1989-02-26 GS
+09 Brott med viklet uppgiften hör samman
+10 | sak
+F. 5, 7 och 8, vill du titta separat på. Då tar vi och spolar fram till nummer 5. Men 9:an tycker du att du känner igen från något annat sammanhang?
+A. Jaa, eller-, jag vet inte, jag känner igen honom på nät sätt.
+F. Då är han ointressant för den här visningen förmorad jag?
+A. Jaa, antagligen. Jag vet inte.
+F. Sä, då har bandet spolats fram om 5:an gör entré. Sög till om det är i något läge du vill att vi ska frysas bilden, så att du får tillfälle att granska närmare, utan stress.
+A. Mm.
+Här.
+F. Bilden fryses och 5:an framträdar i halvfigur. Är det nätning du vill kommentera angående Stans utseende?
+A. Mm. Det är nätting i-
+F. Vad är det du fastnar för eller?
+A. Det är ögonen och-, ja, hela hans ansikte liksom. Att-.
+F. Ögonen och hela anskiktet?
+A. Ja. Vad ska jag-, jag kan-, usch det är svärt att förklara. Det är-, vad ska vi kalla det för? Jaa.
+F. År det nån olikhet du finner?
+A. Ja, det är mustaschen som jag inte riktigt-, kommer ihåg. För det-, det-, skugg, mera orakad eller att-, ansiktet var mindre, men att det hade med mössa och orakning att göra. Att man associerar till en mindre ansiktsbild. Och oval, eller hur jag ska kalla det för. Förstår du hur jag menar?
+F. Ja.
+A. Ja.
+F. Inget annat du kan säga om 5:an?
+A. Nåe.
+F. Vi går vidare till nummer 7. Och nummer 7 kommer in i bild.
+Ä. Här.
+F. Och bilden på 7:an fryses i halvfigur.
+A. Det är lite samma sak tycker jag, för det är samma sorts-, killar, så man-. förrutom mustaschen här också.
+F. Är det nån direkt olikhet?
+A. Ja, som sagt mustaschen.
+Ex 2: Till spaningschefens pärn (i nr-följd inom avenit
+* Ihylls ej om blanketten används som fortsattningsblad
+[REDACTED]
+[?]
+[?]
+
+--- PAGE 21/29  [97.4s | ENHANCED | c=36] ---
+01 Polisdistrikt*
+Stockholm
+02 Arosnemot
+RK/AZ
+Krinsp Per Gustavsson 7916
+03 Upprättade av* telefon
+SPANINGSUPPSLAG i grövre brottsmål
+07 Avsnitt L
+08 Lopande nr. 854-1-
+04 Försatt: ningsblad
+Uppgiftsämna (efternamn och förmåna)
+05 Förhörepriot Promemoria
+utskriftsdatum 890808 (PG)
+10 | sak
+Se bifogat brev från inga Ålenius,
+Till brevet hör också två stycken olika tidningsbilder från Dagens
+Nyheet, märkta med nr I och II, av den för mordet på statsminister
+Olof Palme åtalade och sedermera i Stockholms Tingsrätt dömde
+Christer Pettersson.
+Brevet datert Stockholm 28/7 -89.
+*Hylls ej em blanketten används som fortsättningsblad.
+Ex 2: Till spaningschefens pärn (i nr-följd inom avsnitt)
+2118-89 HcD
+[REDACTED]
+[?]
+[?]
+
+--- PAGE 22/29  [97.0s | CLEAN | c=67] ---
+Stockholm 29-7-89
+Jag vet ;rke fiktyg vad jag ska g�k med doltta
+men vill ändra att visska veeta !
+Djupt dunkab ser j s dessa bilder for förtja.
+guage (3 DW) Persnops till NR I visdes my
+På vidio plus 10 eller ll personen som sig etalt
+bittat ot (fomj) allbi bler js förstrad och
+svebbe meg inre han skt personen ! Klen
+6.5 bll II son a samma parrni kunnas yg
+lger Son den rys-sis po Bio l Detvar
+Cara det 78-924 margaunde F:
+Desuun-blu J5 ontg Tarnr P Oclintact d
+Tr-rat (pisme), eft rum omed Vhshd Achi.
+Villdeva jy tass om delld -70 Astander bet dan day-
+Hör laur des komming reg 23 Saya wil som minns
+Och blu sit all ll 160-tunti ha 180k-lor
+Mn ren Heim vartlig sselb i ett ligg
+INGA ÅLENIUS
+[REDACTED]
+??
+??
+
+--- PAGE 23/29  [63.6s | CLEAN | c=110] ---
+I
+[?]
+
+--- PAGE 24/29  [130.8s | ENHANCED | c=53] ---
+Stockholm
+02 Arbetssamhet*
+RK-A2
+03 Upprättat (ej av*) telefon:
+Krinsp Per Gustavsson
+Mordet på Olof Palme
+SPANINGSUPPLAG
+I grövre brotmtål
+07 Avenlit  L
+08 Löpande nr
+04 Fortsatt-
+ningsblad
+05 Uppsatsnamne (efternamn och förnamn)
+06 Utskriftsdatum
+1989-08-28 GS
+Protokoll fört vid förhör med,
+skådespelare ÅLENIOUS, INGA Maria,
+Förhöret hållet i Riksriminalens lokaler
+Kungsholmsgatan 37 i Stockholm, torsdagen
+den 24 augusti 1989 med början kl 12.00.
+Förhörsledare: krinsp Per Gustavsson
+och krinsp Inge Uvemo/RK-A2.
+Inga övriga närvarande.
+Bandupptagning.
+Inga Älenius höres i Palmeutredningen.
+Hon informeras vidare om att hon skall höras i anledning av det brevet hon skrivit
+och sätt till Palmeutredningen. Brevet daterat Stockholm 28.7.89. Till bretvet
+hör två stycken olika tidningsbilder från Dagens Nyheter, märkta med siffrorna
+ett och två.
+Den 16 februari 1989 förevisades Ålenius en konfrontationsgrupp, i syfte att
+igenkänna den man hon ikäktog i foajén till biografen Grand, under kvällen den
+28 februari 1986 vid 21-tiden. Konfrontationsgruppen förevisades via ett video-
+band.
+Inga Älenius berättar att de båda tidningsbilder hon klippet ur från Dagens Ny-
+heter och skickat till Palmeutredningen, publicerades i tidningen förmodligen
+redan dagen efter, det att domon mot Christer Pettersson offentliggjorts.
+Inga Ålenius ombeds att berätta med egna ord, hur det gick till när hon första
+gängen i Dagens Nyheter såg de båda bilderna av Christer Pettersson.
+EX 2: Till spaningschefens pärn (i nr-följd inom avsniit
+28-89Hao)
+
+--- PAGE 25/29  [168.3s | ENHANCED | c=48] ---
+01*Polidistrikt*
+02 Arbetsenhet
+03 Upprättat(ä) av* telefon"
+SPANINGSUPPSLAG
+i grövre brotmtål
+Sid nr...... 2
+07 Avsnitt 05 Lopande nr
+04 Fortsatt-
+Uppgiftslämna (eftersom och förnamn)
+05 Fohörsprot Promemoria
+1989-08-26 GS
+08 Brott med vilket upp tillgåten hör samman'
+10 | sak
+F = Förhörsledare
+A = Älenius, Inga
+Å. Ja, Jo, det var-, när jag-. Jag blev ju chockad när jag det i tidningen och tänkte att det kanske kan hjälpa, men jag tror inte att det gör det ändå, mit vittnesmål. Men ändå, för att det är helt olika människor jag ser. Den ena är ju en spaningsbild, vad för står och den andra, år från honom,- nutid. Och det har-, där emellan är det tio till femton kilo och då blir ju en person helt olika. Och det var då jeg märkete att nedre bilden, alltså den som är ifrån-, en utredning, en annan utredning tydliga, den känner jag igen, don killen säg jag på Grand, strax färe nio. Men den här andra, den känner jag inte igen och det är ju så märktligt. Men man förändras ju helt killen är lite-, som jag kommer ihåg, mera cendre, samma som Per Gustavsson är lite grann, det är hårfärgen jag känner igen. Ja, jag kan inte,- ja, jag vet inte mer hur jag ska säga. Spontant så där.
+F. Reagerade du direkt när du sät de här bilderna?
+Å. Ja, direktt. På stört. Och lite grann, så tänkte jag, ja, jag skilter i det, för jag vill inte vara med om det har längre. För att nu är han ju dömd och det spelar väl inte så stor roll, men så tänkte jag ändå, det kan ju vara en-, bra att för er att veta att det är-, man blir annorlunda. Och många vitt- nen kanske har reagerat som jag, att man blir osäker när man ser det här videobandet, därför att där kände jeg inte i alla fall igen honom, utan pekade ut andra som liknade den mannen som jag säg. Och det var två stycken vet jag, som-. Fast den här mannen var längre, än de två jag pekade ut, men i utseende, så att säga.
+F. Du kände inte igen Christer Pettersson på videofilm?
+Å. Näe. Née. Ice. Och sen, hör och häpna, jag sysslar ju med teater och han har ju tydliga gått teaterskola, jag har aldrig sett det här karl i hela mitt liv förut. Aldrig någonsin. Även om det har spekulerats sänä sakar i tidningen, om teaterkretsar och sina där säker, men det har ingenting med det här att göra. Jag vet inte vem det är.
+F. Men vad tycker du är för skillnad mellan honom -?
+Å. Ja, skillnaden är att han är smalare på den första bilden eller spanings- bilden och det var han också på Grand eller den jag såg var en small person,
+* I tills om blanketten används som fortsattningsblad
+Ex 2: Till spaningschefens pärn (i nr-följd inom avsnitt)
+
+--- PAGE 26/29  [169.4s | ENHANCED | c=46] ---
+SPANINGSUPPSLAG
+i grövre brottmål
+07 Avsnitt 08 Lopande nr
+04 Försätt-
+ningssåld
+Uppgiltslämnare (elevnamn och förnamn)
+05 Forsörprot
+06 Promemoria
+1989-08-28 GS
+O?Polisdistrikt*
+02 Arbetshet* 
+D3 Upprätta(d) av* telefon*
+09 Brett med vilket uppgiften hår samman?
+10 | sak
+Å. rent av utmärglad, höll jag på att säga, men väldigt mager i alla fall.
+Och den jag såg på video i så fall, så skulle ha varit-, det var en tjockis,
+om jag kan uttrycka det så. Med stor mage och dubbelhaka till och med. Och
+det hade inte den här mannen. Och det var då, när jag såg det i tidningen
+att jag kom på det att naturligtvis, det är tre år sen och går man upp i vikt,
+så förändras hela useendet. Det gör det, det vet jag ju-, själv av erfaren-
+het, eftersom jag bantar ofta, eller mycket och längne. (Skrattar till.)
+F. Hur pass säker är du det här?
+Å. Ja, jag är bombsaker, annars hade jag inte skrivit. Annars hade jag inte
+lagt mig i det här längre. Från den bilden alltså.
+F. Du pekar på bild nummer två nu?
+A. Ja. Den lilla bilder, spaningsbilden.
+F. Är det den person du såg i foajén på Grand?
+Ä. Ja, det är mitt-, minne av honom, precis.
+F. Du kan inte ta fel där då?
+A. När, det kan jag inte.
+F. Det finns ju risk att du kan ha intalat dig själv att det kan ha varit den
+hår personen?
+Å. Näe, näe, eftersom-. Nej, eftersom jag aldrig har-,
+jag vill inte ha med den
+här saken att göra, jag har aldrig sett människan och-,
+jag vill helst vara
+anonym också, för jag tycker inte om de här offentliga-, tidningsskriverier
+och sånt där och jag tycker allvarligt synd om honom också, sä att det är-
+Men det är han. Men det har ju inte med mordet att göra, tycker jag heller
+på det sättet att jag såg honom före 21. Och det märkliga är då att han inte
+kan erkänna att han har varit där. När han nu är oskyldig. För det har-,
+att se honom 21 på bion, betyder ju inte att jag har sett honom mörda Ölof
+Palme. Det är eran sak att ta reda på, den kombinationen. Men-, så därför är
+jag så-, förvånad att han inte kan säga att han har varit där, för han var
+där, det är jag helt, helt säker på. Hundra.
+F. Förhöret avslutas klockan 12.10.
+F. Ja Inga vill du att vi spelar upp bandet för dig?
+A. Näe, det är onödigt. Det behövs inte.
+*Hylla ej om blanketten används som fortsättningssåld.
+Ex: 2: Till spaningschefens pärn (i nr-följd inom avsnitt)
+[REDACTED]
+[?]
+
+--- PAGE 27/29  [82.5s | ENHANCED | c=28] ---
+SPANINGSUPPSLAG
+i grövre brottmål
+07 Avsättt 09 Lopande nr
+04 Fortsatt-
+ningblad
+Uppgiftslämnare (efternamn och förnamn)
+05 Förmorsprot Promemorā 1989-08-28 GS
+09 Brott med vilket uppgiften hör samman
+06 Utskiftedatum
+10 sak
+F. Du godkänner förhöret?
+A. Jaa.
+Stockholm som ovan
+Per Gustavsson/krinsp.
+* Ihylls ej om blanketten används som fortsättningsblad
+Ex 2: Till spaningschehels pärm (i nr-följd inom avsnit
+
+--- PAGE 28/29  [94.8s | ENHANCED | c=43] ---
+Till utredningen inkomna uppgifter från chefsåklagare Jan Danielsson.
+Jan Danielsson fick 960313 telefonsamtal från Håkan [REDACTED], som uppgav följande.
+[REDACTED] träffade för några år sedan en skädespelerska som heter Inga Åhlénius (osäker stavnings). Inga Åhlénius är en mycket vederhäftig person. Inga Åhlénius sade att hon varit på Grand samma kväll som Olof Palme. Hon hade där sett en mycket konstig person, vars ansikte eller att röra sig hon adrig kan glömna. Hon är 100 procent säker på att denne person är Christer Pettersson. Personen rörde sig både utanför biografen och vid ett tillfälle inne i foajén. Inga Åhlénius sade till Håkan [REDACTED] att hon varit i kontakt med polisen angående detta men polisen hade inte varit intresserad av saken.
+På grund av rädsla för Christer Pettersson ville hon inte själv propsa på att bli hörd ytteligare.
+Inga Åhlénius kan nås via Svenska Teaterförbundet.
+
+--- PAGE 29/29  [83.2s | ENHANCED | c=33] ---
+Rikskriminalpolisen
+Utredningssektionen
+Lennart Gustafsson
+Kriminalinspektör
+PM
+Datum 2009-06-22
+RKp / Palmeenheten
+APAL-U38-137/57
+2009.4.7
+V: Inga Ålenius har den 22 juni 2009, översänt två brev hon fått sig tillsänt från en för henne okänd person.
+Inga igenkänner ej personen på fotografiet som låg med i brevet.
+Inga informerad av undertecknad att utskicket ej är polisiär utan har gjorts av en privatperson vid namn "Stefan".
+Lennart Gustafsson
+DNR 137-09
+6/11-09 88
+
+============================================================
+Completed : 2026-03-04 00:59:09
+Pages     : 29  (errors: 0)
+Total time: 84.9 minutes

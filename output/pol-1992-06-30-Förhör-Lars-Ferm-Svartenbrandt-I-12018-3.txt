@@ -1,0 +1,186 @@
+OCR OUTPUT: pol-1992-06-30-Förhör-Lars-Ferm-Svartenbrandt-I-12018-3.pdf
+Model    : Qwen3-VL-2B (Q4_K_M GGUF)
+Started  : 2026-03-04 01:33:50
+Settings : ctx=4096, temp=0.7, presence_penalty=1.5, jinja=ON, no_think=ON, max_size=1120px
+============================================================
+
+--- PAGE 1/7  [110.9s | ENHANCED | c=45] ---
+Stockholm
+RKP-A2
+Krinsp Thure Nässén
+04 Uppmätning in:
+Nordet på statsminister Olof Palme
+10 | sak
+SPANNINGSUPPSLAG
+i grövre brottmål
+STID nr
+07 Avdel. 98-3
+[?] LÅNGA ER
+I
+120K-3
+Protokoll fört vid förhör med
+Förhöret hållet tisdagen den 30 juni
+1992,
+med början klockan 10.30.
+Förhöreladare: krinp Thure Nässén och
+krinsp Per Gustavsson.
+Förhörsvittne: ej tillgängligt.
+Förhört hället i anteckningsform.
+underrättades om, att förhöret ingår i förundersökningen kring mordet på
+statsminister Olof Palme.
+Han underrättades vidare om, att förhöret framför allt avser hans egna före-
+haveanden den kväll Olof Palme mördades på Svevägen i Stockholm, det vill säga
+fredagen den 28 februari 1986.
+Dessutom underrättades [?] om, att han även skulle horas on sin kännedom om
+vapen, och då framför allt revolver,
+[?]
+kommer fortsättningsvis i förhöret att kallas vid sitt tillståtsnamn
+Sedan [?] fått forutsägningarna för förhöret delgive för sig, uppper han nu kommer ihåg,
+svara på dom frågor som förherslarnna kommer att ställa till honom.
+Ex:2 Till spanningschefens pärn (i nr löjd inom avant)
+26-92 HÅD
+
+--- PAGE 2/7  [135.0s | ENHANCED | c=45] ---
+SPANINGSUPSLAG
+i grövre brottmål
+07 Amtet  DB Ljupra nr
+04 Fortsätt-
+ningbokd
+05 Fårhörepot
+06 Utskriftsdatum
+Han säger vidare, att han numera [REDACTED] och detta är anledningen till att han [REDACTED] uten endast [REDACTED]
+Därefter berättar [REDACTED] spontant, att vid tiden för mordet på statsminister Olof Palme var han [REDACTED]. Han tillbringade fredagen den 28 februari 1986 [REDACTED], och siger att den dagen ver lik alla andra dager i samband med hans vistelse där.
+Tillfrågad, om hen den aktuella fredagen var in till [REDACTED] någon-
+ting, uppper [REDACTED] att han icke beskävare vara sig [REDACTED] den aktuella
+dagen, utan vill minnas att han hela dagen och kvällen befann sig [REDACTED],
+som han disponerade och bodde i inne på området.
+Den aktuella kvällen tillbringade han i den tidigare nämnda stugan [REDACTED]
+tillsammans med sin dåvarande flätmö
+Spontant berättar därefter, att [REDACTED], och han tillbringade hela kvällen tillsammans och dessutom stannade kvar under fredagsnatten.
+Han berättar därefter, att någongång på lördag morgon mellan klockan 7-8 lämnade honom eftersom hon skulle hem och hämta sina matchklöder, med enledning av att hon skulle spela en [REDACTED] klockan 11.00 i [REDACTED]
+uppper vidare på fråga, att han sax när lämnade honom vid den tidigare nämnda tidspunkten på lördagsmorgonen.
+Därefter berättar [REDACTED], att någongång vid tiotiden ringde [REDACTED] och berättade
+att han fått veta, att statsminister Olof Palme hade mördata/akjutita på Sves-
+vägen före gängande kväll. Hon bad även [REDACTED] "slä på" Tvn eftersom man hade extrautsändning med anledning av mordet.
+Ex 2: Till spaningschefens pärn (i nr-löjd inom avsniitt)
+[?]
+[]
+
+--- PAGE 3/7  [128.1s | ENHANCED | c=46] ---
+SPANINGSUPPSLAG
+i gröna brottmål
+01 Pelsmyndigt*
+02 Arbetenhet
+03 Upprättarid av* telefon"
+04 Forsätt-
+Uppgiftslarmare (att hemma och förmå)
+05 Förförssort
+06 Utskiftsdatum
+Sd nr 3
+07 Ansitt
+08 Lägande rnr
+uppper, att han blev lite förvånad när han hörde vad berättade, men han "slog på" TV:n och kunde då konstatera att det var riktigt vad nyligen hade berättat för honom.
+Spontant säger därefter, att han är glad för förhörsledarna ställde en rak fråga till honom beträffande hans förehanden den kväll Olof Palme mordades. Detta med anledning av att många av hans bekanta hört om hans förehandanden, men det är ingen av förhörsledarna som ställt en fråga till honom vad han gjorde eller var han befann sig den aktuella kvällen.
+Angående vapen, upper att han känner till tre stycken revolverar av fabrikat Smith & Wesson 357 magnum.
+De personer, som disponerade dessa vapen/revolver var, och tredje revolvern disposerade eventuellt
+Beträffande revolver, har hört att denne anträffades i samband med att och och Dansk for ett antal är sedan.
+Angående revolutionär vagen. Däreot säger , att återföres på enligt det således rättskraftens för utskott ar efterlängs
+Några andra vapen ut över dom som han nu berättat om, känner ické till.
+tillfrågades, om han själl varit innehavare av någon revolver av fabrikat Smith & Wesson 357 magnum eller kaliber 38. Han uppper, att han aldrig själv varit i besittning eller haft tillgång till något sédant vapen, men däreot andra vapen,
+Han delges då uppgifter från ett spaningsuppslag, där uppgiftslämaren berättat,
+Ex2: Till spansningschefens pärn (in nöjd from event)
+
+--- PAGE 4/7  [122.0s | ENHANCED | c=55] ---
+SPANINGSUPPSLAG
+i grövre brottnål
+01 Rämningsfördelar
+02 Arvarehelt?
+03 Uppgått (sif) av* telefon*
+04 Försatt. ningglad
+05 Förkärspot 06 Utslukslutdatum
+07 Ansvarit 08 Loppande nr
+Sedan delgetss uppgifterne, uppger han direkt, att han icke haft några vapen av det fabrikat som nyligen nämnts . Han säger vidare, att dessa uppgifter är helt "tagna ur luften och ingenting annat". Vidare vill tilläggas, att han aldrig maga ut viden, har sager vidare, att han absolut skulle ha be-rättat för förhörsledarna, om han haft något eller några vapen , som uppgiftslämna en orupgifs-lämnarna påstått.
+Därefter tillfrågades 128634, om han i sitt ungäng med den numera avlidne magnum. Han uppger på frågan, att något sådant vapen säg han icke under sitt unngänge med . Därefter berätter att hade ju tillgång till andra vapen. Han säger vidare, att 1983 skulle hans dåvarande flickvän
+Angående [REDACTED], har det uppfattningen, att denne fick sina vapen från , som i ein tur skaffade vapnen från nagon bekant in Florida. Vem denne be-kannt heter, känner dock icke till.
+Speciellt tillfrågades om han brukat beskika speklubben Oken på Öxtorgs-gränd i Stockholm. Han uppger, att han aldrig besökt den aktuella spelslubben.
+Vidare tillfrågades 128634, on han känner . Han uppger, att han
+Ex: Till spaningschefens pärn (I nr-59ld nom eventy)
+
+--- PAGE 5/7  [100.9s | CLEAN | c=72] ---
+SPANINGSUPPSLAG
+i grövre brottmål
+01 Polismyndighet*
+02 Arbetshet!
+03 Upprättat till av* telefon'
+04 Fortsatt ningsblad
+05 Brott med vikot uppgriffen hör samman"
+06 Promemoria
+10 sak
+vet vem är, men har aldrig haft några affärer med honom. Därefter uppper
+att han även vet vem eller att han inte haft några affärer med den mannen hellre.
+Slutligen tillfrågades: [??]
+känner till eller fått veta något ingenting,
+som kan föra mordutredningen framåt.
+uppgor på frågan, att polisiärt sett är mordet på statsminister Olof Palme uppklarat. Han menar vidare, att vi har haft mördaren inne, men att han "släppts" av Hovrätten, på grund utav att man inte hade någon teknisk bevisning, det vill säga, man kunde icke uppvisa mordvapnet.
+Därefter berättar [??] att han känner
+I övrigt säger [???]. Vidare säger: ?
+Därefter säger : , att det
+Ex 2: Till sparingschefens pärn (nr-föjd inom avsnitt)
+* thys ej om blanketen används som fortsattmigblad.
+
+--- PAGE 6/7  [105.4s | ENHANCED | c=49] ---
+SPANINGSUPPSLAG
+i grövre brottmål
+01 Rollemägdhet*
+03 Arbetsbeteckning*
+04 Uppgångsårna (attförmni och förra)
+05 Förtärkorost Promemoria
+06 Utskriftsdatum
+Desutom vill han tilläga, att Christer Pettersson är ju en skicklig skåde-
+spelare vad han kan förstå, och dessutom har han ju misslykats med det mesta
+här i livet och känner väl en viss bitterhet mot samhället och makttapparen.
+vill dock betona, att han själv icke känner Christer Pettersson. Han
+menar, att han ikke kan erinra sig at [?]
+Förhörret avslutades klockan 11.45.
+Anteckningar har forts under förhörets gång. Dessa har kontinuerligt upplåsts
+för ?, varför denne avstod från att få förhärsantsektionarna upplasta i
+sin helvet. Han hemställde istället, att läsa igenom förhöret sedan det samma
+akrivits ut, och i samband med genomläsningen göra dom korrigeringar, som han
+ansag vara nödvändig.
+Stockholm, allmäna häktet Kronoberg som ovan.
+Thure Nässén Per Gustavsson
+Krinap.
+Ex 2: Till spaningschefens pärn (f-rijd inom avsnitt)
+
+--- PAGE 7/7  [105.2s | ENHANCED | c=31] ---
+Stockholm
+BKP-A2
+Krinap Thure Näsén
+Mordet på statsminister Olof Palme
+DELGIVNING AV FÖRHÖR.
+[REDACTED], har den 19 augusti 1992 klockan 14.30 tagit del av det förhör som hölls med honom den 30 juni 1992 i samband med att under-
+tecknad besökte honon [REDACTED].
+Efter att tagit del av förhört, som han ansåg vara helt korrekt utskrivet och utan anmärkningar, ville han göra följande tillägg.
+[REDACTED] har [REDACTED] hörnt att Christar Pettersson icke var
+någon A-lagare före mordet på statsminister Olof Palme, utan synsade med in-
+drivning och torpedverksamhet.
+menar att det var efter mordet på statsminister Olof Palme som Christer
+började "sitta" på parkbänkar med "A-lagarne" i Sollentuna centrum.
+Stockholm so gvan
+Thure Näsén
+Krinap.
+SPANINGSUPPSLAG
+i grövre brottä
+[?] 120/8-4
+Ofta [REDACTED]
+Ungdomsfamiljan (avvarens och förslag)
+Förfall: ringad
+Sågledning:
+Bekräftat:
+Ex.2: Till spansingschefen pär f-n-följt inom ävenlig
+HAD
+
+============================================================
+Completed : 2026-03-04 01:47:18
+Pages     : 7  (errors: 0)
+Total time: 133.0 minutes

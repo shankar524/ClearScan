@@ -1,0 +1,178 @@
+OCR OUTPUT: pol-1986-03-18-EAE-340-F.pdf
+Model    : Qwen3-VL-2B (Q4_K_M GGUF)
+Started  : 2026-03-03 22:40:01
+Settings : ctx=4096, temp=0.7, presence_penalty=1.5, jinja=ON, no_think=ON, max_size=1120px
+============================================================
+
+--- PAGE 1/4  [182.1s | ENHANCED | c=58] ---
+Förhör
+Arkivexemplar
+EAE 340-1
+Bill:
+Sid. ...1 (3)
+01 Förhörsledare
+Kriminalinspektor JAS
+02 Förhörsplats
+RPS/Såk, Stockholm
+03 Föhradsdatum
+08 Febrä börj kl
+05 Om.
+1986-03-18   09.40
+JAS
+I 68 Utskriften ut
+förd av (sign) 
+Utskr. från anteckningar
+Phard
+00 Hörd person (alternam och alla förmån i rätt foljt, tillståsnamlser markeras)
+11 Vexy titel
+12 Födelehemort (forsamling och länsbokstav)
+13 Kyrkobakforing att (forsamning och hanskoskarv)
+04 Telefon-
+hålder
+10 Personnummer
+14 Postadress (adelingsaddress och ortssedra), telefon bostaden
+15 Medborgare I
+(betr uti)
+16 Anställning (arbetsgivare, postadress), telefon, central sjömregistreringar
+17 Föräldrars namn och postadress (beir mislankt som är underårig eller utsanung)
+20 Den horde år
+misslantkt mäsagande x vittne
+23 Samtal efter det att konfronterats med buussföraren och dennes upp-
+gifter omkring buss 43 och dess tur fredagen den 28 februari 1986, som innefattade Karl XII:s Torg klokkan 23.19., och funnit att uppgifterna inte stämde inbördes på någon punkt.
+...Önskens ej ... Önskans (Ei namn)
+24 Berättelse
+På frägor från förhörsledaren vad som föregick resan med buss
+43 fredagen den 28 februari 1986, dvs i enlighet med
+berättelese upp gat att han aktuell dag ensam hade rest
+med troligvis buus till sällskapsholmen, för att till sammans
+med gå på teater. Det var förresten i samband med av-
+resan från
+sag den man som senare under kvällen kom att gå in i
+tillsammans med en kvinna. Paret hade alltså
+varit passagerare omord på sama buss. Enligt vad som var be- stämt, skulle ha träffad pa teatern vid 19.00-
+tiden. Möjliga kunde även ha akt bus 46 till platsen,
+det kunde han inte säkert säga.
+träffade vid teatern, vars förestellning skulle börja klockan 19.30. Pa så sätt var han på plats innan föreställningsens start. Den tiden tillbringade han med genom att dricka kaffe med henne.
+Teaterstycket som gavs hette PAAL och gick i den lilla teatrcklaken,
+som kanske tog ca 150 personer.,var sågött om full. Skäde-
+spelaren bland publik en e anledning av
+att kom de att kort talo med vara döring pråsen, satt annars tillsammans med bland publiken, da förstall- ningen började något forsetat. Föreställningen tog tre timmar I anspråk och slutade trolden vid 22.40-tiden.
+Efter att ha talat med i ca 20 minuter efter före-ställningens slut, kände sig tröttn och ville hem. Efter-
+som hustrun vid tidpunkten befann sig i Göteborg, var han ensam
+hemma.
+RPS 4658 3194; 8104, 600 000 ex: ALF 72-1143 UberTrak
+Pom
+
+--- PAGE 2/4  [167.6s | CLEAN | c=67] ---
+RPS/säk
+FÖRHÖRSPROTOKOLL
+Sid 2
+1986-03-18
+Vid 04.30-tiden, dvs lördagen den 1 mars 1986, väcktes av att en kamrat ringde omkring mordet.
+hustru hade varit borta hela veckan, dvs vecka 9,
+och kom hem lörda genom den 1 mars 1986 från Göteborg
+Fredagen den 28 februari 1986, vid drygt 23.00-tiden,
+hade skilts från och ensam gått till Karl XII:s torg.
+Under promenaden fram mot platsen hade han kontroll på bussarna och kunde därför säga att ingen
+buss 43 hade passerat under vandringen fram mot det an-
+givna torget. Han började därefter gå i riktning mot Norr-
+malsstorg. När han kommit fram till Hamngatan, såg han en
+buss på Skeppsbron varvid han sprang tillbaka och gick
+om bord på bussen, en 43:a.
+Genom förhörsledarens försorg relaterades
+förhörssatsaga, som inte bestyrkte hans utsga.
+kunde dock mycket väl ha feil, menade
+och pekade
+på det faktum, att hon onom omtalat att hon gjät ut
+med några efter det att de hade skilts at vid teaterbesöket.
+Vad det avsag? uppgift om att skulle ha varit
+på bio under kvällen den 28 februari 1986, så var detta
+helt felaktigt. I stället hade det varit sä, att han hade
+varit på en filmföreställning den 27 februari 1986 vid Film-
+institutet.
+medgav att han har klart konfund erad över den uppkomna
+situationen. Att vissa saker var rekonstruerade bland hans
+uppgifter, var han dock medveten om. Han varjock helt över-
+tygad om att man månat? var den man som varit i bussen
+och samtalat med dess förare under natten den 28 februari 1986,
+i enlighet med det som han har beskrivit i förhöret.
+Med tanke på de uppgifter som framkom från den foråre, som
+presenterats av Polisen som den trolige föraren av "buss 43" vid ifrågasvarande tillfälle, ville pata lade
+att det inte är rätt förare. Det kunde han säga dels med
+tanke på förarens utseende - som han alltså fick personliga
+träffar under morgonen den 18 mars 1986, dvs
+och de relaterade händelserna under färden, som inte stände
+med hans egna iakttagelser.
+Det hela gick inte ihop, det var
+han medveten om. Om verkliggen hade kört den buss 43
+som alltså svarade mot ankomsttiden den 23.00 en fredag vid Karl
+XII:s Torg, hade ärkt med en annan buss. Vilken visste han dock inte.
+När [REDACTED] vittnesmål åter fördes på tal av förhörs-
+ledaren, pata lade
+[?]
+[REDACTED]
+I princip hade hon för
+
+--- PAGE 3/4  [133.9s | ENHANCED | c=52] ---
+RPS/SÄK
+FÖRHÅRSPROTOKOLL
+Sid 3
+1986-03-18
+sagt samma sak efter polisförhöret, som hon hade sagt
+till Polisen.
+Vad det avsåg skottan, menade dock att han kunde ha
+kopplat dessa till fel dag och händelse, men att han verkligen
+had eört dem, var fullt klart, menade han.
+Detaljer i berättelse omkring t.ex. utryckningsfordonet
+och "mannen", dvs den som talade med föraren av bussen, var
+dock inte fel. Det var han säker på.
+höll fast vid den avgivna berättelsen omkring handled-
+serna den 28 februari 1986. Om det kunde bevisas att han var
+på teatern en helt annan dag än fredagen den 28 februari 1986,
+"far jag sjukskriva mig", framhöll han. Han fick en chock vid
+beskedet om statsminister Olof Palmes død och kanske hände det
+nägontning i huvudet, som han inte visste cm !
+Just vittnespsykologi var något av specialitet, fram-
+häll han och berättade om
+insen av omständigheterna att nägonting var fundemen-
+talt fel i hela ärendet. Kanske hade han i alla fall åkt en
+annan dag. För sin egen skull var han tvingad att få klarhet.
+Hur som helst hade han inte mådvetet ljugit om nägonting. Tvårt
+om stämde detaljerna omkring resan med verkligheten.
+Vad det avsåg identifieringen av kan ha sett det
+han ville se
+Förhörget avslutat klockan 10,35
+Stockholm som ovan
+JAS
+Delgiving av förhörsprotokoll:
+1986-05-23 har erhållit fotostatkopior av detta förhörs-
+protokoll, i enlighet med hans besäran därom. Vid granskning har
+han därefter gjort följande papekanden samma dag per telefon:
+I:a stycket, rad 4 - 5: skulle inte gå på teatern till-
+sammans med utan gå på teater
+[REDACTED]
+[?]
+
+--- PAGE 4/4  [92.5s | ENHANCED | c=32] ---
+RES/SÄK
+FÖRHÖRSPROTOKOLL
+Sid 4
+1986-05-23
+2:a stycket, rad 1: träffade inte "vid" teatern,
+utan "på".
+Sid 2, 3:e stycket: Hamngatan skall utbytas mot Arsenalsgatan.
+ken felsägning på gatornas namn.
+Sid 2, 7:e stycket, rad 5: I stället för "förarens utseende"
+skall anmärkas att endast såg dennes här och aldrig
+såg honom framifrån i ansiktet.
+Sid 3, 5:e stycket: Meningen var felaktigt på så sätt, att
+inte sagt sig ha vittnespsykologi som specialitet. Däremot hade
+han "kommit att intressera sig för" vittnespsykologi under åren
+som [?] på 1950- talet. Alltså inte som
+som angivits. i vittnesförhöret. Det var helt felaktigt.
+JAS
+
+============================================================
+Completed : 2026-03-03 22:49:38
+Pages     : 4  (errors: 0)
+Total time: 143.4 minutes

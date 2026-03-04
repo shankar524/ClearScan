@@ -1,0 +1,559 @@
+--- Starting Advanced Page-Level OCR Evaluation ---
+
+
+=======================================================
+📄 Analyzing File: 730501a_sundbyberg_stockholm.txt
+   Using output: 730501a_sundbyberg_stockholm.txt
+=======================================================
+  -> Page 1:
+     • Accuracy: 92.1% CER | 78.5% WER
+     • Missing Words: 17 (out of 111 unique GT words)
+     • Example misses: ['personligen', '197', 'krig.', 'statsministern', 'varier']
+  -> Page 2:
+     • Accuracy: 91.7% CER | 83.9% WER
+     • Missing Words: 15 (out of 130 unique GT words)
+     • Example misses: ['medmänniskors', 'bibliotek', 'arkiv', 'frihetslängtan', 'nar']
+  -> Page 3:
+     • Accuracy: 88.6% CER | 67.3% WER
+     • Missing Words: 20 (out of 125 unique GT words)
+     • Example misses: ['protesi', 'arkiv', '3', 'mötesdeltagare,', 'uppträda.']
+  -> Page 4:
+     • Accuracy: 88.3% CER | 79.3% WER
+     • Missing Words: 25 (out of 135 unique GT words)
+     • Example misses: ['militar', 'arkiv', 'allians.', 'händelse', 'landscrganisationen']
+  -> Page 5:
+     • Accuracy: 94.1% CER | 89.5% WER
+     • Missing Words: 15 (out of 122 unique GT words)
+     • Example misses: ['makt', 'kapitalintressen,', 'bibliotek', 'arkiv', 'arbetarrörelsens']
+  -> Page 6:
+     • Accuracy: 90.4% CER | 65.2% WER
+     • Missing Words: 28 (out of 126 unique GT words)
+     • Example misses: ['samman', 'arkiv', 'rimliga', 'ger', 'folket,']
+  -> Page 7:
+     • Accuracy: 92.3% CER | 88.8% WER
+     • Missing Words: 13 (out of 109 unique GT words)
+     • Example misses: ['cm', 'löntagarna.', 'bibliotek', 'arkiv', 'hänsynslåst']
+  -> Page 8:
+     • Accuracy: 90.5% CER | 70.1% WER
+     • Missing Words: 18 (out of 115 unique GT words)
+     • Example misses: ['rekordartad', 'korkurrensförmåga,', 'iågkonjunktur', 'villkor', 'arkiv']
+  -> Page 9:
+     • Accuracy: 94.4% CER | 73.2% WER
+     • Missing Words: 17 (out of 123 unique GT words)
+     • Example misses: ['föreställningen', 'frihendelsavtalet', 'borgerliga', 'fortsätta', 'ekonomer']
+  -> Page 10:
+     • Accuracy: 91.8% CER | 79.6% WER
+     • Missing Words: 20 (out of 113 unique GT words)
+     • Example misses: ['arkiv', 'arbetsmarknadspolitiken.', 'allvar...', 'kommer', 'renae']
+  -> Page 11:
+     • Accuracy: 90.0% CER | 60.8% WER
+     • Missing Words: 30 (out of 117 unique GT words)
+     • Example misses: ['lösa', 'arkiv', 'borgerlighet', 'tekniska', 'sysselsättningsfrågan']
+  -> Page 12:
+     • Accuracy: 78.7% CER | 48.3% WER
+     • Missing Words: 47 (out of 118 unique GT words)
+     • Example misses: ['skött', 'arkiv', 'erbjuda', 'riksförbund', 'öka']
+  -> Page 13:
+     • Accuracy: 84.7% CER | 69.6% WER
+     • Missing Words: 21 (out of 132 unique GT words)
+     • Example misses: ['säga', 'chefogade', 'fön-tagarna', 'inflytandet', 'kuma']
+  -> Page 14:
+     • Accuracy: 90.8% CER | 64.4% WER
+     • Missing Words: 24 (out of 133 unique GT words)
+     • Example misses: ['arkiv', 'förut', 'måste', 'industri.', 'härom']
+  -> Page 15:
+     • Accuracy: 92.2% CER | 79.5% WER
+     • Missing Words: 21 (out of 122 unique GT words)
+     • Example misses: ['arkiv', 'arbetsplatsen', 'skador', 'häl', 'samhälle.']
+  -> Page 16:
+     • Accuracy: 85.4% CER | 63.6% WER
+     • Missing Words: 16 (out of 86 unique GT words)
+     • Example misses: ['familj', 'alltså', 'bibliotek', 'arkiv', 'splittrade.']
+  -> Page 17:
+     • Accuracy: 90.5% CER | 68.3% WER
+     • Missing Words: 23 (out of 124 unique GT words)
+     • Example misses: ['ett-årig', 'arkiv', 'köps', 'blardas', '17']
+  -> Page 18:
+     • Accuracy: 89.4% CER | 65.9% WER
+     • Missing Words: 23 (out of 95 unique GT words)
+     • Example misses: ['våz', 'arkiv', 'klasstänkande!', 'socialiseringsaktionen', 'företräda']
+  -> Page 19:
+     • Accuracy: 89.6% CER | 68.3% WER
+     • Missing Words: 21 (out of 109 unique GT words)
+     • Example misses: ['arkiv', 'makten.', 'intressen.', 'fackföreningsrörelse.', 'olof']
+  -> Page 20:
+     • Accuracy: 89.5% CER | 63.8% WER
+     • Missing Words: 17 (out of 102 unique GT words)
+     • Example misses: ['kring', 'trygghet', 'högerextremismen', 'riksdagsgrupp.', 'bibliotek']
+  -> Page 21:
+     • Accuracy: 89.4% CER | 65.8% WER
+     • Missing Words: 21 (out of 128 unique GT words)
+     • Example misses: ['arkiv', 'jen', 'känna', 'dem', 'olof']
+  -> Page 22:
+     • Accuracy: 84.1% CER | 61.7% WER
+     • Missing Words: 12 (out of 114 unique GT words)
+     • Example misses: ['folkhemmet,', 'försvara', 'vidrigaste', 'gemensamt', 'arbetarrörelsens']
+  -> Page 23:
+     • Accuracy: 19.9% CER | 39.5% WER
+     • Missing Words: 10 (out of 35 unique GT words)
+     • Example misses: ['bibliotek', 'arkiv', 'arbetarrörelsens', 'valet', 'olof']
+
+=======================================================
+📄 Analyzing File: 750928c_sap.txt
+   Using output: 750928c_sap.txt
+=======================================================
+  -> Page 1:
+     • Accuracy: 95.3% CER | 86.9% WER
+     • Missing Words: 12 (out of 178 unique GT words)
+     • Example misses: ['opis', 'jpoints.', 'question', 'exigera', 'arbetarrörelsens']
+  -> Page 2:
+     • Accuracy: 94.2% CER | 74.6% WER
+     • Missing Words: 19 (out of 211 unique GT words)
+     • Example misses: ['arkiv', "l'orientation", 'amènerait', 'révisé', 'socialisme']
+  -> Page 3:
+     • Accuracy: 91.7% CER | 72.4% WER
+     • Missing Words: 25 (out of 215 unique GT words)
+     • Example misses: ['permit', 'continuer', 'arkiv', '3', 'devient']
+  -> Page 4:
+     • Accuracy: 90.3% CER | 70.9% WER
+     • Missing Words: 17 (out of 201 unique GT words)
+     • Example misses: ['apparaître', 'devenions', 'familj', 'équivaudrait', 'bloquages']
+  -> Page 5:
+     • Accuracy: 95.2% CER | 93.0% WER
+     • Missing Words: 15 (out of 207 unique GT words)
+     • Example misses: ['och', 'réfectoire,', 'bibliotek', 'arkiv', '$a^{\\prime}$.']
+  -> Page 6:
+     • Accuracy: 94.0% CER | 76.4% WER
+     • Missing Words: 18 (out of 212 unique GT words)
+     • Example misses: ['och', "l'élimination", '6', "1'employeur", 'bibliotek']
+  -> Page 7:
+     • Accuracy: 94.3% CER | 75.1% WER
+     • Missing Words: 15 (out of 189 unique GT words)
+     • Example misses: ['och', 'bibliotek', 'arkiv', 'arbetarrörelsens', 'soumis']
+  -> Page 8:
+     • Accuracy: 95.9% CER | 93.5% WER
+     • Missing Words: 12 (out of 185 unique GT words)
+     • Example misses: ['och', 'bibliotek', 'arkiv', 'adhérents:', '8']
+  -> Page 9:
+     • Accuracy: 94.3% CER | 74.8% WER
+     • Missing Words: 16 (out of 175 unique GT words)
+     • Example misses: ['och', '9', 'dûs', 'arkiv', 'bibliotek']
+  -> Page 10:
+     • Accuracy: 92.4% CER | 73.6% WER
+     • Missing Words: 20 (out of 238 unique GT words)
+     • Example misses: ['période', 'référer', 'arkiv', "l'histoire.", 'défense']
+  -> Page 11:
+     • Accuracy: 93.5% CER | 74.3% WER
+     • Missing Words: 15 (out of 208 unique GT words)
+     • Example misses: ['och', 'pactes.', 'misérable', 'un', 'arkiv']
+  -> Page 12:
+     • Accuracy: 95.5% CER | 89.3% WER
+     • Missing Words: 16 (out of 184 unique GT words)
+     • Example misses: ['och', 'pratique', "'une", 'bibliotek', 'arkiv']
+  -> Page 13:
+     • Accuracy: 95.7% CER | 91.2% WER
+     • Missing Words: 22 (out of 211 unique GT words)
+     • Example misses: ['arkiv', 'déclaration:', 'somme', "l'orientation", 'bourgeois']
+  -> Page 14:
+     • Accuracy: 96.6% CER | 95.8% WER
+     • Missing Words: 12 (out of 212 unique GT words)
+     • Example misses: ['och', 'bibliotek', 'arkiv', 'naturellement', 'conjuration']
+  -> Page 15:
+     • Accuracy: 96.4% CER | 91.8% WER
+     • Missing Words: 12 (out of 196 unique GT words)
+     • Example misses: ['och', 'bibliotek', "l'impossibilité", 'arkiv', '15']
+  -> Page 16:
+     • Accuracy: 93.3% CER | 89.1% WER
+     • Missing Words: 9 (out of 193 unique GT words)
+     • Example misses: ['economie', 'confirma', 'arkiv', 'déshéritées', 'phm']
+  -> Page 17:
+     • Accuracy: 94.5% CER | 76.1% WER
+     • Missing Words: 25 (out of 209 unique GT words)
+     • Example misses: ['arkiv', 'nécessaire', 'collectivité.', 'géants', 'internationaux.']
+  -> Page 18:
+     • Accuracy: 95.9% CER | 90.9% WER
+     • Missing Words: 12 (out of 200 unique GT words)
+     • Example misses: ['och', 'bibliotek', 'arkiv', 'représenta', 'hällekis.']
+  -> Page 19:
+     • Accuracy: 96.0% CER | 94.5% WER
+     • Missing Words: 12 (out of 194 unique GT words)
+     • Example misses: ['och', 'bibliotek', 'arkiv', '$n^{\\prime}y$', 'arbetarrörelsens']
+  -> Page 20:
+     • Accuracy: 65.1% CER | 63.5% WER
+     • Missing Words: 14 (out of 210 unique GT words)
+     • Example misses: ['och', "s'habituer", 'bibliotek', 'arkiv', 'elément']
+  -> Page 21:
+     • Accuracy: 91.9% CER | 77.6% WER
+     • Missing Words: 10 (out of 205 unique GT words)
+     • Example misses: ['œuvrer', 'ouvriers', 'marmonnement', 'établi.', 'olof']
+  -> Page 22:
+     • Accuracy: 95.5% CER | 92.0% WER
+     • Missing Words: 14 (out of 199 unique GT words)
+     • Example misses: ['och', 'familj', 'bibliotek', 'arkiv', 'arbetarrörelsens']
+  -> Page 23:
+     • Accuracy: 92.4% CER | 75.9% WER
+     • Missing Words: 20 (out of 218 unique GT words)
+     • Example misses: ['arkiv', 'façonner', 'observateurs', 'olof', 'aurons']
+  -> Page 24:
+     • Accuracy: 95.2% CER | 91.7% WER
+     • Missing Words: 19 (out of 193 unique GT words)
+     • Example misses: ['24', 'arkiv', 'super-puissances.', 'constitua', 'maîtresse']
+  -> Page 25:
+     • Accuracy: 94.1% CER | 77.4% WER
+     • Missing Words: 19 (out of 215 unique GT words)
+     • Example misses: ['fréquemment', 'arkiv', 'renouvellement', 'mouvements', 'idéologies']
+  -> Page 26:
+     • Accuracy: 87.1% CER | 72.7% WER
+     • Missing Words: 27 (out of 208 unique GT words)
+     • Example misses: ['bien-être', 'aimer', 'politique?', 'arkiv', 'pour']
+
+=======================================================
+📄 Analyzing File: akl-2017-02-27-AM-2017-1099-SA-Brev-till-KP.txt
+   Using output: akl-2017-02-27-AM-2017-1099-SA-Brev-till-KP.txt
+=======================================================
+  -> Page 1:
+     • Accuracy: 93.8% CER | 83.7% WER
+     • Missing Words: 36 (out of 230 unique GT words)
+     • Example misses: ['bakom.', 'polisiära', 'paimeutredning', '---räcker', 'mötts']
+  -> Page 2:
+     • Accuracy: 94.7% CER | 74.8% WER
+     • Missing Words: 10 (out of 104 unique GT words)
+     • Example misses: ['./.', '3.1', 'åklagarbesiut!', 'år,', 'palmeärendet.']
+  -> Page 3:
+     • Accuracy: 91.1% CER | 73.0% WER
+     • Missing Words: 4 (out of 79 unique GT words)
+     • Example misses: ['hejn', 'sårande', 'bokan', 'känns']
+  -> Page 4:
+     • Accuracy: 95.8% CER | 70.7% WER
+     • Missing Words: 5 (out of 98 unique GT words)
+     • Example misses: ['ordagrant', 'eventellt', 'mötet', 'råkat', 'själv.gav']
+  -> Page 5:
+     • Accuracy: 96.3% CER | 74.6% WER
+     • Missing Words: 7 (out of 98 unique GT words)
+     • Example misses: ['"affären', 'båten.', '"', 'a', 'länge,']
+  -> Page 6:
+     • Accuracy: 96.9% CER | 90.4% WER
+     • Missing Words: 6 (out of 94 unique GT words)
+     • Example misses: ['mea', 'stå', '1992-', '5%.', '11-21.']
+  -> Page 7:
+     • Accuracy: 96.0% CER | 91.5% WER
+     • Missing Words: 3 (out of 89 unique GT words)
+     • Example misses: ['chittade', 'vare', 'uppmärksammat']
+  -> Page 8:
+     • Accuracy: 43.5% CER | 37.5% WER
+     • Missing Words: 2 (out of 8 unique GT words)
+     • Example misses: ['gottf', 'på']
+  -> Page 9:
+     • Accuracy: 34.5% CER | 4.3% WER
+     • Missing Words: 60 (out of 78 unique GT words)
+     • Example misses: ['trai', 'värinna', 'mondare', 'fastigle', 'kall']
+  -> Page 10:
+     • Accuracy: 47.3% CER | 20.0% WER
+     • Missing Words: 55 (out of 78 unique GT words)
+     • Example misses: ['igentländ,', 'ville', 'upp', 'skón', 'dan']
+  -> Page 11:
+     • Accuracy: 50.3% CER | 17.9% WER
+     • Missing Words: 55 (out of 77 unique GT words)
+     • Example misses: ['bou', 'agera.', 'palme', 'a', 'honodesa']
+  -> Page 12:
+     • Accuracy: 46.2% CER | 21.4% WER
+     • Missing Words: 21 (out of 37 unique GT words)
+     • Example misses: ['bou', 'house', 'plats.', 'lade', 'as']
+  -> Page 13:
+     • Accuracy: 89.5% CER | 68.9% WER
+     • Missing Words: 27 (out of 194 unique GT words)
+     • Example misses: ['månader', 'dekorimamannen,', 'högermarginalena,', 'efteråt.', 'båttur']
+  -> Page 14:
+     • Accuracy: 92.8% CER | 78.6% WER
+     • Missing Words: 35 (out of 255 unique GT words)
+     • Example misses: ['gymmee,', 'mig.', 'klara', 'mördaren"', 'fön']
+  -> Page 15:
+     • Accuracy: 0.0% CER | 12.5% WER
+     • Missing Words: 0 (out of 18 unique GT words)
+⚠️ Warning: Missing output file for pol-1986-03-03-Granne-till-Mårten-Palme-röda-boken-Förhör-Mårten-Palme-D-364.PDF.txt
+
+=======================================================
+📄 Analyzing File: pol-1986-03-04-L854-Anja-Landgree-Inga-Ålenius.txt
+   Using output: pol-1986-03-04-L854-Anja-Landgree-Inga-Ålenius.txt
+=======================================================
+  -> Page 1:
+     • Accuracy: 61.8% CER | 38.9% WER
+     • Missing Words: 74 (out of 202 unique GT words)
+     • Example misses: ['uppgiftslämnarens', 'grövre', 'anja', 'mördades.', 'spaningschetens']
+  -> Page 2:
+     • Accuracy: 64.7% CER | 45.2% WER
+     • Missing Words: 100 (out of 243 unique GT words)
+     • Example misses: ['mad', 'vid', '(utdelningsadress', 'anknyter', '06.']
+  -> Page 3:
+     • Accuracy: 70.0% CER | 57.1% WER
+     • Missing Words: 62 (out of 187 unique GT words)
+     • Example misses: ['bandupptagning.', 'utskriftsdatum', 'vilket', '☐', '06']
+  -> Page 4:
+     • Accuracy: 89.8% CER | 81.1% WER
+     • Missing Words: 39 (out of 238 unique GT words)
+     • Example misses: ['sid', 'utskriftsdatum', '☐', 'plats.', 'förhörstillfället']
+  -> Page 5:
+     • Accuracy: 87.3% CER | 79.0% WER
+     • Missing Words: 46 (out of 232 unique GT words)
+     • Example misses: ['sid', 'bygge', 'förhörsprol', 'fastig-', 'ganska']
+  -> Page 6:
+     • Accuracy: 87.6% CER | 81.0% WER
+     • Missing Words: 36 (out of 241 unique GT words)
+     • Example misses: ['sid', 'samman', 'telefon', 'utskriftsdatum', '☐']
+  -> Page 7:
+     • Accuracy: 84.5% CER | 74.8% WER
+     • Missing Words: 39 (out of 199 unique GT words)
+     • Example misses: ['sid', '118.', 'utskriftsdatum', 'telefon', 'vilket']
+  -> Page 8:
+     • Accuracy: 58.5% CER | 36.8% WER
+     • Missing Words: 46 (out of 166 unique GT words)
+     • Example misses: ['sid', 'telefon', 'utskriftsdatum', 'västerås', '☐']
+  -> Page 9:
+     • Accuracy: 87.2% CER | 81.7% WER
+     • Missing Words: 39 (out of 223 unique GT words)
+     • Example misses: ['tycke', 'sid', 'samman', 'utskriftsdatum', '☐']
+  -> Page 10:
+     • Accuracy: 84.6% CER | 69.0% WER
+     • Missing Words: 46 (out of 232 unique GT words)
+     • Example misses: ['sid', 'samman', 'fortsätt', 'utskriftsdatum', 'telefon']
+  -> Page 11:
+     • Accuracy: 85.5% CER | 69.7% WER
+     • Missing Words: 49 (out of 224 unique GT words)
+     • Example misses: ['sid', 'höger', '09', 'utskriftsdatum', 'telefon']
+  -> Page 12:
+     • Accuracy: 80.2% CER | 70.9% WER
+     • Missing Words: 52 (out of 228 unique GT words)
+     • Example misses: ['fortsätt', '09', 'utskriftsdatum', 'telefon', 'vilket']
+  -> Page 13:
+     • Accuracy: 88.2% CER | 79.3% WER
+     • Missing Words: 48 (out of 235 unique GT words)
+     • Example misses: ['sid', 'utskriftsdatum', '☐', 'ning.', '06']
+  -> Page 14:
+     • Accuracy: 85.5% CER | 78.4% WER
+     • Missing Words: 42 (out of 192 unique GT words)
+     • Example misses: ['07', 'sid', 'samman', 'konstruktion', '09']
+  -> Page 15:
+     • Accuracy: 68.7% CER | 59.7% WER
+     • Missing Words: 33 (out of 97 unique GT words)
+     • Example misses: ['sid', 'telefon', 'utskriftsdatum', '☐', 'pärm']
+  -> Page 16:
+     • Accuracy: 61.0% CER | 44.2% WER
+     • Missing Words: 61 (out of 174 unique GT words)
+     • Example misses: ['sid', '37.', 'konfrontationsledare:', 'samman', '09']
+  -> Page 17:
+     • Accuracy: 83.4% CER | 76.9% WER
+     • Missing Words: 56 (out of 241 unique GT words)
+     • Example misses: ['sid', 'mas-', 'ran', 'jämnför', 'telefon']
+  -> Page 18:
+     • Accuracy: 84.3% CER | 73.5% WER
+     • Missing Words: 36 (out of 167 unique GT words)
+     • Example misses: ['sid', 'or', 'telefon', 'utskriftsdatum', '☐']
+  -> Page 19:
+     • Accuracy: 82.2% CER | 68.2% WER
+     • Missing Words: 40 (out of 205 unique GT words)
+     • Example misses: ['07', 'sid', '09', 'utskriftsdatum', 'telefon']
+  -> Page 20:
+     • Accuracy: 81.6% CER | 73.2% WER
+     • Missing Words: 44 (out of 218 unique GT words)
+     • Example misses: ['sid', 'telefon', 'utskriftsdatum', 'i-.', 'vilket']
+  -> Page 21:
+     • Accuracy: 63.0% CER | 48.3% WER
+     • Missing Words: 28 (out of 99 unique GT words)
+     • Example misses: ['sid', 'samman', 'fortsätt', '09', 'vilket']
+  -> Page 22:
+     • Accuracy: 16.6% CER | 0.0% WER
+     • Missing Words: 53 (out of 83 unique GT words)
+     • Example misses: ['gön', 'veta!', 'fortfarnte', '1-', 'blev']
+  -> Page 23:
+     • Accuracy: 0.0% CER | 0.0% WER
+     • Missing Words: 0 (out of 1 unique GT words)
+  -> Page 24:
+     • Accuracy: 73.1% CER | 57.8% WER
+     • Missing Words: 47 (out of 187 unique GT words)
+     • Example misses: ['sid', 'fortsätt', 'telefon', '854-1-1', 'vilket']
+  -> Page 25:
+     • Accuracy: 85.5% CER | 75.9% WER
+     • Missing Words: 54 (out of 263 unique GT words)
+     • Example misses: ['samman', '09', 'utskriftsdatum', 'telefon', '☐']
+  -> Page 26:
+     • Accuracy: 87.7% CER | 74.9% WER
+     • Missing Words: 37 (out of 242 unique GT words)
+     • Example misses: ['bombsäker,', 'sid', 'samman', 'telefon', 'utskriftsdatum']
+  -> Page 27:
+     • Accuracy: 65.0% CER | 51.1% WER
+     • Missing Words: 22 (out of 69 unique GT words)
+     • Example misses: ['sid', 'spaningschefens', 'telefon', 'utskriftsdatum', '☐']
+  -> Page 28:
+     • Accuracy: 91.3% CER | 80.3% WER
+     • Missing Words: 10 (out of 103 unique GT words)
+     • Example misses: ['glömma.', 'had', '854-2', 'skådespelerska', 'l']
+  -> Page 29:
+     • Accuracy: 60.6% CER | 60.0% WER
+     • Missing Words: 14 (out of 65 unique GT words)
+     • Example misses: ['alenius', '2009', 'dur', '".', '"stefan']
+
+=======================================================
+📄 Analyzing File: pol-1986-03-18-EAE-340-F.txt
+   Using output: pol-1986-03-18-EAE-340-F.txt
+=======================================================
+  -> Page 1:
+     • Accuracy: 66.3% CER | 45.7% WER
+     • Missing Words: 125 (out of 330 unique GT words)
+     • Example misses: ['ställningens', 'troligtvis', 'nat', 'bakst', 'teaterlokalen,']
+  -> Page 2:
+     • Accuracy: 92.3% CER | 70.8% WER
+     • Missing Words: 30 (out of 215 unique GT words)
+     • Example misses: ['kvallen', 'göteborg.', 'ombord', 'så,', '04.30-']
+  -> Page 3:
+     • Accuracy: 88.8% CER | 67.1% WER
+     • Missing Words: 19 (out of 170 unique GT words)
+     • Example misses: ['45:', 'skotten,', 'hört', 'förhörsprotokoll', 'förhöret']
+  -> Page 4:
+     • Accuracy: 64.0% CER | 62.2% WER
+     • Missing Words: 5 (out of 75 unique GT words)
+     • Example misses: ['rps/säk', '1950-talet.', 'ren', 'felaktig', 'hår']
+
+=======================================================
+📄 Analyzing File: pol-1986-03-25-D-4594-Åke-Malmström-hörd-radiokommunikation.txt
+   Using output: pol-1986-03-25-D-4594-Åke-Malmström-hörd-radiokommunikation.txt
+=======================================================
+  -> Page 1:
+     • Accuracy: 51.5% CER | 29.1% WER
+     • Missing Words: 161 (out of 258 unique GT words)
+     • Example misses: ['utr,', 'nedan.', 't.s', 'gods', 'lörnamn']
+  -> Page 2:
+     • Accuracy: 56.1% CER | 8.2% WER
+     • Missing Words: 256 (out of 417 unique GT words)
+     • Example misses: ['yrka,', 'lse', 'fordons', '70', 'endast']
+  -> Page 3:
+     • Accuracy: 64.0% CER | 47.5% WER
+     • Missing Words: 47 (out of 113 unique GT words)
+     • Example misses: ['dröjer', 'intäkt', 'grövre', 'samman', '09']
+  -> Page 4:
+     • Accuracy: 87.4% CER | 70.9% WER
+     • Missing Words: 38 (out of 166 unique GT words)
+     • Example misses: ['12:10', 'jagtillade', 'bad', '54', '02-17']
+  -> Page 5:
+     • Accuracy: 92.2% CER | 72.8% WER
+     • Missing Words: 37 (out of 166 unique GT words)
+     • Example misses: ['44594-b', 'övrigt', 'jagtillade', 'bad', 'felaktigo,']
+  -> Page 6:
+     • Accuracy: 87.4% CER | 69.6% WER
+     • Missing Words: 19 (out of 150 unique GT words)
+     • Example misses: ['4594-c', 'åkte', 'ingen', 'hållet', '|---|---|']
+  -> Page 7:
+     • Accuracy: 88.0% CER | 79.7% WER
+     • Missing Words: 18 (out of 195 unique GT words)
+     • Example misses: ['noterats', 'samtalet', 'förprogrammerade', 'skriftlig', 'skäl']
+  -> Page 8:
+     • Accuracy: 92.4% CER | 81.1% WER
+     • Missing Words: 24 (out of 226 unique GT words)
+     • Example misses: ['samtalet', 'hört', '3', 'tillfrågas', 'telefon/kommu-']
+  -> Page 9:
+     • Accuracy: 86.6% CER | 69.3% WER
+     • Missing Words: 10 (out of 120 unique GT words)
+     • Example misses: ['förda', 'om.', 'jan-åke', 'direkt', 'avslutat']
+  -> Page 10:
+     • Accuracy: 48.3% CER | 24.5% WER
+     • Missing Words: 283 (out of 493 unique GT words)
+     • Example misses: ['anrop', 'sådana', 'våldsutvecklingen",', 'samman', 'anmäles']
+  -> Page 11:
+     • Accuracy: 80.6% CER | 65.7% WER
+     • Missing Words: 21 (out of 147 unique GT words)
+     • Example misses: ['95-03-15', 'rkp-a', 'rikskrualen', 'vi', '56']
+  -> Page 12:
+     • Accuracy: 67.2% CER | 34.9% WER
+     • Missing Words: 23 (out of 64 unique GT words)
+     • Example misses: ['网', '(åberopas', 'rkp-a', 'diarlene', 'vid']
+  -> Page 13:
+     • Accuracy: 85.5% CER | 51.9% WER
+     • Missing Words: 58 (out of 220 unique GT words)
+     • Example misses: ['26,596mhz/102μν;', 'vilket', '80,695mhz/406μν', '(u),', '80,546mhz/439μν']
+  -> Page 14:
+     • Accuracy: 99.3% CER | 92.3% WER
+     • Missing Words: 0 (out of 36 unique GT words)
+  -> Page 15:
+     • Accuracy: 30.4% CER | 50.0% WER
+     • Missing Words: 3 (out of 30 unique GT words)
+     • Example misses: ['295', 'd4594-4', 'pk']
+
+=======================================================
+📄 Analyzing File: pol-1992-06-30-Förhör-Lars-Ferm-Svartenbrandt-I-12018-3.txt
+   Using output: pol-1992-06-30-Förhör-Lars-Ferm-Svartenbrandt-I-12018-3.txt
+=======================================================
+  -> Page 1:
+     • Accuracy: 75.3% CER | 52.6% WER
+     • Missing Words: 52 (out of 136 unique GT words)
+     • Example misses: ['or', '☐', 'spanngschetens', 'försöka', 'til']
+  -> Page 2:
+     • Accuracy: 59.8% CER | 43.0% WER
+     • Missing Words: 43 (out of 157 unique GT words)
+     • Example misses: ['etiam', 'fortsätt', '"slå', 'nöjd', '☐']
+  -> Page 3:
+     • Accuracy: 74.4% CER | 55.3% WER
+     • Missing Words: 56 (out of 172 unique GT words)
+     • Example misses: ['grövre', 'spaningschefens', 'pom', 'mördades.', 'vapen/revolvrar']
+  -> Page 4:
+     • Accuracy: 58.3% CER | 36.6% WER
+     • Missing Words: 75 (out of 171 unique GT words)
+     • Example misses: ['besöka', 'spaningsuppslaget,', 'samman', 'fortsätt', '112653']
+  -> Page 5:
+     • Accuracy: 61.0% CER | 38.1% WER
+     • Missing Words: 44 (out of 121 unique GT words)
+     • Example misses: ['fortsätt', 'spaningschefens', 'sedm', 'vilket', 'utsiktsdatum']
+  -> Page 6:
+     • Accuracy: 81.4% CER | 59.7% WER
+     • Missing Words: 31 (out of 113 unique GT words)
+     • Example misses: ['07', 'fortsätt', '☐', 'side', 'upplästa']
+  -> Page 7:
+     • Accuracy: 45.0% CER | 43.3% WER
+     • Missing Words: 31 (out of 96 unique GT words)
+     • Example misses: ['förhor.', 'trottnál', '☐', 'forsart', 'hört']
+
+=======================================================
+📄 Analyzing File: pol-1994-03-24-SÄPO-PM-Swedenborgskyrkan-HE-15241-02.txt
+   Using output: pol-1994-03-24-SÄPO-PM-Swedenborgskyrkan-HE-15241-02.txt
+=======================================================
+  -> Page 1:
+     • Accuracy: 93.9% CER | 68.3% WER
+     • Missing Words: 25 (out of 213 unique GT words)
+     • Example misses: ['p', 'höll', 'bokhyllor.', 'skilsmässa",', 'flaggor.']
+  -> Page 2:
+     • Accuracy: 91.0% CER | 74.4% WER
+     • Missing Words: 33 (out of 202 unique GT words)
+     • Example misses: ['fälle,', 'låsen', 'känner', 'styrelserna.', 'bl']
+  -> Page 3:
+     • Accuracy: 86.3% CER | 59.8% WER
+     • Missing Words: 10 (out of 100 unique GT words)
+     • Example misses: ['skilsmässa', 'års', 'pome', 'bevåg,', 'högerextremist.']
+  -> Page 4:
+     • Accuracy: 56.9% CER | 32.6% WER
+     • Missing Words: 182 (out of 297 unique GT words)
+     • Example misses: ['förklara', 'konstaterar', 'ru', 'blev', 'religlös']
+
+=======================================================
+📄 Analyzing File: pol-2017-10-03-E63-05-B.txt
+   Using output: pol-2017-10-03-E63-05-B.txt
+=======================================================
+  -> Page 1:
+     • Accuracy: 65.6% CER | 33.9% WER
+     • Missing Words: 9 (out of 110 unique GT words)
+     • Example misses: ['steude', '13:38', 'engströms,', 'amne:', 'polisen,']
+  -> Page 2:
+     • Accuracy: 51.8% CER | 35.6% WER
+     • Missing Words: 4 (out of 76 unique GT words)
+     • Example misses: ['dligen', 'rattare', '14:03', 'förmedlade']
+  -> Page 3:
+     • Accuracy: 92.4% CER | 64.0% WER
+     • Missing Words: 7 (out of 59 unique GT words)
+     • Example misses: ['skickat:', 'ett', 'amne:', '☑', 'sovjet-stockholm.']
+  -> Page 4:
+     • Accuracy: 0.1% CER | 0.0% WER
+     • Missing Words: 177 (out of 270 unique GT words)
+     • Example misses: ['grov', '"antikvitets', 'kvinnor', 'kvinnor.', 'kansärskilt']
+  -> Page 5:
+     • Accuracy: 43.6% CER | 9.1% WER
+     • Missing Words: 226 (out of 367 unique GT words)
+     • Example misses: ['lgs', 'giller', 'huvudentre.', 'baka.', 'drygt']
+
+✅ Evaluation complete. Results saved locally to: evaluation_results.txt
