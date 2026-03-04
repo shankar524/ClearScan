@@ -3,3 +3,7 @@ models/
 llama_bin/
 temp_images/
 llama-b8189-bin-win-cpu-x64.zip
+qwen3vl_test/
+nanonets_test/
+nanonets_1b5_test/
+.venv/
