@@ -1,0 +1,51 @@
+# Git
+.git
+.gitignore
+
+# Local data & output (user mounts their own volumes)
+data/
+output/
+debug_preprocessed/
+ground_truth_data/
+evaluation_results.txt
+temp_pages/
+temp_images/
+
+# Windows binaries (Linux binary downloaded during build)
+llama_bin/
+llama-b8189-bin-win-cpu-x64.zip
+
+# Models (downloaded during Docker build)
+models/
+
+# Development / testing scripts
+testing_v3*
+inspect_preprocessing.py
+qwen3vl_test/
+nanonets_test/
+nanonets_1b5_test/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Docker
+Dockerfile
+docker-compose*.yml
+.dockerignore
+
+# OS
+.DS_Store
+Thumbs.db
