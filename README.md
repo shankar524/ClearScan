@@ -12,11 +12,11 @@ The simplest way to use ClearScan. No Python setup, no model downloads — every
 ### Build
 
 ```bash
-docker build --platform linux/amd64 -t clearscan .
+docker build -t clearscan .
 ```
 
 > First build downloads the model (~1.6 GB) and llama.cpp binary. Subsequent builds use Docker cache.
-> The `--platform linux/amd64` flag is required because the llama.cpp binary is built for x86_64 Linux. On Apple Silicon Macs, Docker will use QEMU emulation — this works but is significantly slower than native x86_64 hardware.
+> The Dockerfile is multi-platform: on x86_64 hosts it downloads a pre-built llama.cpp binary; on ARM64 (e.g. Apple Silicon) it compiles from source. The first ARM64 build takes ~5 minutes for the compilation step.
 
 ### Run
 
@@ -34,14 +34,14 @@ This processes all `.pdf` files in the input directory and writes `.txt` files t
 ```bash
 # Use 8 threads, larger context window
 docker run --rm \
-  -v ./data:/input \
-  -v ./output:/output \
+  -v "$(pwd)/data":/input \
+  -v "$(pwd)/output":/output \
   clearscan --threads 8 --ctx-size 8192
 
 # Adjust temperature and max tokens
 docker run --rm \
-  -v ./data:/input \
-  -v ./output:/output \
+  -v "$(pwd)/data":/input \
+  -v "$(pwd)/output":/output \
   clearscan --temp 0.5 --max-tokens 2000
 ```
 
@@ -59,18 +59,19 @@ docker run --rm \
 ```bash
 docker run --rm \
   -e CLEARSCAN_THREADS=8 \
-  -v ./data:/input \
-  -v ./output:/output \
+  -v "$(pwd)/data":/input \
+  -v "$(pwd)/output":/output \
   clearscan
 ```
 
 ### Image Details
 
-- **Size**: ~3-4 GB (1.6 GB models + base image + dependencies)
+- **Size**: ~2.5 GB (1.6 GB models + base image + dependencies)
 - **RAM**: ~2 GB minimum at runtime
 - **CPU only** — no GPU required
 - **Base**: `python:3.11-slim`
-- **llama.cpp**: pre-built Ubuntu x64 binary (pinned release)
+- **Multi-platform**: native builds for both `linux/amd64` and `linux/arm64`
+- **llama.cpp**: release b8198 (pre-built binary on amd64, compiled from source on arm64)
 
 ---
 
