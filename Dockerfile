@@ -102,7 +102,7 @@ COPY --from=llama-builder /build/out/ /app/llama_bin/
 COPY --from=model-downloader /models/ /app/models/
 
 # Copy application code
-COPY run_ocr.py .
+COPY main.py .
 COPY download_model.py .
 COPY docker-entrypoint.sh .
 

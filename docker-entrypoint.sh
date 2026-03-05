@@ -4,7 +4,7 @@ set -e
 # ─── Pass-through for --help ─────────────────────────────────
 case "$1" in
     -h|--help)
-        exec python run_ocr.py --help
+        exec python main.py --help
         ;;
 esac
 
@@ -35,4 +35,4 @@ echo " Output: /output"
 echo "============================================================"
 
 # Forward all extra CLI arguments (e.g. --threads 8, --ctx-size 8192)
-exec python run_ocr.py --input /input --output /output "$@"
+exec python main.py --input /input --output /output "$@"
