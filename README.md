@@ -1,13 +1,106 @@
 
-## ClearScan OCR
+# ClearScan
 
-PDF-to-text OCR pipeline using **Qwen3-VL-2B** (quantized GGUF) via **llama.cpp**. Transcribes scanned documents — including handwritten text and Swedish characters — to plain text files.
+PDF-to-text OCR for scanned documents — including handwritten text and Swedish characters — powered by a locally-running vision-language model. No API keys, no cloud, no data leaves the machine.
+
+## What It Does
+
+ClearScan takes a folder of scanned PDFs and produces clean `.txt` transcriptions, one file per PDF. It handles:
+
+- Works for both Typewritten and handwritten documents
+- Handles Low-contrast, faded, or photographed scans (adaptive image enhancement)
+- Keen recognition for Swedish characters: Å Ä Ö å ä ö
+- Adds Redacted sections → `[REDACTED]` if text is redacted
+- For Unreadable words → `[?]`
+- Multi-page PDFs (each page processed independently and appended in order)
+
+**Typical throughput:** ~75–90 s/page on a modern CPU at 4 threads.
 
 ---
 
-## Docker (Recommended)
+## How It Works
 
-The simplest way to use ClearScan. No Python setup, no model downloads — everything is bundled in the image.
+Each PDF page is processed in two stages: **image preprocessing** then **LLM inference**. A new `llama-mtmd-cli` subprocess is spawned per page to keep memory usage flat across long documents.
+
+```plantuml
+@startuml
+skinparam sequenceMessageAlign center
+skinparam backgroundColor #FAFAFA
+skinparam participantBackgroundColor #EEF5FF
+skinparam noteBackgroundColor #FFFFF0
+
+actor       "User"                         as U
+participant "run_ocr.py"                   as S
+participant "PyMuPDF (fitz)"               as PDF
+participant "OpenCV / PIL"                 as CV
+participant "llama-mtmd-cli (subprocess)"  as LC
+participant "Qwen3-VL-2B (GGUF)"           as M
+
+U  ->  S   : PDFs placed in /input
+loop for each PDF file
+  S  ->  PDF : fitz.open(pdf)
+  loop for each page
+    PDF ->  S  : raw page object
+    S  ->  S   : render at 200 DPI\nresize so long edge ≤ 1120 px
+    S  ->  CV  : preprocess_image()
+    note right of CV
+      grayscale std-dev → contrast score
+      ──────────────────────────────────
+      contrast < 60  →  ENHANCED mode
+        · CLAHE histogram equalization
+        · unsharp-mask sharpening
+        · non-local means denoising
+      contrast ≥ 60  →  CLEAN mode
+        · light unsharp-mask only
+      ──────────────────────────────────
+      save as JPEG @ quality 92
+    end note
+    CV  ->  S  : preprocessed JPEG (temp file)
+    S  ->  LC  : subprocess.run(\n  llama-mtmd-cli\n  --model  Qwen3VL-Q4_K_M.gguf\n  --mmproj mmproj-F16.gguf\n  --image  page.jpg\n  --jinja --temp 0.7 -ngl 0\n)
+    LC  ->  M  : JPEG → vision encoder\n(mmproj) → visual tokens
+    LC  ->  M  : prefill: system prompt\n+ visual tokens + user prompt\nthen autoregressive decode
+    M  ->  LC  : token stream
+    LC  ->  S  : stdout (transcription + llama.cpp diagnostics)
+    S  ->  S   : strip diagnostic lines\nappend page text to output .txt
+    S  ->  S   : delete temp JPEG · gc.collect()
+  end
+end
+S  ->  U   : /output/<name>.txt
+@enduml
+```
+
+### Key design decisions
+
+| Decision | Rationale |
+|---|---|
+| **One subprocess per page** | Prevents memory accumulation on long documents; each page starts with a fresh heap |
+| **CPU-only** (`-ngl 0`) | Runs on any machine — no GPU or driver setup required |
+| **Q4_K_M quantization** | 4-bit K-means grouping — best accuracy/size tradeoff for a 2 B model |
+| **`/no_think` prefix** | Disables Qwen3 chain-of-thought mode; avoids wasting tokens on reasoning |
+| **Presence penalty 1.5** | Suppresses line/paragraph repetition, the most common OCR-prompting failure mode |
+| **Adaptive preprocessing** | CLAHE + denoising only when contrast is genuinely low; clean scans go through minimal sharpening only |
+
+---
+
+## Model Dependencies
+
+| Component | HuggingFace source | Size | Role |
+|---|---|---|---|
+| `Qwen3VL-2B-Instruct-Q4_K_M.gguf` | [Qwen/Qwen3-VL-2B-Instruct-GGUF](https://huggingface.co/Qwen/Qwen3-VL-2B-Instruct-GGUF) | ~1.1 GB | LLM weights (4-bit quantized) |
+| `mmproj-Qwen3VL-2B-Instruct-F16.gguf` | [Qwen/Qwen3-VL-2B-Instruct-GGUF](https://huggingface.co/Qwen/Qwen3-VL-2B-Instruct-GGUF) | ~782 MB | Vision encoder / multimodal projector (FP16) |
+| `llama-mtmd-cli` binary | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) release `b8198` | ~4 MB | Inference runtime (multimodal CLI) |
+
+In Docker both GGUFs are baked into the image at build time — no internet access is needed at runtime.
+
+---
+
+## Build & Run — Docker (Recommended)
+
+### Requirements
+
+- Docker Desktop ≥ 4.x (or Docker Engine on Linux)
+- ~3 GB free disk for the image
+- ~2 GB RAM at runtime
 
 ### Build
 
@@ -15,235 +108,190 @@ The simplest way to use ClearScan. No Python setup, no model downloads — every
 docker build -t clearscan .
 ```
 
-> First build downloads the model (~1.6 GB) and llama.cpp binary. Subsequent builds use Docker cache.
-> The Dockerfile is multi-platform: on x86_64 hosts it downloads a pre-built llama.cpp binary; on ARM64 (e.g. Apple Silicon) it compiles from source. The first ARM64 build takes ~5 minutes for the compilation step.
+> **First build** fetches models (~1.9 GB) and the llama.cpp binary — allow 10–15 minutes.
+> **Subsequent builds** are fast thanks to layer caching.
+
+The Dockerfile is **multi-platform**:
+- `linux/amd64` — downloads a pre-built llama.cpp release binary
+- `linux/arm64` (Apple Silicon) — compiles llama.cpp from source (~5 extra minutes)
+
+No `--platform` flag required; Docker picks the right path automatically.
 
 ### Run
 
 ```bash
 docker run --rm \
-  -v /path/to/your/pdfs:/input \
-  -v /path/to/results:/output \
+  -v "$(pwd)/data":/input \
+  -v "$(pwd)/output":/output \
   clearscan
 ```
 
-This processes all `.pdf` files in the input directory and writes `.txt` files to the output directory.
+All `.pdf` files in `./data/` are processed; `.txt` results appear in `./output/`.
 
-### Custom Settings
+### Options
 
 ```bash
-# Use 8 threads, larger context window
+# More threads
 docker run --rm \
-  -v "$(pwd)/data":/input \
-  -v "$(pwd)/output":/output \
-  clearscan --threads 8 --ctx-size 8192
+  -v "$(pwd)/data":/input -v "$(pwd)/output":/output \
+  clearscan --threads 8
 
-# Adjust temperature and max tokens
+# Larger context window for dense pages
 docker run --rm \
-  -v "$(pwd)/data":/input \
-  -v "$(pwd)/output":/output \
-  clearscan --temp 0.5 --max-tokens 2000
+  -v "$(pwd)/data":/input -v "$(pwd)/output":/output \
+  clearscan --ctx-size 8192 --max-tokens 2000
+
+# Full help
+docker run --rm clearscan --help
 ```
 
-### All Options
+### Configuration reference
 
-| Flag            | Env Variable            | Default | Description                     |
-|-----------------|-------------------------|---------|---------------------------------|
-| `-t, --threads` | `CLEARSCAN_THREADS`     | 4       | CPU threads                     |
-| `--ctx-size`    | `CLEARSCAN_CTX_SIZE`    | 4096    | Context window size             |
-| `--max-tokens`  | `CLEARSCAN_MAX_TOKENS`  | 1500    | Max output tokens per page      |
-| `--temp`        | `CLEARSCAN_TEMP`        | 0.7     | Sampling temperature            |
+CLI flags override env vars; env vars override built-in defaults.
 
-### Environment Variable Overrides
+| Flag | Env variable | Default | Description |
+|---|---|---|---|
+| `-t, --threads` | `CLEARSCAN_THREADS` | `4` | CPU threads for inference |
+| `--ctx-size` | `CLEARSCAN_CTX_SIZE` | `4096` | Context window (tokens) |
+| `--max-tokens` | `CLEARSCAN_MAX_TOKENS` | `1500` | Max output tokens per page |
+| `--temp` | `CLEARSCAN_TEMP` | `0.7` | Sampling temperature |
 
 ```bash
+# Via environment variables
 docker run --rm \
   -e CLEARSCAN_THREADS=8 \
+  -e CLEARSCAN_CTX_SIZE=8192 \
   -v "$(pwd)/data":/input \
   -v "$(pwd)/output":/output \
   clearscan
 ```
 
-### Image Details
+### Image details
 
-- **Size**: ~2.5 GB (1.6 GB models + base image + dependencies)
-- **RAM**: ~2 GB minimum at runtime
-- **CPU only** — no GPU required
-- **Base**: `python:3.11-slim`
-- **Multi-platform**: native builds for both `linux/amd64` and `linux/arm64`
-- **llama.cpp**: release b8198 (pre-built binary on amd64, compiled from source on arm64)
-
----
-
-## Local Setup (Without Docker)
-
-```bash
-# Go to your main project folder
-cd path/to/your/project_folder
-
-# Create a completely separate folder for this model test
-mkdir qwen3vl_test
-cd qwen3vl_test
-
-# Create subfolders
-mkdir data output models
-```
-
-Your structure:
-```
-project_folder/
-├── (your existing paddle code)
-├── nanonets_test/         ← previous test
-└── qwen3vl_test/
-    ├── data/              ← put your test PDFs here
-    ├── output/            ← text results will appear here
-    └── models/            ← GGUF weights download here
-```
+| | |
+|---|---|
+| Base image | `python:3.11-slim` |
+| Compressed size | ~2.5 GB |
+| Platforms | `linux/amd64`, `linux/arm64` |
+| llama.cpp | pinned to release `b8198` |
+| Models | baked in at build time |
 
 ---
 
-### STEP 2 — Create the Virtual Environment
+## Build & Run — Local (Without Docker)
+
+### Prerequisites
+
+- Python 3.10+
+- ~2 GB free disk for models
+- ~2 GB RAM at runtime
+
+### 1. Install Python dependencies
 
 ```bash
-python -m venv venv_qwen3vl
+git clone <repo-url> && cd ClearScan
+python -m venv .venv
+source .venv/bin/activate        # Windows: .venv\Scripts\activate
+pip install --upgrade pip
+pip install -r requirements.txt
 ```
 
-Activate it:
+### 2. Get the llama.cpp binary
 
-**Windows:**
+Download the pre-built binary for your platform from the [b8198 release](https://github.com/ggml-org/llama.cpp/releases/tag/b8198):
+
+| Platform | Download |
+|---|---|
+| Linux x86_64 | `llama-b8198-bin-ubuntu-x64.tar.gz` |
+| Windows x64 | `llama-b8198-bin-win-x64.zip` |
+| macOS Apple Silicon | Build from source (below) |
+
+Extract into `llama_bin/` at the project root so the layout looks like:
+
+```
+ClearScan/
+└── llama_bin/
+    ├── llama-mtmd-cli      ← llama-mtmd-cli.exe on Windows
+    ├── libllama.so         ← .dll / .dylib on other platforms
+    └── libggml.so
+```
+
+**macOS Apple Silicon — compile from source:**
+
 ```bash
-venv_qwen3vl\Scripts\activate
+git clone --depth 1 --branch b8198 https://github.com/ggml-org/llama.cpp.git
+cmake -S llama.cpp -B llama.cpp/build \
+  -DCMAKE_BUILD_TYPE=Release -DGGML_OPENMP=ON -DBUILD_SHARED_LIBS=ON
+cmake --build llama.cpp/build --target llama-mtmd-cli -j$(sysctl -n hw.logicalcpu)
+mkdir -p llama_bin
+cp llama.cpp/build/bin/llama-mtmd-cli llama_bin/
+cp llama.cpp/build/src/*.dylib       llama_bin/ 2>/dev/null || true
+cp llama.cpp/build/ggml/src/*.dylib  llama_bin/ 2>/dev/null || true
 ```
 
-**Linux/Mac:**
-```bash
-source venv_qwen3vl/bin/activate
-```
+### 3. Download models
 
-You should see `(venv_qwen3vl)` in your terminal.
-
----
-
-### STEP 3 — Upgrade pip
-
-```bash
-python -m pip install --upgrade pip
-```
-
----
-
-### STEP 4 — Install Python Dependencies
-
-```bash
-# PDF processing
-pip install pymupdf
-pip install Pillow
-pip install numpy
-
-# Model download utility
-pip install huggingface_hub hf_transfer
-```
-
----
-**On Windows**
-
-STEP 1 — Download the Pre-Built llama.cpp Windows Binary
-Go to this URL in your browser:
-https://github.com/ggml-org/llama.cpp/releases/latest
-Look for a file named something like:
-llama-...-x64.zip
-Download that zip. 
-Extract it. You will get a folder with many .exe and .dll files inside. Copy that entire extracted folder into your qwen3vl_test/ directory and rename it llama_bin
-
-
----
-
-### STEP 6 — Download the GGUF Model Files
-
-Create a file called `download_model.py` inside `qwen3vl_test/` and run it:
-
-```python
-import os
-os.environ["HF_HUB_ENABLE_HF_TRANSFER"] = "1"
-from huggingface_hub import hf_hub_download
-
-print("Downloading Qwen3-VL-2B GGUF files...")
-print("Total download: ~1.6GB\n")
-
-# Download the quantized LLM weights (~1.3GB)
-print("Downloading LLM weights (Q4_K_M ~1.3GB)...")
-hf_hub_download(
-    repo_id="Qwen/Qwen3-VL-2B-Instruct-GGUF",
-    filename="Qwen3VL-2B-Instruct-Q4_K_M.gguf",
-    local_dir="models"
-)
-
-# Download the vision encoder (~300MB)
-print("Downloading vision encoder (~300MB)...")
-hf_hub_download(
-    repo_id="Qwen/Qwen3-VL-2B-Instruct-GGUF",
-    filename="mmproj-Qwen3VL-2B-Instruct-F16.gguf",
-    local_dir="models"
-)
-
-print("\n✅ All files downloaded to models/ folder")
-print("Files:")
-for f in os.listdir("models"):
-    size_mb = os.path.getsize(f"models/{f}") / (1024*1024)
-    print(f"  {f}  ({size_mb:.0f} MB)")
-```
-
-Run it:
 ```bash
 python download_model.py
 ```
 
-After this your `models/` folder should contain:
+Fetches both GGUFs (~1.9 GB) from HuggingFace into `models/`:
+
 ```
 models/
-├── Qwen3VL-2B-Instruct-Q4_K_M.gguf     (~1300 MB)
-└── mmproj-Qwen3VL-2B-Instruct-F16.gguf  (~300 MB)
+├── Qwen3VL-2B-Instruct-Q4_K_M.gguf       (~1.1 GB)
+└── mmproj-Qwen3VL-2B-Instruct-F16.gguf   (~782 MB)
 ```
 
----
-
-### STEP 7 — Put Your PDFs in the Data Folder
-
-Copy your test PDFs into `qwen3vl_test/data/`. Start with one small PDF to verify.
-
----
-
-### STEP 8 — Create the OCR Script
-
-Create `run_ocr.py` inside `qwen3vl_test/` and paste the code provided
----
-
-### STEP 9 — Run It
+### 4. Run
 
 ```bash
-# Default (reads from data/, writes to output/)
-python run_ocr.py
-
-# Custom input/output directories
-python run_ocr.py --input /path/to/pdfs --output /path/to/results
-
-# Adjust performance settings
-python run_ocr.py --threads 8 --ctx-size 8192 --max-tokens 2000 --temp 0.5
-```
-
-Run `python run_ocr.py --help` for all options.
-
-You will see:
-```
-Loading Qwen3-VL-2B via llama.cpp (CPU, Q4 quantized)
-Model RAM usage: ~1.6GB
-✅ Model loaded successfully!
-
-Found 1 PDF(s) to process:
-  - your_file.pdf
-
-Processing: your_file.pdf
-  Page 1/3  (size: 1654x2339)  ✅ done in 142.3s
+python run_ocr.py                              # data/ → output/
+python run_ocr.py --input /path/to/pdfs \
+                  --output /path/to/results    # custom paths
+python run_ocr.py --threads 8 --ctx-size 8192  # tuning
+python run_ocr.py --help                       # all options
 ```
 
 ---
+
+## Output Format
+
+Each PDF produces a `.txt` file:
+
+```
+OCR OUTPUT: document.pdf
+Model    : Qwen3-VL-2B (Q4_K_M GGUF)
+Started  : 2026-03-05 10:00:00
+Settings : ctx=4096, temp=0.7, presence_penalty=1.5, jinja=ON, no_think=ON, max_size=1120px
+============================================================
+
+--- PAGE 1/10  [92.7s | ENHANCED | c=44] ---
+<transcribed text>
+
+--- PAGE 2/10  [74.4s | CLEAN | c=88] ---
+<transcribed text>
+
+============================================================
+Completed : 2026-03-05 10:22:00
+Pages     : 10  (errors: 0)
+Total time: 22.1 minutes
+```
+
+`ENHANCED` / `CLEAN` — preprocessing mode applied. `c=` — grayscale standard deviation of the raw scan (contrast proxy).
+
+---
+
+## Python Dependencies
+
+| Package | Version | Role |
+|---|---|---|
+| `PyMuPDF` | 1.27.1 | PDF → raster image via fitz |
+| `opencv-python-headless` | 4.13.0 | CLAHE, denoising, sharpening |
+| `Pillow` | 12.1.1 | Image I/O and resize |
+| `numpy` | 2.2.6 | Pixel array operations |
+| `huggingface_hub` | 1.5.0 | Model file downloads |
+| `hf_transfer` | 0.1.9 | Fast parallel HuggingFace downloads |
+
+Full pinned dependency list in [requirements.txt](requirements.txt).
+
