@@ -146,27 +146,14 @@ pip install huggingface_hub hf_transfer
 
 ---
 **On Windows**
+
 STEP 1 — Download the Pre-Built llama.cpp Windows Binary
 Go to this URL in your browser:
 https://github.com/ggml-org/llama.cpp/releases/latest
 Look for a file named something like:
 llama-...-x64.zip
 Download that zip. 
-Extract it. You will get a folder with many .exe and .dll files inside. Copy that entire extracted folder into your qwen3vl_test/ directory and rename it llama_bin:
-qwen3vl_test/
-├── data/
-├── output/
-├── models/
-│   ├── Qwen3VL-2B-Instruct-Q4_K_M.gguf
-│   └── mmproj-Qwen3VL-2B-Instruct-F16.gguf
-├── llama_bin/              ← paste the extracted folder contents here
-│   ├── llama-mtmd-cli.exe  ← this is the one we need
-│   ├── llama.dll
-│   ├── ggml.dll
-│   └── (many other files)
-├── run_ocr.py
-└── venv_qwen3vl/
-
+Extract it. You will get a folder with many .exe and .dll files inside. Copy that entire extracted folder into your qwen3vl_test/ directory and rename it llama_bin
 
 
 ---
