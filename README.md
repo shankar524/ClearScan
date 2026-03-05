@@ -1,9 +1,81 @@
 
-## FULL STEP-BY-STEP GUIDE: Qwen3-VL-2B via llama.cpp
+## ClearScan OCR
+
+PDF-to-text OCR pipeline using **Qwen3-VL-2B** (quantized GGUF) via **llama.cpp**. Transcribes scanned documents — including handwritten text and Swedish characters — to plain text files.
 
 ---
 
-### STEP 1 — Create the Isolated Folder
+## Docker (Recommended)
+
+The simplest way to use ClearScan. No Python setup, no model downloads — everything is bundled in the image.
+
+### Build
+
+```bash
+docker build -t clearscan .
+```
+
+> First build downloads the model (~1.6 GB) and llama.cpp binary. Subsequent builds use Docker cache.
+> The Dockerfile is multi-platform: on x86_64 hosts it downloads a pre-built llama.cpp binary; on ARM64 (e.g. Apple Silicon) it compiles from source. The first ARM64 build takes ~5 minutes for the compilation step.
+
+### Run
+
+```bash
+docker run --rm \
+  -v /path/to/your/pdfs:/input \
+  -v /path/to/results:/output \
+  clearscan
+```
+
+This processes all `.pdf` files in the input directory and writes `.txt` files to the output directory.
+
+### Custom Settings
+
+```bash
+# Use 8 threads, larger context window
+docker run --rm \
+  -v "$(pwd)/data":/input \
+  -v "$(pwd)/output":/output \
+  clearscan --threads 8 --ctx-size 8192
+
+# Adjust temperature and max tokens
+docker run --rm \
+  -v "$(pwd)/data":/input \
+  -v "$(pwd)/output":/output \
+  clearscan --temp 0.5 --max-tokens 2000
+```
+
+### All Options
+
+| Flag            | Env Variable            | Default | Description                     |
+|-----------------|-------------------------|---------|---------------------------------|
+| `-t, --threads` | `CLEARSCAN_THREADS`     | 4       | CPU threads                     |
+| `--ctx-size`    | `CLEARSCAN_CTX_SIZE`    | 4096    | Context window size             |
+| `--max-tokens`  | `CLEARSCAN_MAX_TOKENS`  | 1500    | Max output tokens per page      |
+| `--temp`        | `CLEARSCAN_TEMP`        | 0.7     | Sampling temperature            |
+
+### Environment Variable Overrides
+
+```bash
+docker run --rm \
+  -e CLEARSCAN_THREADS=8 \
+  -v "$(pwd)/data":/input \
+  -v "$(pwd)/output":/output \
+  clearscan
+```
+
+### Image Details
+
+- **Size**: ~2.5 GB (1.6 GB models + base image + dependencies)
+- **RAM**: ~2 GB minimum at runtime
+- **CPU only** — no GPU required
+- **Base**: `python:3.11-slim`
+- **Multi-platform**: native builds for both `linux/amd64` and `linux/arm64`
+- **llama.cpp**: release b8198 (pre-built binary on amd64, compiled from source on arm64)
+
+---
+
+## Local Setup (Without Docker)
 
 ```bash
 # Go to your main project folder
@@ -162,8 +234,17 @@ Create `run_ocr.py` inside `qwen3vl_test/` and paste the code provided
 ### STEP 9 — Run It
 
 ```bash
+# Default (reads from data/, writes to output/)
 python run_ocr.py
+
+# Custom input/output directories
+python run_ocr.py --input /path/to/pdfs --output /path/to/results
+
+# Adjust performance settings
+python run_ocr.py --threads 8 --ctx-size 8192 --max-tokens 2000 --temp 0.5
 ```
+
+Run `python run_ocr.py --help` for all options.
 
 You will see:
 ```
