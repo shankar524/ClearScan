@@ -1,38 +1,42 @@
 OCR OUTPUT: 750928c_sap.pdf
 Model    : Qwen3-VL-2B (Q4_K_M GGUF)
-Started  : 2026-03-03 21:14:07
+Started  : 2026-03-05 19:38:52
 Settings : ctx=4096, temp=0.7, presence_penalty=1.5, jinja=ON, no_think=ON, max_size=1120px
 ============================================================
 
---- PAGE 1/26  [144.2s | ENHANCED | c=43] ---
-Arbeterårelsens arkiv och bibliotek | © Olof Palme familj
+--- PAGE 1/26  [88.9s | ENHANCED | c=43] ---
+Arbetsrättsens arkiv och bibliotek | © Olof Palmes familj
 POINT 28 DE L'ORDRE DU JOUR
 LE PROJET DE LA COMMISSION DU PROGRAMME POUR UN NOUVEAU
 PROGRAMME DE PARTI
 Projet révisé de nouveau programme de parti, fondements généraux (page 7), point 3 (page 28).
 Propositions nº Y 1 - nº Y 5 (8:2070) et avis donné à leur sujet par le Comité directeur (8:2076).
-Rapport du Comité directeur (3:867).
-Le président en charge : Nous avons uniquement à prendre position ici sur le principe de l'existence d'un programme articulé par points. Si nous décisions de avoir un programme par points, les différents points seront ensuite traités avec les propositions ou les rapports qui ont trait à ces points. A la page 8 du cahier de l'ordre du jour, il y a une liste sur la manière dont seront traités les différentes sections des programmes par points.
-Le congrès devra en outre décider, sous le présent point, s'il doit y avoir un programme communal. Si le projet d'un tel programme est approuvé, le programme sera traité par sections avec les propositions qui s'y rapportent. Cela ressort d'ailleurs de la lecture de la page 8 du programme de...l'ordre du jour.
-Nous mentionnerons en outre que les propositions qui se retrouvont dans les parties 1 à 3 et qui concernent le programme du parti ont été discutées par la commission-du programme. Elles entrent de la sorte dans la discussion du projet présenté par la commission du programme.
+Rapport du Comité directeur (3:267).
+Le président en charge : Nous avons uniquement à prendre position ici sur le principe de l'existence d'un programme articulé par points. Si nous décisions avoir un programme par points, les différents points seront ensuite traités avec les propositions ou les rapports qui ont trait à ces points. A la page 8 du cahier de l'ordre du jour, il y a une liste sur la manière dont seront traités les différentes sections des programmes par points.
+Le congrès devra en outre décider, sous le présent point,
+s'il doit y avoir un programme communal. Si le projet d'un tel programme est approuvé, le programme sera traité par sections avec les propositions qui s'y rapportent. Cela ressort d'aillleurs de la lecture de la page 8 du programme de.l'ordre du jour.
+Nous mentionnons en outre que les propositions qui se retrouvent dans les parties 1 à 3 et qui concernent le programme du parti ont été discutées par la commission>du programme. Elles entrent de la sorte dans la discussion du projet présenté par la commission du programme.
 Olof Palme, rapporteur du Comité directeur : Je voudrais tout d'abord demander au congrès de m'excuser pour deux choses. Premièrement parce que que je allez être soumis à un long panégyrique idéologique qui exigea de vous des qualités d'endurance. Mais il n'est pas si fréquent que le parti renouvelle son programme et il y a quelque 650 propositions qui se rapportent à la question-du programme.
 Deuxièmement, je vous demande de m'excuser parce que je ne m'arrêterai tout compte fait qu'à un aspect du programme que
 [REDACTED]
+CP: s part-
+programma hst
+[?]
 
---- PAGE 2/26  [168.1s | ENHANCED | c=45] ---
+--- PAGE 2/26  [91.9s | ENHANCED | c=45] ---
 je considère comme le plus important. J'ai déjà enlevé de
 larges parties de ce que je pensais dire et j'espère que
 Inga Thorsson notamment approfondira la partie internationale
-avantage que je ne puis faire.
+davantage que je ne puis faire.
 Une révision de programme est un événement important dans
 la vie d'un parti. Le premier programme du parti date de
-1897. Depuis, il a été revisé en 1911, 1920, 1944 et 1960.
+1897. Depuis, il a été révisé en 1911, 1920, 1944 et 1960.
 Nous nous trouvons par conséquent à la veille du sixième
-programme de notre histoire. Il s'agit de façonner l’orientation
+programme de notre histoire. Il s'agit de façonner l'orientation
 politique des volontés pour une assez longue période
 à venir. Il n'est pas seulement question de rendre conscients
 à nous-mêmes les grands traits de la politique que nous
-menons. C'est de l'avvenir qu'il s'agit et des tâches en vue
+menons. C'est de l'aventure qu'il s'agit et des tâches en vue
 desquelles il nous faut rassembler nos forces. Cela donne
 une image de l'importance du programme et de la responsabilité
 devant laquelle se trouve le présent congrès.
@@ -42,22 +46,20 @@ communale ont puissamment empreint la politique du parti
 au cours des 15 dernières années.
 Nous devions miser sur le progrès économique pour pouvoir
 édifier le secteur collectif et faire face au mécontentement
-soulèvé par les attentes non satisfaites.
+soulevé par les attentes non satisfaites.
 Vous vous souvenez peut-être encore des discussions de cette
 époque. Nos adversaires prétendaient que la social-démocratie
 avait manqué ses chances, que le bien-être croissant coupait
-l'herbe sous les pieds du socialisme. En outre, la classe
+l'herbe sous les pieds du socialismisme. En outre, la classe
 des travailleurs industriels avait cessé de croître numériquement.
 Le nombre croissant des employés amenerait la
-bourgeoisie au pouvoir. Le socialism e était peut-être quelque
+bourseoisie au pouvoir. Le socialisme était peut-être quelque
 chose pour les pays pauvres du Tiers-monde, mais non pour
 une société jouissant d'un niveau de vie élevé.
 Nous savons maintenant que c'est le mouvement ouvrier qui
-eut raison. Le plein emploi et le bien-être économique crois-
-sent ne rendaient pas les gens plus conservateurs. Au con-
-traire, ils augmentaient les exigences dans des domaines qui
+eut raison. Le plein emploi et le bien-être économique crois-sant ne rendaient pas les gens plus conservateurs. Au contraire, ils augmentaient les exigences dans des domaines qui
 
---- PAGE 3/26  [158.4s | ENHANCED | c=45] ---
+--- PAGE 3/26  [80.7s | ENHANCED | c=45] ---
 ne pouvait être satisfaits efficacement qu'au moyen de
 mesures collectives. Des mesures qui supposaient coopération
 et solidarité.
@@ -70,14 +72,14 @@ bilités de formation pour les enfants. La prise en charge
 des vieux.
 Des contributions collectives dont l'instrument serait la société,
 allaient libérer les individus.
-C'est essentiellement Tage Erilander qui apportait à cette orientation,
+C'est essentiellement Tage Eriander qui apportait à cette orientation,
 à cette option générale, sa forme de conception
-réfléchie et accomplies. Il la représentait et défendait
+réfléchie et accomplie. Il la représentait et défendait
 d'une manière qui permettait à un chacun de la comprendre
 et d'en être sensibilisé. Il y avait beaucoup de pays où l'on
 parlait justement du mécontentement créé par les attentants
-croissantes en constatant l'existence d'un tel mécontentement.
-Mais cela ne deviennnt intéressant que lorsqu'on peut
+croissantes en constatant l'existence d'un tel mécontente-
+ment. Mais cela ne deviennent intéressant que lorsqu'on peut
 rechercher la raison de ce mécontentement, la voie à suivre
 pour y remédier et définir la vision sociale nécessaire
 pour transformer l'intelligence de la situation en actes,
@@ -86,7 +88,7 @@ haute ment déterminante pour le travail du parti au cours
 des 15 années passées. Nous placions très haut l'idéal de
 solidarité. Nous avons réussi à rassembler notre peuple
 autour de l'édification d'une oeuvre de bien-être.
-Ce succès, nous l'emmenons vers l'avènement, car nous continu-
+Ce succès, nous l'emmenons vers l'avenir, car nous continu-
 tons à étendre et à améliorer. Nous serons placés devant la
 société avec une force capable de constituer un soutien pour
 les individus mais aussi avec une douceur qui marque que
@@ -95,23 +97,23 @@ ressentons à présent le besoin de formuler à nouveau, et à
 plus long terme, l'option générale du parti. Nous sommes
 alors en mesure de nous baser sur une discussion idéologique
 
---- PAGE 4/26  [178.0s | ENHANCED | c=45] ---
-extraordinäremt vivande och animéde de tout le mouvement
+--- PAGE 4/26  [87.3s | ENHANCED | c=45] ---
+extraordinäremt vivande och animerad de tout le mouvement
 ouvrier, discussion qui a fait apparaitre l'insuffisance
 des formulations adoptées en 1960. C'est cela qui constitué
 le contenu de la décision du précédent congrès selon laquelle
 il y avait lieu de réviser le programme du parti.
 Comme ce fut souvent le cas, les raisons de cette décision
-se trouvèrent dans L'étude de la réalité.
+se trouvèrent dans l'étude de la réalité.
 Au cours des années 60, nous devions conscients, avec
-avantage d'accuit que par le passé, des perspectives interna-
-tionales de notre action. La pauvreté quasi illimitée,
-les changements désespérément infimes dans les pays paurves
+avantage d'accueil que par le passé, des perspectives inter-
+nationales de notre action. La pauvreté quasi illimitée,
+les changements désespérément infimes dans les pays pauvres
 nous apparaissaient avec de plus en plus d'évidence. Notre
 jeunesse se tournait vers l'extérieur, vers le monde.
 Il y a peu de temps, quelqu'un proposa une grille salariale
 à dix échelons pour toute la population du globe. L'échelon
-le plus bas équipavalrait à 2000 calories et à un verre d'eau
+le plus bas équipiqurait à 2000 calories et à un verre d'eau
 pure par jour. Près d'un cinquième - si mes souvenirs sont
 exacts - de la population mondiale verrait dans ce SMIG un
 relèvement marquant de ses revenus.
@@ -120,70 +122,43 @@ pauvres modifiaient l'image que nous nous faisions du monde.
 La prise de conscience de la nécessité de la solidarité
 internationale. La guerre du Viêt-Nam ébranlait les bloc-
 quages dans lesquels nous avait laissé la guerre froide en
-jetant les bases d'une solidarité nouvelle avec les forces
+jeant les bases d'une solidarité nouvelle avec les forces
 du Tiers-monde qui luttent, comme nous-même, pour le progrès
 et la justice sociale.
 Le programme de 1960 était le premier de nos programmes à
 comprendre un chapitre international détaillé et ouvert sur
 l'avenir. Malgré cela, ce furent les questions internationa-
-les qui donnèrent lieu aux premières revendications d'une
+les qui donnerent lieu aux premières revendications d'une
 révision de programme. Ce fut la partie internationale du
 programme de 1960 qui était la première à perdre de son
 actualité, de son aptitude à concrétiser la volonté du
 mouvement jouvrier.
 Qu'est-ce donc qui a pu rendre insuffisantes les options
 somme toute heureuses du début des années 60 ?
-Arbetarrörelsens arkiv och bibliotek | © Ctof Palmes famili
+Arbetarrörelsens arkiv och bibliotek | © C!of Palsnes famiij
 4
 
---- PAGE 5/26  [161.5s | ENHANCED | c=45] ---
+--- PAGE 5/26  [89.8s | ENHANCED | c=45] ---
 On peut répondre à cette question de nombreuses façons.
 On peut faire état des difficultés et des contraintes de la vie des différents individus. Les cadences et le stress dans le travail, l'élimination, les migrations, les dangers sanitaires et la pollution, les écarts encore existants au niveau des revenus.
-On peut faire état des importants travaux de recherche et d'enquête dont nous et la Confédération générale du travail avons été :les initiateurs en vue de faire le point de la situation. Études faites par la Confédération sur le milieu de travail. Etude sur les niveaux de vie faisant apparaître les différences dans les conditions d'existence et comment ces différences avaient leur origine dans la position occupée par les individus dans la vie du travail.
-Ou encore on peut se tourner vers les écrivains. Dans un brillant essai, "L'ouvrier qui commençait à se poser des questions", Sven Lindqvist a décrit un ouvrier qui, chaque jour, pour aller à son travail, passe devant des maisons d'habitation, des hôpitaux, des écoles, des théâtres. Tous ces bâtiments sont différents de son usine, ils sont plus beaux, plus humains.
-Dans sa localité, une vieille tannerie est transformée en école secondaire. Elle est transformée de fond en comble comme s'il s'agissait d'un autre type d'hommes qui va être appelé à la peupler. On construit un: réfectoire-, des salles de réunion, on aménage des espaces pour la détente et toutes sortes d'activités. Tout concourt délibérément pour placer l'élève au centre des évènements. C'est parfait, pensa notre ouvrier. Mais il commençait à se demander pourquoi on ne pouvait pas construire une usine où l'ouvrier, tout comme l'élève, serait placé au centre des préoccupations, pourquoi on ne pourrait pas le stimuler pour mettre à profit ses dispositions innées.
+On peut faire état des importants travaux de recherche et d'enquête dont nous et la Confédération générale du travail avons été :les initiateurs en vue de faire le point de la situation. Etudes faites par la Confédération sur le milieu de travail. Étude sur les niveaux de vie faisant apparaître les différences dans les conditions d'existence et comment ces différences avaient leur origine dans la position occupée par les individus dans la vie du travail.
+Ou encore on peut se tourner vers les écrivains. Dans un brillant essai, "L'ouvrier qui commençait à se poser des questions", Sven Lindqvist a décrit un ouvrier qui, chaque jour, pour aller à son travail, passe devant des maisons d'hébitation, des hôpitaux, des écoles, des théâtres. Tous ces bâtiments sont différents de son usine, ils sont plus beaux, plus humains.
+Dans sa localité, une vieille tannerie est transformée en école secondaire. Elle est transformée de fond en comble comme s'il s'agissait d'un autre type d'hommes qui va être appelé à la peupler. On construit un: réflectoire-, des salles de réunion, on aménage des espaces pour la détente et toutes sortes d'activités. Tout concourt délibérément pour placer l'élève au centre des évènements. C'est parfait, pensa notre ouvrier. Mais il commençait à se demander pourquoi on ne pouvait pas construire une usine où l'ouvrier, tout comme l'élève, serait placé au centre des préoccupations, pourquoi on ne pourrait pas le stimuler pour mettre à profit ses dispositions innées.
 Il consulta une encyclopédie et trouva que logements, hôpitaux, théâtres, magasins sont des installations de consommation destinées à satisfaire des besoins. L'usine par contre est une unité de production qui, en mettant à profit la
-[REDACTED]
+5
+Arbetsrättsrens arkiv och bibliotek | © Olaf Palms familj
 
---- PAGE 6/26  [168.3s | ENHANCED | c=45] ---
-force de travail humaine et des ressources matérielles,
-produit des biens utiles ou d'autres moyens de production.
-Les biens peuvent être fabriqués en un lieu, vendus en un autre et consommés en un troisième. Les marchandises ne
-sentent pas même si les lieux de travail puuent ou sont noyés
-dans le brut. Et puisque les consommateurs n'ont jamais
-besoin de mettre leurs pieds dans les locaux de la fabrication,
-il n'y a aucune raison, dans une société de classes,
-de construire des usines humaines.
-C'est pourquoi, dit l'ouvrier de Sven Lindqvist, l'usine a
-l'air qu'elle a et elle continuera d'être telle jusqu'à ce
-que moi et mes camarades de travail pourrons participer et
-décréder de la manière dont l'usine doit être aménagée.
-A certains égards, l'analyse de Lindqvist peut paraître
-injuste. Mais elle apporte en quelque sorte l'essence même
-des raisons qui ont si résolument poussé le mouvement ouvrier
-à miser sur le renouvellement de la vie du travail.
-Une politique de bien-être qui nous procure de meilleures
-assurances sociales, une école nouvelle et mieux conçue,
-des logements de qualité plus élevée et davantage de loisirs
-n'était pas suffisante. L'Etat-providence n'avait pas péné-
-tré sur les lieux de travail. Là régnaient des différences
-sociales entre les diverses catégories de salariés. Là se
-trouvaienles risques d'accidents et les dangers sanitaires.
-Là il y avait l'inquiétude des licenciements, de l'élimina-
-tion et-des baisses de salaire. Il n'y était pas question
-de démocratie - l'employeur régnait en vertu de son art. 32.
-Voilà pour la vie du travail. Et ces conditions étaient à
-maints égards déterminantes pour la situation de l'individu
-en dehors du travail.
-Dans la représentation qu'on se fait de l'Etat-providence
-entre l'idée de sécurité et d'égalité, de solidarité et de
-démocratie. Mais l'expérience enseigne bien trop souvent que
-ces valeurs sont mises au rancart lorsque les instances
-économiques décident en matière d'investissements, de politi-
-que du personnel, de méthodes de production. Les décisions
+--- PAGE 6/26  [81.5s | ENHANCED | c=45] ---
+force de travail humaine et des ressources matérielles, produit des biens utiles ou d'autres moyens de production.
+Les biens peuvent être fabriqués en un lieu, vendus en un autre et consommés en un troisième. Les marchandises ne sentent pas même si les lieux de travail puent ou sont noyés dans le brut. Et puisque les consommateurs n'ont jamais besoin de mettre leurs pieds dans les locaux de la fabrication, il n'y a aucune raison, dans une société de classes, de construire des usines humaines.
+C'est pourquoi, dit l'ouvrier de Sven Lindqvist, l'usine a l'air qu'elle a et elle continuera d'être telle jusqu'à ce que moi et mes camarades de travail pourrons participer et décider de la manière dont l'usine doit être aménagée.
+A certains égards, l'analyse de Lindqvist peut paraître injuste. Mais elle apporte en quelque sorte l'essence même des raisons qui ont si résolument poussé le mouvement ouvrier à miser sur le renouvellement de la vie du travail.
+Une politique de bien-être qui nous procure de meilleures assurances sociales, une école nouvelle et mieux conçue, des logements de qualité plus élevée et davantage de loisirs n'était pas suffisante. L'Etat-providence n'avait pas pénétré sur les lieux de travail. Là régnaient des différences sociales entre les diverses catégories de salariés. Là se trouvaient les risques d'accidents et les dangers sanitaires. La il y avait l'inquiétude des licenciements, de l'élimination et-des baisses de salaire. Il n'y était pas question de démocratie - l'employeur régnait en vertu de son art. 32. Voilà pour la vie du travail. Et ces conditions étaient à maints égards déterminantes pour la situation de l'individu en dehors du travail.
+Dans la représentation qu'on se fait de l'Etat-providence entre l'idée de sécurité et d'égalité, de solidarité et de démocratie. Mais l'expérience enseigne bien trop souvent que ces valeurs sont mises au rancart lorsque les instances économiques décident en matière d'investissements, de politique du personnel, de méthodes de production. Les décisions
+Arbetarrörelsens arkiv och bibliotek | © Olof Palmes familj 6
 
---- PAGE 7/26  [116.7s | ENHANCED | c=44] ---
-som prises en vertu de la propriété du capital et sous la
+--- PAGE 7/26  [76.5s | ENHANCED | c=44] ---
+som prässes en vertu de la propriété du capital et sous la
 bannière du profit et des intérêts privés. Les forces éco-
 nomiques du marché apparaissent parfois dans leur brutale
 nudité face aux individus, aux groupes d'individus, voir
@@ -204,31 +179,33 @@ les contrastes entre les buts généraux que s'assigne
 la collectivité et l'expérience qu'ils ont des conditions
 de leur travail.
 Avec une logique pour ainsi dire inexorable, nous avons
-élargi la notion de bien-être aux conditions de la produc-
-tion. Nous ne pouvions plus justifier les efforts faits en
+élargi la notion de bien-être aux conditions de la production.
+Nous ne pouvions plus justifier les efforts faits en
 matière de santé et de niveau matériel alors que dans la
 vie professionnelle les gens étaient frappés d'accidents et
-somis à l'usure à un rythme croissant. Nous ne pouvions
+sommis à l'usage à un rythme croissant. Nous ne pouvions
 plus miser sur la puissante expansion d'une collectivité
 moderne sans examiner les locaux où les hommes et les femmes
 effectuent la production qui est le fondement du bien-être.
 Nous ne pouvions pas réaliser systématiquement l'égalité
 de traitement dans notre législation sociale et accepter
 sans réagir une aberrante fragmentation catégorielle au
-niveau de la vie de la personne, nous ne pouvions pas parler
+niveau de la vie sociale, nous ne pouvions pas parler
 de participation dans les différents domaines de la vie
 sociale sans travailler en même temps à la démocratisation
 des lieux de travail.
 
---- PAGE 8/26  [111.3s | ENHANCED | c=44] ---
+--- PAGE 8/26  [75.7s | ENHANCED | c=44] ---
 Le programme de 1975 doit exprimer cette conscience des choses qui a si largement empreint le débat au sein du mouvement ouvrier. Le projet de programme qui se trouve sur le bureau du congrès établit l'importance du travail, non seulement pour our bien-être mais comme partie intégrante de notre bien-être. La commission du programme a cherché à formuler la volonté bien arrêtée du parti et de tout le mouvement ouvrier de procéder à un renouvellement de la vie du travail.
 Un tel renouvellement ne peut se faire que si ceux qui sont directement concernés par les conditions de travail se voient accorder, relativement à celles-ci, des pouvoirs accrues. La commission du programme en tira la conclusion que le temps était venu maintenant pour agir. Les principes de la démocratie doivent faire leur entrée dans la vie économique.
-Voilà l'idée maîtresse du projet de nouveau programme envoyé l'an dernier par la commission pour recueillir les avis, qui incluait en même temps une question adressée aux adhérents : êtes-vous prêts à franchir ce pas ?
+Voilà l'idée maîtrise du projet de nouveau programme envoyé l'an dernier par la commission pour recueillir les avis, qui incluait en même temps une question adressée aux adhérents : êtes-vous prêts à franchir ce pas ?
 La réponse était concluant. 579 motions et 175 avis motivés furent remis, reflétant ainsi le débat soulevé par la révision du programme. La collecte, la systématisation et l'étude de cet énorme flot de motions ont représenté un travail considérable.
 Les propositions se rangeaient aux côtés des principes fondamentaux formulés dans le projet, à savoir que la liberté, l'égalité, la solidarité et la démocratie constituent les grandes valeurs du socialisme et que le travail est la valeur de base du développement de la collectivité. Elles apportaient leur soutien à la revendication exigeant de la social-démocratie de faire de la démocratie industrielle la première de ses tâches. Elles donnaient leur appui à la revendication d'une économie planifiée, de la participation des salariés aux décisions et du renforcement de l'influence des consommateurs.
 [REDACTED]
+[?]
+[?]
 
---- PAGE 9/26  [119.2s | ENHANCED | c=44] ---
+--- PAGE 9/26  [80.2s | ENHANCED | c=44] ---
 Mais les motions ne signifiaient pas seulement adhésion aux
 principes et idées fondamentaux. Elles faisaient aussi la
 critique de nombreux et importants passages, elles présen-
@@ -246,11 +223,11 @@ L'essence du socialisme est pour nous la démocratie. Notre
 programme traite de démocratie. La démocratie lie les social-
 démocrates de divers pays, elle unit les social-démocrates
 des différentes générations.
-Les principes théoriques du socialisme démocratique sont
+Les principes théoriques du socialismé democraticque sont
 avant tout dès à Karl Marx, mais ce mouvement s'inspira aussi
 des utopistes socialistes, des congrégations chrétiennes,
 des libre-penseurs et des humanistes. Son expression organi-
-sée se trouve dans le :ouvrir: de différents
+sée se trouve dans le : mouvement ouvrier:de différents
 pays. Il a cent ans, les cent dernières années de l'histoire
 de l'humanité. Cela signifie que parmi les idéologies poli-
 tiques, le socialisme est la plus jeune, il est le mouve-
@@ -258,56 +235,55 @@ ment moderne et progressiste.
 Aucun mouvement politique n'a fait autant de sacrifices
 pour la lutte démocratique que les social-démocrates des
 divers pays. Aucun mouvement politique n'a défendu les
-valeurs démocratiques avec autant de résolution et de cons-
-cience du but à atteindre.
+valeurs démocratiques avec autant de résolution et de consci-ence du but à atteindre.
 Dans un pays après l'autre, la social-démocratie a été
 poursuivie.
 Mais une infinie patience, et une dignité qui contrastait
 fortement avec le comportement borné et souvent brutal de
 la classe dirigeante, ont permis aux:social-démocrates de
 
---- PAGE 10/26  [133.6s | ENHANCED | c=46] ---
+--- PAGE 10/26  [91.4s | ENHANCED | c=46] ---
 conquérir les droits syndicaux et politiques aux travailleurs
 salariés. Ces conquêtes se firent contre les lois du bâillon,
 la loi d'Åkarp, la résistance au suffrage universel, que Hjalmar
 Branting appelait l'époque des tentatives de répression
-brutale. Monsieur Bohman devrait, si je puis me rérerer à
-un autre penseur connu - rentrer chez lui et étudier l'histori-
-oire.
-Les fascistes européens ont essayé d'étouffer la social-démocratie par la violence. Car quelle menace était plus dangereuse pour la dictature qu'un mouvement qui rassemblait les
+brutale. Monsieur Bohman devrait, si je puis me référer à
+un autre penseur connu - rentrer chez lui et étudier l'histo-
+rie.
+Les fascistes européens ont essayé d'étouffer la social-démocratie par la violence. Car quelle menace était plus dangereuse pour la dictature qu'un mouvement qui rasséchait les
 larges couches de la population autour des idées de progrès.
 Quand le nazisme avançait victorieusement sur la scène,
 d'innombrables social-démocrates durant sacrifier leur vie,
 aller dans les camps de concentration ou s'expatrier parce
 qu'ils refusaient d'abandonner leurs convictions démocratiques.
-Ils sont ensuite revenus et ont reconstruit leur pays.
-L'incrediable est que cela continue, que ces assassins du
+Ils sont ensuïe revenus et ont reconstruit leur pays.
+L'incroyable est que cela continue, que ces assassins du
 diable poursuivent leur triste besogne.
 Pour la génération des sections de jeunes des années 1930,
 la guerre civile d'Espagne constituait un événement qui
 primait tous les autres, qui créait leur image du monde et
 suscitait pour beaucoup leur engagement politique. La guerre
-d'Espagne avait à peu près la même importance pour eux que
+d'Espagne avait à peu près leur même importance pour eux que
 la guerre du Viêt-Nam en avait pour la jeunesse des années
 1960.
 C'était donc il y a 40 ans. Le régime, à présent, approche
 de sa fin. Tout le monde sait ce qu'on dira lorsqu'il aura
-effectivement disparu : Dans la honte et l'humiliation: la plus
-profonde, le fascisme prit de force le pouvoir en
+effectivement disparu : Dans la honte et l'humiliation: la séc
+plus profonde, le fascisme prit de force le pouvoir en
 Espagne à la fin des années 1930. Pendant près de quarante
-ans, il a tournént le peuple espagnol. Il tombera également
-dans la honte et l'humiliation la plus profonde, et le jugement
-de l'historie sur ce qu'aura été le régime fasciste de
-Franco sera d'une dureté impitoyable. Cela nous le savons,
+ans, il a tourmenté le peuple espagnol. Il tombera également
+dans la honte et l'humilation la plus profonde, et le jugement
+de l'histoire sur ce qu'a été le régime fascistide de
+Franco sera d'une dureté impitoyable. Cela nous les savons,
 et pourtant il continue de subsister.
 On a tellement dit qu'après la guerre, on construirait une
 Europe nouvelle, basée sur la démocratie. Mais dans cette
 Europe il reste encore cet abcès purulent charrié par le
 passé.
 
---- PAGE 11/26  [123.3s | ENHANCED | c=44] ---
+--- PAGE 11/26  [88.7s | ENHANCED | c=44] ---
 L'importance militaire n'est pas de notre rayon - nous ne
-faisons pas partie de pacts. Mais il apparaît bien curieux
+faisons pas partie de pactes. Mais il apparaît bien curieux
 de défendre la démocratie en achetant des bases aux fascistes.
 Je crois qu'au cours des jours, des semaines ou des mois qui
 vont suivre, une des grandes questions sera de savoir si
@@ -316,7 +292,7 @@ l'avenir, aura suffisamment d'amour-propre pour se débarrasser
 en commun de ce miserable souvenir d'un passé sinistre.
 Dans les pays où les partis communistes, selon les principes
 classiques de Lénine et de Staline, s'étaient approprié la
-police, l'armée et l'appareil d'Etat, on procédait systèmà-
+police, l'armée et l'appareil d'État, on procédait systèmà-
 tiquement à la liquidation de la social-démocratie. Car
 quelle menace était plus grande contre une telle dictature
 qu'un mouvement rassemblant par des principes démocratiques
@@ -342,61 +318,119 @@ historique et politique, elle témoigne également - ce qui
 est plus grave - d'une incompréhension quant à la significa-
 tion réelle de la démocratie.
 
---- PAGE 12/26  [120.1s | ENHANCED | c=43] ---
-Pour nous, la démocratie est une question de dignité humaine.
+--- PAGE 12/26  [79.4s | ENHANCED | c=43] ---
+For nous, la démocratie est une question de dignité humaine.
 Et la dignité humaine, ce sont les libertés politiques, le droit d'exprimer librement son opinion, le droit de critiquer et celui de propager ses idées.
 La dignité humaine - c'est le droit à la santé et au travail, le droit à l'instruction et à la sécurité sociale.
-La dignité humaine. - c'est le droit et la possibilité pratique-que de s'entendre avec d'autres pour façonner l'avenir.
-Ces droits, les droits démocratiques, ne peuvent être réservés à une certaine couche de la société. Ils doivent être la pro- priété de tout le peuple.
-La social-démocratie a toujours mis l'accent sur la démocra- tie politique comme une valeur en soi. On entend parfois parler de libertés "bourgeoises" et de "démocratie bourgeoise". Mais c'est de nos libertés qu'il s'agit, c'est de notre démocratie à qui il est question - que notre peuple s'est acquise de haute lutte et que nous, social-démacrates, défendrons toujours de toutes nos forces.
+La dignité humaine. - c'est le droit et la possibilité pratique-que de s'entendre avec d'autres pour façonner l'venir.
+Ces droits, les droits démocratiques, ne peuvent être réservés à une certaine couche de la société. Ils doivent être la pro-priété de tout le peuple.
+La social-démocratie a toujours mis l'accent sur la démoc-ratie politique comme une valeur en soi. On entend parfois parler de libertés "bourgeoisies" et de "démocratie bourgeoise". Mais c'est de nos libertés qu'il s'agit, c'est de notre démocratie là-qu'il est question - que notre people s'est acquise de haute lutte et que nous, social-démacrates, défendrons toujours de toutes nos forces.
 En même temps, la social-démocratie a toujours considéré la démocratie comme plus qu'un ensemble de droits formels. Nous l'avons considérée comme une voie vers la réalisation des désirs humains et des progrès sociaux, la transformation de la société.
 Les foules de travailleurs qui se rassemblaient au début du siècle pour les grandes manifestations en faveur du suffrage universel portaient deux pancartes. Sur l'une d'elles, il y avait "Suffrage Universel", sur l'autre "La journée de 8 heures". Ils y voyaient le rapport. La démocratie leur donnait l'espoir de pouvoir se sortir du besoin et de la pauvreté, de réaliser leurs visées sociales les plus importantes.
 La lutte pour le pouvoir politique devint une lutte contre les forces qui entendaient réservier aux nantis les droits de décision politiques. C'est cette lutte que Hjalmar Branting et les pionniers de la social-démocratie avaient à mener et menaient à la victoire avec la gauche libérée.Mais
 
---- PAGE 13/26  [125.0s | ENHANCED | c=46] ---
+--- PAGE 13/26  [82.5s | ENHANCED | c=46] ---
 les routes se séparèrent lorsque la démocratie ouvrait la possibilité aux démunis de faire aboutir un nivellement des conditions sociales. Alors les partis bourgeoisie firent front contre les interventions publiques dans la vie économique, essayant de persuader le peuple que 'la démocratie avait des limites qu'il ne fallait pas franchir.
-Aussi, la lutte pour la démocratie sociale devint une lutte contre ceux qui prétendaient que la démocratie politique ne devait pas servir à changer les conditions sociales. C'était la lutte menée pendant les années 1930 par Per Albín Hanson, Gustav Möller et Ernst Wigforss et par tout le mouvement.
-Voici ce que dit Per Albin Hansson dans sa célèbre déclaration : D'abord nous consoliderons la démocratie politique, ensuite nous implanterons la démocratie sociale, et le bien-être social. Puis le temps sera venu d'aborrder la démocratie économique.
+Aussi, la lutte pour la démocratie sociale devint une lutte contre ceux qui prétendaient que la démocratie politique ne devait pas servir à changer les conditions sociales. C'était la lutte menée pendant les années 1930 par Per Albín Hansson, Gustav Möller et Ernst Wigforss et par tout le mouvement.
+Voici ce que dit Per Alban Hanson dans sa célèbre déclaration : D'abord nous consoliderons la démocratie politique, ensuite nous implanterons la démocratie sociale, et le bien-être social. Puis le temps sera venu d'aborrer la démocratie économique.
 Wigforss a constamment fait valoir qu'on ne pouvait pas, une fois acceptés les principes démocratiques, tracer une limite à la démocratie. "Celui qui a ouvertement approuvé le principe démocratique égalitaire, ne peut pas ensuite en limiter à sa guise son application à certains domaines de la vie."
-En même temps que la pensée du parti se développe au rythme de nos succès, la démencipation économique est implacablement poussé en avant par certaines tendances de l'évolution de la société; par les forces productives, si l'on veut.
-L’évolution de l’économie capitaliste se caractérise par une concentration accéléré du pouvoir économique. Cela vaut tout particulièrement pour la Suède. Mais cette concentration de puissance de notre économie reflète ce qui se passe dans d'autres pays et dans toute l'économie mondiale, où des entreprises d'implantation planétaire opèrent indépendamment des frontières nationales et affranchies des objectifs fixés par les gouvernements nationaux.
-L’orientation unilatérale sur la croissance de la production fait appel à une utilisation à la longue indépendable des ressources naturelles et réserves de matières premières comme toute limitées du globe. La crise de l’énergie l’a fait appa-
+En même temps que la pensée du parti se développe au rythme de nos succès, la démencisation économique est implacablement poussé en avant par certaines tendances de l'évolution de la société; par les forces productives, si l'on veut.
+L'évolution de l'économie capitaliste se caractérise par une concentration accéléré du pouvoir économique. Cela vaut tout particulièrement pour la Suède. Mais cette concentration de puissance de notre économie reflète ce qui se passe dans d'autres pays et dans toute l'économie mondiale, où des entreprises d'implantation planétaire opèrent indépendamment des frontières nationales et affranchies des objectifs fixés par les gouvernements nationaux.
+L'orientation unilatérale sur la croissance de la production fait appel à une utilisation à la longue indépendable des ressources naturelles et réserves de matières premières comme toute limitées du globe. La crise de l'énergie l'a fait appa-
 
---- PAGE 14/26  [123.4s | ENHANCED | c=46] ---
-raître à chacun d'une manière on ne peut plus évidente. Cette situation fut en outre marquée avec une netteté croissante par les grandes conférences des Nations Unies sur l'environnement, la population et l'alimentation de même que par celle relative au nouvel ordre économique mondial. Elles exigent le recours à une économie globale et à la solidarité internationale.
-Tout le monde ressent de l'inquiétude à la pensée que les poisons et les matières chimiques menacent la santé humaine et l'équilibre de la nature. De plus en plus nombreux sont ceux qui estiment que c'est une conséquence du développement technique et économique incontrôlé. On revendique de plus en plus vivement que la technique soit contrôlée et ses progrès évalués, à un point de vue social large également.
-L'économie internationale se trouve dans une crise grave. Le chômage est élevé et en même temps l'inflation pousse les prix et vide les salaires de leur substance. Il en résulte une répartition des revenus et des fortunes de plus en plus inégale et une aggravation de la situation sur le plan social. De plus en plus de gens doutent de la capacité du système économique à maîtriser la crise.
-Voilà les problèmes, c'est d'eux que traite le débat politique. La conjugaison de la menace ainsi définie contre le bien-être, la sécurité et la justice a constitué le but d'une politique de réformes de plus en plus évoluée. Nous voyons par conséquent ici que les forces productives et l'évolution propre du parti vont dans le même sens. On peut alors se poser la question : qu'est-ce qui fait que le mouvement ouvrier a foi dans sa capacité d'attacher ces gigantesques problèmes d'une façon constructive ?
-A la base se trouve naturellement, la conviction que la solidarité et la coopération entre citoyens à part entière représentent une force vive dans l'édification de la collectivité. La foi en la démocratie constitue là un instrument efficace de réalisation des espoirs et désirs des citoyens.
-A la base se trouve aussi l'expérience d'une construction pacifique de la collectivité. Ce ne furent pas les initiatives privées dont la force vivait était l'appât du gain, qui
+--- PAGE 14/26  [86.4s | ENHANCED | c=46] ---
+raître à chacun d'une manière on ne peut plus évidente. Cette
+situation fut en outre marquée avec une netteté croissante
+par les grandes conférences des Nations Unies sur l'environne-
+ment, la population et l'alimentation de même que par celle
+relative au nouvel ordre économique mondial. Elles exigent
+le recours à une économie globale et à la solidarité interna-
+tionale.
+Tout le monde ressent de l'inquiétude à la pensée que les
+poisons et les matières chimiques menacent la santé humaine
+et l'équilibre de la nature. De plus en plus nombreux sont
+ceux qui estiment que c'est une conséquence du développement
+technique et économique incontrôlé. On revendique de plus en
+plus vivement que la technique soit contrôlée et ses progrès
+évalués, à un point de vue social large également.
+L'économie internationale se trouve dans une crise grave. Le
+chômage est élevé et en même temps l'inflation pousse les
+prix et vide les salaires de leur substance. Il en résulte
+une répartition des revenus et des fortunes de plus en plus
+inégale et une aggravation de la situation sur le plan social.
+De plus en plus de gens doutent de la capacité du système
+économique à maîtriser la crise.
+Voilà les problèmes, c'est d'eux que traite le débat politi-
+que. La conjugaison de la menace ainsi définie contre le
+bien-être, la sécurité et la justice a constitué le but d'une
+politique de réformes de plus en plus évoluée. Nous voyons
+par conséquent ici que les forces productives et l'évolution
+propre du parti vont dans le même sens. On peut alors se
+poser la question : qu'est-ce qui fait que le mouvement ouv-
+vrier a foi dans sa capacité d'attaquer ces gigantesques
+problèmes d'une façon constructive ?
+A la base se trouve naturellement, la conviction que 'la soli-
+darité et la coopération entre citoyens: à part entière reprè-
+sentent une force vive dans l'éducation de la collectivité.
+La foi en la démocratie constitue là un instrument efficace
+de réalisation des espoirs et désirs des citoyens.
+A la base se trouve aussi l'expérience d'une construction
+pacifique de la collectivité. Ce ne furent pas les initia-
+tives privées dont la force vive était l'appât du gain, qui
+[REDACTED]
+[?]
+[?]
 
---- PAGE 15/26  [117.6s | ENHANCED | c=44] ---
+--- PAGE 15/26  [85.2s | ENHANCED | c=44] ---
 menérent la lutte contre le chômage et la pauvreté, qui furent capables de procurer la sécurité aux vieux et aux familles,
-qui organiserent la santé et l'enseignement. Le mobile ici était l'idée de la responsabilité partagée et de la solidarité.
-Ce mobile-là a suffi pour construire une société assez vivable, historiquement et internationalement parlant, aux habitants de ce pays. Il serait tout de même extraordinaire si cette expérience ne pourrait pas servir d'aiguillon pour l'avenir.
-L'expérience que nous avons ainsi acquise, le caractère et les tendances innées de l'évolution, les problèmes devant lesquels se trouve notre société - toutes ces circonstances aboutissent à la conclusion que la démocratisation économique devient à présent un élément logique aussi bien que nécessaire.
+qui organisèrent la santé et l'enseignement. Le mobile ici
+était l'idée de la responsabilité partagée et de la solidari-
+té. Ce mobile-là a suffi pour construire une société assez
+vivable, historiquement et internationalement parlant, aux
+habitants de ce pays. Il serait tout de même extraordinaire
+si cette expérience ne pourrait pas servir d'aiguillon pour
+l'avenir.
+L'expérience que nous avons ainsi acquis, le caractère et
+les tendances innées de l'évolution, les problèmes devant
+lesquels se trouve notre société - toutes ces circonstances
+aboutissent à la conclusion que la démocratisation économique
+devient à présent un élément logique aussi bien que nécessaire.
 La commission du programme a conclu que la démocratisation
-économique doit être mise à l'avant-plan du programme de notre parti.
-Elle écrit : "La social-démocratie entend par conséquent remplacer la concentration économique actuelle du pouvoir aux mains des particuliers, par un système dans lequel chaque homme et femme auront le droit, à titre de citoyen, de salarié et de consommateur, d'agir sur l'orientation et la répartition de la production, les modalités de l'appareil de production et les conditions du travail."
-Comme moyens de réalisation, elle indique l'économie planifiée sous le contrôle des citoyens, le renouvellement de la vie du travail par les salariés et l'élargissement de l'influence des consommateurs.
-Dans le projet de programme, nous attirons l'attention sur huit domaines où une économie planifiée sous la conduite des pouvoirs publics et un contrôle démocratique apparaît comme indispensable.
+économique doit être mise à l'avant-plan du programme de notre
+parti.
+Elle écrit : "La social-démocratie entend par conséquent rem-
+placer la concentration économique actuelle du pouvoir aux
+mains des particuliers, par un système dans lequel chaque
+homme et femme auront le droit, à titre de citoyen, de salarié
+et de consommateur, d'agir sur l’orientation et la répartition
+de la production, les modalités de l’appareil de production
+et les conditions du travail."
+Comme moyens de réalisation, elle indique l'économie planifiée
+sous le contrôle des citoyens, le renouvellement de la vie du
+travail par les salariés et l’élargissement de l'influence
+des consommateurs.
+Dans le projet de programme, nous attirons l'attention sur
+huit domaines où une économie planifiée sous la conduite des
+pouvoirs publics et un contrôle démocratique apparaît comme
+comme indispensable.
 La politique de l'environnement suppose un objectif global
-et des moyens pour le réaliser. Sinon, nous serons dans l'im-
-possibilité de protéger notre nature, de sauvegarder nos ressources foncières et aquatiques, de lutter contre la pollution et l'empoisonnement. La gestion du sol et de l'eau, les
+et des moyens pour le réaliser. Sinon, nous serions dans 1'im-
+possibilité de protéger notre nature, de sauvegarder nos
+ressources foncières et aquatiques, de lutter contre la pollution
+et l'empoisonnement. La gestion du sol et de l'eau, les
 
---- PAGE 16/26  [118.4s | ENHANCED | c=44] ---
+--- PAGE 16/26  [79.1s | ENHANCED | c=44] ---
 lois de contrôle de l'environnement illustrent le développement en cours d'une telle planification.
 La crise de l'énergie confirme définitivement que la politique de l'énergie exige une planification à long terme. Il ne s'agit pas seulement de la façon dont l'énergie doit être produite. Il s'agit tout autant de son utilisation. Économie et gestion sont les conditions qui permettront d'atteindre des objectifs raisonnables.
 Ces idées guident la politique énergétique que nous sommes en train d'élaborer et qui a la caution du Parlement.
-La politique régionale a pour but de répartir plus régulièrement les emplois et les services. Elle est une coquille vide si elle n'est pas sous-tendue par une planification à long terme et des moyens efficaces à mettre en œuvre pour venir en aide aux regions déséharitées de notre pays. Voilà les fondements des lignes directrices de la politique régionale entérinées par le Parlement et qui donnent lieu maintenant à une activité intense des collectivités locales de l'ensemble du pays.
+La politique régionale a pour but de répartir plus régulièrement les emplois et les services. Elle est une coquille vide si elle n'est pas sous-tendue par une planification à long terme et des moyens efficaces à mettre en œuvre pour venir en aide aux régions déshéritées de notre pays. Voilà les fondements des lignes directrices de la politique régionale entérinées par le Parlement et qui donnent lieu maintenant à une activité intense des collectivités locales de l'ensemble du pays.
 Ce sont là quelques exemples d'amorce de planification de l'avvenir beaucoup plus méthodique.
 Il y a quelques décennies, l'idée d'une économie planifiée fit naître une résistance acharnée et donna lieu à une rude bataille politique - FHM et tout le reste. Elle n'est plus guère contestée par quiconque. Elle s'impose dans un pays après l'autre et les intérêts privés, qui partent de leurs points de vue à eux, la pratiquent avec une ardeur certaine.
-A présent, la question est de savoir quels buts il convient de poursuivre par la planification, et au profit de quels intérêts - ceux de tout le peuple ou ceux des sociétés multinationales et des grandes concentrations de capitaux - et comment on pourra assurer le contrôle démocratique et la participation.
+À présent, la question est de savoir quels buts il convient de poursuivre par la planification, et au profit de quels intérets – ceux de tout le peuple ou ceux des sociétés multinationales et des grandes concentrations de capitaux – et comment on pourra assurer le contrôle démocratique et la participation.
 La planification doit inclure toutes les parties du pays et bénéficier de ressources suffisantes. Cela est nécessaire pour faire contre-poids à la concentration privée du pouvoir
-Arbetarens avark och bibliotek | © Olof Palmes familj 16
 
---- PAGE 17/26  [132.3s | ENHANCED | c=47] ---
-et och gruppen g�nnt internationa. Cela est nécassaire
+--- PAGE 17/26  [79.3s | ENHANCED | c=47] ---
+et och gruppen internationella. Cela est nécessaire
 pour donner à la politique de bien-être la force lui permet-
 tant de couvrir tout le pays.
 Nos adversaires parlent beaucoup à ce propos de dirigisme
@@ -406,12 +440,12 @@ aversion conservatrice contre le fait que les inévitables
 conflicts à propos des objectifs à atteindre en matière d'évo-
 lution sociale doivent être résolus démocratiquement, et
 non aux conditions imposées par les propriétaires de capitaux.
-Mais nous ne nous laisserons pas égayer par une critique
-partielle et caractéristique d'une classe. Il existe toujours
+Mais nous ne nous laisserons pas égager par une critique
+partiale et caractéristique d'une classe. Il existe toujours
 un risque de bureaucratisation. En tant que social-démocrates,
 nous n'avons aucun intérêt à instaurer un gigantesque appa-
 reil central de planification qui se coupe facilement de la
-réalité et régulièrement les moindres détails. Il est heureux
+réalité et réglemente les moindres détails. Il est heureux
 de pouvoir asseoir dans une grande mesure la planification
 sur une autonomie communale dont les compétences sont plus
 grandes ici que dans n'importe quel autre pays. Il est heu-
@@ -430,44 +464,51 @@ la manière dont ce système fonctionne dans la pratique. Dans
 une démocratie, il est avantageux de faire appel à des
 contre-poids qui se balancent et qui peuvent constituer une
 garantie de respect et de tolérance et ménager des marges
-utiles à l'initiative et la pluralité. C'est notamment la
+utilisées à l'initiative et la pluralité. C'est notamment la
 raison pour laquelle nous misons si résolument sur une parti-
-cipation croissante des salariés à tous les niveaux. C'est
-aussi la raison pour laquelle nous soulignons si énergique-
-ment l'importance des mouvements populaires. C'est pourquoi
+cation croissante des salariés à tous les niveaux. C'est aussi
+la raison pour laquelle nous soulignons si énergiquement
+l'importance des mouvements populaires. C'est pourquoi
 
---- PAGE 18/26  [121.9s | ENHANCED | c=45] ---
+--- PAGE 18/26  [72.4s | ENHANCED | c=45] ---
 la campagne des Jeunesses socialistes pour les mouvements populaires et autres actions analogues ont été si précieuses
 et si constructives.
 Il importe de trouver des voies qui permettent une large participation démocratique aux processus de planification.
-La politique de l'énergie a été définie à la suite d'une consultation des citoyens à grande échelle, où des dizaines de milliers de personnes passèrent leurs soirées dans des cercles d'études à pénétrer les questions factuelles et à élaborer leurs points de vue. Ce n'est qu'ensuite que nous fûmes prêts à prendre une décision. D'un point de vue international, cette façon de procéder représente un exemple unique
+La politique de l'énergie a été définie à la suite d'une consultation des citoyens à grande échelle, où des dizaines
+de milliers de personnes passèrent leurs soirées dans des cercles d'études à pénétrer les questions factuelles et à élaborer leurs points de vue. Ce n'est qu'ensuite que nous fûmes prêts à prendre une décision. D'un point de vue international, cette façon de procéder représente un exemple unique
 de participation démocratique au processus de planification.
-Le modèle suivi par l'actuelle planification départementale est du même type. Là aussi des dizaines de milliers de volontaires, au cours de l'année, se sont lancés dans les problèmes de leur commune, de leur département, ont inventorié la situation, dégagé des lignes d'action pour l'avenir. Cela aussi est un exemple unique de participation démocratique en matière de planification.
-Mais rien ne dit que nous devons nous occuper uniquement des problèmes qui nous sont les plus proches - de ce qui a trait à notre propre clocher. Si nous tenons à transformer la société, il faut que les grandes questions décisives soient accessibles à tous. Il ne faut pas qu'elles soient le champ clos des experts et des technocrates. La solution apportée aux grandes questions décisives concernant l'évolution de la société dépend en dernier ressort de nos jugements de valeur relatifs à l'avenir que nous souhaitons et là, il n'y a pas d'experts, mais seulement des êtres humains de valeur égale. Nous poursuivrons cette voie.
+Le modèle suivi par l'actuelle planification départementale est du même type. Là aussi des dizaines de milliers de volontaires,
+au cours de l'année, se sont lancés dans les problèmes de leur commune, de leur département, ont inventorié la situation, dégagé des lignes d'action pour l'avenir. Cela aussi est un exemple unique de participation démocratique en matière de planification.
+Mais rien ne dit que nous devons nous occuper uniquement des problèmes qui nous sont les plus proches - de ce qui a trait à notre propre clocher. Si nous tenons à transformer la société, il faut que les grandes questions décisives soient accessibles à tous. Il ne faut pas qu'elles soient le champ
+des experts et des technocrates. La solution apportée aux grandes questions décisives concernant l'évolution de la société dépend en dernier ressort de nos jugements de valeur relatifs à l'avenir que nous souhaitons et là, il n'y a pas d'experts, mais seulement des êtres humains de valeur égale.
+Nous poursuivrons cette voie.
 La planification ne constitue pas une quelconque machinerie dénuée de toute âme. Elle fait appel à la participation des citoyens. Son objet est de servir les hommes et les femmes.
 Il y a peu de temps je faisais une visite dans le département
-de Skaraborg, où se trouve Hållékis. C'est un bel endroit,
+de Skaraborg, où se trouve Hällekis. C'est un bel endroit,
 
---- PAGE 19/26  [117.1s | ENHANCED | c=42] ---
+--- PAGE 19/26  [79.4s | ENHANCED | c=42] ---
 auquel les habitants sont fortement attachés.
 La vie de Hällekis repose sur trois ressources.
 La première ressource est constituée par une grande entreprise qui y a installé une unité de production permettant aux gens de la localité de gagner leur subsistance. C'est la seule industrie, et elle fournit la quasi-totalité des emplois du lieu.
-La seconde ressource est la collectivité bâtie pour permettre aux habitants de s'y plaire. Au cours de générations de labeur, ils ont implanté écoles, locaux de réunion, logements, routes et rues pour satisfaire le désir qu'avaient les hommes et les femmes d'une collectivité bien organisée.
+La seconda ressource est la collectivité bâtie pour permettre aux habitants de s'y plaire. Au cours de générations de labeur, ils ont implanté écoles, locaux de réunion, logements, routes et rues pour satisfaire le désir qu'avaient les hommes et les femmes d'une collectivité bien organisée.
 La troisième ressource est représentée par les gens qui y habitent et y travaillent. Ils s'y sont enracinés, ils se plaisent dans leur coin et veulent y construire l'avenir pour eux et leurs enfants.
-Si l'une de ces ressources venait à disparaitre, si un des maillons de la chaîne venait à se rompre, alors tout s'effondre. De fait, l'entreprise a déclaré vouloir arrêter son activité, bien qu'une décision n'ait pas encore été prise. La petite collectivité se sent menacée dans son existence, elle risque de subir une destruction considérable de capital. Les habitants éprouvent une profonde inquiétude quant à leur avenir. Ils s'adressent aux pouvoirs publics pour obtenir une aide. Les autorités sont mobilisées. Toutes les ressources de planification sont mises à contribution. Les soi-disant bureaucrates et manitous travaillent des semaines et des mois pour trouver une solution. Ce travail est toujours en cours.
+Si l'une de ces ressources venait à disparatre, si un des mailloons de la chaîne venait à se rompre, alors tout s'effondre. De fait, l'entreprise a déclaré vouloir arrêter son activité, bien qu'une décision n'ait pas encore été prise. La petite collectivité se sent menacée dans son existence, elle risque de subir une destruction considérable de capital. Les habitants éprouvent une profonde inquiétude quant à leur avenir. Ils s'adressent aux pouvoirs publics pour obtenir une aide. Les autorités sont mobilisées. Toutes les ressources de planification sont mises à contribution. Les soi-disant bureaucrates et manitous travaillent des semaines et des mois pour trouver une solution. Ce travail est toujours en cours.
 Pourquoi ? Eh bien, parce que la ressource la plus importante réside malgré tout dans les individus concernés, l'important est leur sentiment de sécurité, leur confiance en l'avenir. Et lorsqu'arrivent les difficultés, il n'y a finalement que la solidarité élargie à laquelle se fier pour essayer d'en sortir.
+[REDACTED]
+[?]
+[?]
 
---- PAGE 20/26  [146.0s | ENHANCED | c=45] ---
+--- PAGE 20/26  [80.3s | ENHANCED | c=45] ---
 Voilà l'essence de la question. L'économie planifiée dont nous parlons n'est pas une trouvaille technocratique. Elle doit avant tout revêtir une dimension humaine, en vue de servir les individus, de conférer à la solidarité un contenu pratique.
 Élément de démocratisation de l'économie, la gestion planifiée, lorsqu'il s'agit des conditions de travail dans les entreprises, trouve son équivalent dans les efforts que nous accomplissons pour renouveler la vie du travail.
-Dans les objectifs formulés en guise de prologue par le projet de programme du parti, il est dit :
-"La social-démocratie affirme que le travail est le fondement de tout bien-être et que la volonté de travail du peuple est la ressource la plus importante de la nation. Chacun a droit à participer au travail selon ses capacités. Chacun a droit à un travail qui puisse lui donner satisfaction. Le travail doit entrer dans un contexte social où ses fruits sont utilisés à satisfaire des besoins individuels et collectifs. C'est pourquoi le droit de décider de la production doit être mis entre les mains de tout le peuple. La production doit être organisée de façon à permettre à chacun de bénéficier du respect et des égards que lui vaut son travail. Elle doit être organisée de façon à permettre à chacun de sentir que dans son travail, sa vie et sa santé sont en sécurité. C'est pourquoi les salariés doivent obtenir un droit de décision sur les conditions régnant dans les entreprises."
-Nous parlons du droit au travail. Un avertissement est à sa place ici ! 15 millions de personnes sont sans travail en Europe et en Amérique. Le chômage a maintenant progressé pendant plusieurs années et la situation ne fait qu'empêcher. Lorsque je suis le débat international, je trouve qu'il y a quelque chose d'assez détectable qui est en train d'avoir lieu. On commence un peu partout à s'habiter à la pensée d'une masse de sans-travail, peut-être pas un million mais un demi-million ou quelques centaines de mille. On prend un air soucieux en disant : "C'est un phénomène lié au développement technologique, entre autres. Il nous faut compter qu'à l'avenir il y aura un nombre considérable de chômeurs."
-Nous parlons du droit au travail. Un avertissement est à sa place ici ! 15 millions de personnes sont sans travail en Europe et en Amérique. Le chômage a maintenant progressé pendant plusieurs années et la situation ne fait qu'empêcher. Lorsque je suis le débat international, je trouve qu'il y a quelque chose d'assez détectable qui est en train d'avoir lieu. On commence un peu partout à s'habiter à la pensée d'une masse de sans-travail, peut-être pas un million mais un demi-million ou quelques centaines de mille. On prend un air soucieux en disant : "C'est un phénomène lié au développement technologique, entre autres. Il nous faut compter qu'à l'avenir il y aura un nombre considérable de chômeurs."
+Dans les objectifs formulés en guise de prólogue par le projet de programme du parti, il est dit :
+"La social-démocratie affirme que le travail est le fondement de tout bien-être et que la volonté de travail du peuple est la ressource la plus importante de la nation. Chacun a droit à un travail qui puisse lui donner satisfaction. Le travail doit entrer dans un contexte social où ses fruits sont utilisés à satisfasse des besoins individuels et collectifs. C'est pourquoi le droit de décider de la production doit être mis entre les mains de tout le people. La production doit être organisée de façon à permettre à chacun de bénéficier du respect et des égards que lui vaut son travail. Elle doit être organisée de façon à permettre à chacun de sentir que dans son travail, sa vie et sa santé sont en sécurité. C'est pourquoi les salariés doivent obtenir un droit de décision sur les conditions régnant dans les entreprises."
+Nous parlons du droit au travail. Un avertissement est à sa place ici ! 15 millions de personnes sont sans travail en Europe et en Amérique. Le chômage a maintenant progressé pendant plusieurs années et la situation ne fait qu'empêcher. Lorsque je suis le débat international, je trouve qu'il y a quelque chose d'assez détectable qui est en train d'avoir lieu. On commence un peu partout à s'habituer à la pensée d'une masse de sans-travail, peut-être pas un million mais un demi-million ou quelques centaines de mille. On prend un air soucieux en disant : "C'est un phénomène lié au développement technologique, entre autres. Il nous faut compter qu'à l'avenir il y aura un nombre considérable de chômeurs."
+[REDACTED]
 
---- PAGE 21/26  [129.9s | ENHANCED | c=45] ---
+--- PAGE 21/26  [90.8s | ENHANCED | c=45] ---
 J'ai lu quelque part dans un écrit qu'à l'avenir, avoir du
-travail sera peut-être un privilège. Si on conçoit alors le
+workil sera peut-être un privilège. Si on conçoit alors le
 travail comme une peine, comme un mal nécessaire, cela devient
 une manière de défendre le chômage dans ces pays comme un
 élément persistant.
@@ -476,7 +517,7 @@ nous nous engageons idéologiquement à voir dans le travail,
 non un mal nécessaire, mais l'élément central de la vie des
 hommes. Et ayant dit cela, nous ne pouvons tolérer que de
 grandes masses humaines restent en permanence sans travail
-et il nous faut constamment ouvrir à trouver des méthodes
+et il nous faut constamment ouvrier to trouver des méthodes
 qui assurent le plein emploi, qui étendent l'emploi pour les
 hommes et les femmes, pour tous ceux qui habitent ce pays.
 Cela, nous le dirons dans notre pays et nous le dirons sur
@@ -492,45 +533,45 @@ déplacement de pouvoir du capital vers le travail.
 A nouveau, nous trouvons là l'interrelation entre la démocra-
 tie comme valeur digne d'être recherchée pour elle-même et
 l'espoir de changer la réalité avec la démocratie comme instru-
-ment. Au début du siècle, 'les ouvrriers disaient : Donnez-nous
+ment. Au début du siècle,'les ouvrriers disaient : Donnez-nous
 le droit de vote et nous pourrons obtenir la journée de 8 heu-
 res et éliminer la misère. Aujourd'hui, les salariés disent :
-Accordez-nous le droit de co-décision et nous établirons de
+Accordez-le droit de co-décision et nous établissons de
 meilleures conditions de travail, une plus grande sécurité
 et des milieux supportables. Ce n'est pas plus difficile que cela.
 Et on nous oppose au fond les mêmes arguments bornés de la
-part des défenseurs de l'ordre établil. Lorsqu'il était quest-
+part des défenseurs de l'ordre établ. Lorsqu'il était quest-
 ion du droit de vote, on agitait l'épouvantail du "parlement
 de la rue". Lorsqu'il est question de démocratie sur les lieux
 Arbetarrörelsens arkiv och bibliotek | © Clof Palms familj
 21
 
---- PAGE 22/26  [121.4s | ENHANCED | c=42] ---
+--- PAGE 22/26  [83.3s | ENHANCED | c=42] ---
 de travail, M. Bohman se met à dire qu'un ouvrier métallurgiste ne comprend pas grand-chose et qu'il dormirait mal la nuit s'il lui fallait participer et prendre la responsabilité de l'entreprise dans laquelle il travaille. Les traces sont indélébiles.
 Le congrès LO de 1971 et le congrès du parti de 1972 firent date. Depuis, les réformes sont venues coup sur coup.
 Il y a quelques jours, j'avais la visite de quelques amis américains. Certains d'entre eux se trouvent ici. Ils me demandèrent ce que signifie au fond la démocratie économique pour ceux qui se trouvent derrière L'établi. Voici un bref résumé de ma réponse :
-La loi sur les délégués à la sécurité - elle signifie notamment le droit pour un délégué d'arrêter la production si des camarades sont exposés à des risques d'accidents graves. Et je racontai l'affaire du chlorure de vinyle.
+La loi sur les délégués à la sécurité - elle signifie notamment le droit pour un délégué d'arrêter la production si des camarades sont exposés à des risques d'accidents graves. Et je racontai l'affaire du chlorure de vynyle.
 La loi sur la garantie de l'emploi - elle signifie notamment protection contre les licenciements abusifs. Son incidence est avant tout sensible pour les salariés d'un certain âge.
 La loi sur les mesures de promotion de l'emploi - elle signifie entre autres intervention des groupes d'adaptation pour le changement des postes de travail lorsque celui qui a subi un handicap risque de perdre son emploi, ou pour permettre à celui dont la capacité est réduite d'en trouver un.
-La loi sur la situation du représentant syndical - elle signifie que les délégués peuvent se mouvoir librement sur le lieu de travail et effectuer la mission que les membres leur ont confiéée.
-La loi sur le droit du congé pour études - qui signifie pour celui qui veut suivre une formation qu'il a le soutien de la loi pour prendre un congé sans perdrer son emploi. Auparavant, le rêve de suivre un enseignement se trouvait souvent étouffé dans l'ceuf.
+La loi sur la situation du représentant syndical - elle signifie que les délégués peuvent se mouvoir librement sur le lieu de travail et effectuer la mission que les membres leur ont confiée.
+La loi sur le droit du congé pour études - qui signifie pour celui qui veut suivre une formation qu'il a le soutien de la loi pour prendre un congé sans perdre son emploi. Auparavant, le rêve de suivre un enseignement se trouvait souvent étouffé dans l'ceuf.
 La loi sur la représentation aux Conseils d'administration - qui a significé que des milliers d'ouvriers et d'employés se sont vu ouvrir les portes des salles de Conseil d'administra-
 
---- PAGE 23/26  [125.9s | ENHANCED | c=45] ---
+--- PAGE 23/26  [88.6s | ENHANCED | c=45] ---
 tion, qu'ils ont un droit de regard et reçu des informations,
 qu'ils peuvent représenter leurs camarades lors des décisions
 à long terme engageant l'avenir de l'entreprise.
-Je ne pouvais prétendre que chacune de ces lois amènerait
+Je ne pouvais préterndre que chacune de ces lois amènerait
 des changements pour tous les salariés. Mais il devrait y
 avoir peu d'ouvriers et d'employés dans notre pays qui n'aient
 pas été touchés par au moins l'une d'entre elles.
 C'est ainsi que nous avons commencé. Nous continuons mainte-
 nant avec la nouvelle législation du droit du travail -
-c'est-à-dire l'abolition de l'article 32 et ses équivalents.
+c'est-à-dire l'abolition de l'art. 32 et ses équivalents.
 Cela ouvrira aux salariés la possibilité, au travers de leurs
 organisations, d'obtenir le droit de co-décision dans tous
 les domaines qui leur apparaissent importants. Ingemund
-Bengtsson reviendra tout à l'heure sur ce sujet.
+Bengtsson reviendra tout à l'hourre sur ce sujet.
 Et maintenant le mouvement syndical a lancé un débat concret
 sur les modes de participation des salariés à la croissance
 du capital des entreprises. Il est intéressant de constater
@@ -539,9 +580,9 @@ fondamentale. On devrait alors laisser aux salariés le soin
 de discuter ces questions à leurs propres conditions et non
 leur faire la leçon. Ce qui a échappé à de nombreux observa-
 teurs est que le débat sur les fonds des salaires est issu
-de la volonté de défendre la solidarité et la politique
-de solidarité des salaires. Il part évidemment du fait que les
-salariés revendent des droits, mais qu'ils sont prêts en
+de la volonté de défendre la solidarité et la politique de
+solidarité des salaires. Il part évidemment du fait que les
+salariés revendiquent des droits, mais qu'ils sont prêts en
 même temps d'assumer une responsabilité plus large pour
 l'expansion de la production. Lorsque ce sentiment se retrouve
 dans la grande masse des salariés, la collectivité dispose
@@ -553,17 +594,48 @@ se. A chaque pas, la conscience et les connaissances augmen-
 teront. La pratique est aussi importante que la théorie.
 Nous ne nous faisons aucune illusion quant au prix à payer
 pour réussir. Un travail pénible et patient sera nécessaire
+Arbetarrörelsens arkiv och bibliotek | © Clolf Palmes familj 23
 
---- PAGE 24/26  [116.7s | ENHANCED | c=43] ---
-pour appliquer les réformes sur les lieux de travail de façon à leur conférer un contenu tangible dans la vie professionnelle de tous les jours. L'expérience des syndiqués qui travaillent avec les nouvelles lois est là pour attester cette difficulté.
-Comme toujours il faudra s'habituer aux nouvelles idées et formes de travail, et il sera à tous égards préférable d'éviter les disputes épuisantes, de bénéficier au lieu de cela de la participation constructive des divers partenaires. Mais il faudra attendre pour voir si cela se fera. Quelle que soit la réaction, elle nepourra nous empêcher de progresser.
-Le congrès indique la direction de la route et les décisions dont il s'agit revêtent une grande importance. La résolution que prendra le congrès, s'il adopte l'idée maîtrise du projet de programme du parti, signifiera que le mouvement ouvrier suédois en sera arrivé à la troisième phase de sa longue lutte pour une transformation fondamentale de la société capitalistes.
-La résolution du congrès constituera aussi une contribution à la discussion internationale qui a lieu actuellement sur les voies qui mènent au socialisme.
-Le travail de réalisation du contenu de cette résolution fera écho aux efforts de libération qui se poursuivent dans le monde entier. Dans le passage international du projet de programme, nous disons que l'aspiration à la paix et à la liberté, à la justice sociale et au progrès est commune à tous les peuples.
-Pendant longtemps, on pouvait penser que le destin du monde serait tranché par un affrontement dans tous les domaines entre capitalisme et communism - les deux systèmes incarnés par les super-puisances. Pour toute une génération, l'éventualité d'un conflit nucléaire entre les deux Grands constituera la menace contre l'avènement de l'humanité qui l'emporta sur tout le reste.
-C'est pourquoi nous saluons avec joie la détente qui se manifeste par les conférences sur la sécurité, les négociations-
+--- PAGE 24/26  [83.3s | ENHANCED | c=43] ---
+pour appliquer les réformes sur les lieux de travail de
+façon à leur conférer un contenu tangible dans la vie pro-
+fessionnelle de tous les jours. L'expérience des syndiqués
+qui travaillent avec les nouvelles lois est là pour attester
+cette difficulté.
+Comme toujours il faudra s'habituer aux nouvelles idées et
+formes de travail, et il sera à tous égards préféable
+d'éviter les disputes épuisantes, de bénéficier au lieu de
+cela de la participation constructive des divers partenaires.
+Mais il faudra attendre pour voir si cela fera. Quelle
+que soit la réaction, elle ne pourra nous empêcher de pro-
+gresser.
+Le congrès indique la direction de la route et les décisions
+dont il s'agit revêtent une grande importance. La résolution
+que prendra le congrès, s'il adopte l'idée maîtresse du
+projet de programme du parti, signifiera que le mouvement
+ouvrir suédois en sera arrivé à la troisième phase de sa
+longue lutte pour une transformation fondamentale de la
+société capitaliste.
+La résolution du congrès constituera aussi une contribution
+à la discussion internationale qui a lieu actuellement sur
+les voies qui mènent au socialisme.
+Le travail de réalisation du contenu de cette résolution
+fера écho aux efforts de libération qui se poursuivent dans
+le monde entier. Dans le passage international du projet
+de programme, nous disons que l'aspiration à la paix et à
+la liberté, à la justice sociale et au progrès est commune
+à tous les peuples.
+Pendant longtemps, on pouvait penser que le destin du monde
+serait tranché par un affrontement dans tous les domaines
+entre capitalisme et communisme - les deux systèmes incarnés
+par les super-puisances. Pour toute une génération, l'éven-
+tualité d'un conflit nucléaire entre les deux Grands consti-
+tua la menace contre l'avenir de l'humanité qui l'emporta
+sur tout le reste.
+C'est pourquoi nous saluons avec joie la détente qui se
+manifeste par les conférences sur la sécurité, les négocia-
 
---- PAGE 25/26  [130.4s | ENHANCED | c=46] ---
+--- PAGE 25/26  [86.2s | ENHANCED | c=46] ---
 tions du SALT et la multiplication des contacts entre les
 grandes puissances. Nous pensons que la détente et la paix
 ouvrent la possibilité d'un débat plus libre et plus confiant
@@ -592,7 +664,7 @@ Nous savons avec certitude que nous n'aurem jamais un monde
 en sécurité et en paix aussi longtemps que les injustices
 s'accroissent et que le sous-développement persiste. Il faut
 instaurer un nouvel ordre économique mondial. Les pays riches
-doivent alors aller au-devant des pays pauvres. Les pays riche-
+doivent alors aller au-devant des pays pauvres. Les pays riche
 ches doivent alors être capables de bâtir leurs sociétés sur
 une assise de solidarité et de justice, sinon ils se condam-
 neront chaque fois qu'ils parleront de justice et de solida-
@@ -601,49 +673,49 @@ Le capitalisme ne représente pas un rêve de liberté. A notre
 propre jeunesse qui s'est engagée dans le soutien des mouve-
 ments de libération nationale et sociale, il est apparu que
 le capitalisme s'appuyait sur les régimes d'oppression, avec
-lesquels il trouvait assez fréquentement de nombreuses affinii.
-tées. Dans le Tiers-monde, il n'y guère d'exemple de capita-
+lesquels il trouvait assez fréquemment de nombreuses affinii.
+Dans le Tiers-monde, il n'y guère d'exemple de capita-
 
---- PAGE 26/26  [126.4s | ENHANCED | c=44] ---
-lisme indigene. On n'y rencontre qu'un capitalisme étranger
+--- PAGE 26/26  [83.7s | ENHANCED | c=44] ---
+lisme indigène. On n'y rencontre qu'un capitalisme étranger
 protégé par les militaires et les oppresseurs nationaux.
 Personne n'ose aujourd'hui promettre à ceux qui sont aux pri-
 ses avec les problèmes de la société industrielle que le bien-
 être est à portée de la main - si seulement ils misent sur
 un accroissement de capitalisme. Personne n'est plus tenté
 de croire que la démocratie, c'est de remettre les décisions
-à une-élite économique qui possède le capital.
+à une élite économique qui possède le capital.
 Le communisme international - taché par la cruauté du stali-
 nisme - n'est pas, lui non plus, un rêve de liberté. Quel
-attrait exercer le communism' sur ceux qui désirent faire en-
-tendre davantage leur voix dans leur entreprise, qui entenden
-développer l'autonomie locale, qui veulent miser sur un élar-
-gissement des activités et une participation accrue d'un
+attrait exercer le communiste sur ceux qui désirent faire en-
+tendre davantage leur voix dans leur entreprise, qui entendent
+développer l'autonomie locale, qui veulent miser sur un élargi-
+ssement des activités et une participation accrue d'un
 nombre de plus en plus élevé de gens à la vie politique ?
-Le communiste les accueille avec l'exigence de centralisme démo-
-cratique et de dictature du prolétariat, il leur offre la
-grisaille de la théorie au lieu du travail politiqui pratique
+Le communisme les accueille avec l'exigence de centralisme dém-
+ocratique et de dictature du prolétariat, il leur offre la
+grisaille de la théorie au lieu du travail politique pratiche
 et vivant.
 Notre mouvement porte plus loin le rêve de liberté. Le socia-
 lisme est un mouvement de libération.
 Nous voulons rassembler le peuple autour de l'idée de commu-
 nauté et de solidarité qui est le moteur de la construction sociale.
 Le socialisme est un mouvement populaire.
-Des dizaines de milliers de gens travaillent dans notre mouvem,
-avec une ferveur profonde, à élaborer notre vision du
+Des dizaines de milliers de gens travaillent dans notre mouve-
+ment, avec une ferveur profonde, à élaborer notre vision du
 socialisme, et le présent débat sur le programme du parti fut
-infinitement stimulant. Pourquoi ? Voici ce que disait jadas
-Ernest Wigforss, et c'est certainement une part de la réponse :
-"Si la transformation sociale a une valeur, si le socialism' a
-une valeur, c'est précisément parce qu'ils permettent de
-créer un meilleur terrain aux hommes pour, aimet souffrir,
-travailler, espérer et croire, vivre dans la nature, parmi
-les amis et les camarades, dans l'expérience immédiate que
+infinitim stimulant. Pourquoi ? Voici ce que disait jadas
+Ernst Wigforss, et c'est certainement une part de la réponse :
+"Si la transformation sociale a une valeur, si le socialismes
+a une valeur, c'est précisément parce qu'ils permettent de
+créer un meilleur terrain aux hommes pour, aimé et souffrir,
+travailler, espérer, vivre dans la nature, parmi les amis et les camarades, dans l'expérience immédiate que
 la vie est digne d'être vécue."
 Sur ce, je demande l'adoption des principes généraux du projet
 présenté par la commission du programme.
+[REDACTED]
 
 ============================================================
-Completed : 2026-03-03 22:11:43
+Completed : 2026-03-05 20:15:09
 Pages     : 26  (errors: 0)
-Total time: 105.5 minutes
+Total time: 62.1 minutes

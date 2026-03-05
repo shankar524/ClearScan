@@ -1,137 +1,138 @@
 OCR OUTPUT: 730501a_sundbyberg_stockholm.pdf
 Model    : Qwen3-VL-2B (Q4_K_M GGUF)
-Started  : 2026-03-03 20:26:15
+Started  : 2026-03-05 19:13:05
 Settings : ctx=4096, temp=0.7, presence_penalty=1.5, jinja=ON, no_think=ON, max_size=1120px
 ============================================================
 
---- PAGE 1/23  [119.1s | ENHANCED | c=24] ---
+--- PAGE 1/23  [83.2s | ENHANCED | c=24] ---
 STAGSMINISTERN
-Arbetsordens arkiv och bibliotek | © Olof Palmes familj
+Arbetsrättsens arkiv och bibliotek | © Olof Palmes familj
 137-04-58
 RESERVATION FÖR TILLÄGG OCH
-FORKORTNINGAR
+FÖRKORTNINGAR
 PÅSTA MAJ
 För fyra månader sedan - under några dagar i januari - skrev säkert de allra flesta av er, kanske alla, sitt namn på en lista.
-Många av er gick runt på tunnelbanestationer, i trappuppgångar, på gator och torg och räckte fram är lista och er penna, och människorna skrev sina namn.
+Många av er gick runt på tunnelbanestationer, i trappuppgangar, på gator och torg och räckte fram er lista och er penna, och människorna skrev sina namn.
 Ni upplevde alle gemenskapen.
 Vad var det ni krävde?
-Sluta bomba, slut äntligen fred. I
-Det blev till sist ett budskap om fred och solidaritet från 2,8 miljoner männskor i ett litet land som skonats från alla krigets fasor till månniskorna i ett annat litet land, som under 30 år inte upplevt annat än krig.)
-Varför seite männskarna sina namn på listan?
-De hade ingenting personliga att vinna. Varför fick vi en sådan fantastisk uppslutning hos det svenska fälket.
+Sluta bomba, slut äntligen fred.
+Det blev till sist ett budskap om fred och solidaritet från 2,8 miljoner människor i ett litet land som skonats från alla krigets fasor till människorna i ett annat litet land, som under 30 år inte upplevt annat än krig.)
+Varför seite männskornas sina namn på listan?
+De hade ingenting personligen att vinna. Varför fick vi en sådan fantastisk uppslutning hos det svenska fokket.
+[?]
 [REDACTED]
 
---- PAGE 2/23  [110.4s | ENHANCED | c=28] ---
-Svaret heter solidaritet. Solidaritet med männskor som drabbats av krigets och bombernas ohygglighet. Solidaritet med människor som själva vill bestämma om sitt lands framtid.
+--- PAGE 2/23  [70.3s | ENHANCED | c=28] ---
+Svaret heter solidaritet. Solidaritet med människor som drabbats av krigets och bombernas ohygglighet. Solidaritet med männskor som själva vill bestämma om sitt lands framtid.
 Det svenska folket sa sin mening. Det har rätt att säga sin mening. Vi behöver aldrig be någon om ursäkt när vi hävdar fredens intressen och solidariteten med en liten nation.
 Den svenska neutralitetspolitiken bestämmer vi själva.
-Ingen kan misstänka oss för aggressiva avsikter mot andra folk. Vi hotar ingens fred. Vi söker inte ovänskap med något folk, makt över andra.
+Ingen kan misstänka oss för aggressiva avsikter mot andra folk. Vi hotar ingens fred. Vi söker inte ovänskap med något folk, mått över andra.
 Men detta vet vi:
-Det går inte att vinna med människors tilltåd med vält. Det gick inte över Hanoi och Vietnams byar. Det går inte över Kambodja. Därför säger vi: Sluta bomba. Följ Parisavalet. Låt landet själv bestämma sin framtid. Det blir bara lidanden men ingen fred förrän bomberna upphört att falla.
-Det går inte att i längden kvasa människors frihetsläggen med mord och tortyr och förtryck.
+Det går inte att vinna med människors tillit med vald. Det gick inte över Hanoi och Vietnams byar. Det går inte över Kambodja. Därför säger vi: Sluta bomba. Följ Parisavtalet. Låt landet själv bestämma sin framtid. Det blir bara lidanden men ingen fred förrän bomberna upphört att falla.
+Det går inte att i längden kväsa människors frihetslängten med mord och tortyr och förtryck.
 Amilcar Cabral talade i höstas på vår partikongress. Nu är han död. Brutalt mördad. Men
 [REDACTED]
 2
 
---- PAGE 3/23  [118.5s | ENHANCED | c=29] ---
+--- PAGE 3/23  [63.5s | ENHANCED | c=29] ---
 hans frihetssöreelse i Guinea-Bissau lever.
-Därför säger vi: Sluta mörda. Ni har ändå för-
+Därför säger vi: Slut a märda. Ni har ändå för-
 lorat. Kolonialismens epok är slut.
 Författare från hela världen samlas idag i
-Sverige. Men leden av inbjudna har glesnat. Ty
+Sverige. Men ledan av inbjudna har glesnat. Ty
 i diktaturernas länder - i Grekland, i Turkiet,
 i Östeuropa - är det fria ordet en fara för de
-maktiga. Därför vänder vi oss i protest mot
-diktaturen i vilken skepnad och undr vilka
+mäktiga. Därför vänder vi oss i protest mot
+diktaturen i vilken skepnad och under vilka
 förtecken den än må upptråda. Till slut kommer
 friheten att segra.
-Men då får icoe vi - som har det fria crdet -
+Men då får icke vi - som har det fria crdet -
 upphöra att hävda varje människas och varje
 nations rätt att säga sin mening. Men då får
-icoe vi - som har freden - låta välledt och de
-maktliga skrämma oss till tystnad.
-Mutesdeltagare,
+icke vi - som har freden - låta välledt och de
+mäktiga skrämma oss till tystnad.
+Mütesdeltagare,
 Lät det här mötet bli en manifestation för
 alla folks rätt att i fred och oberoende bygga
-sitt land. Lätt det bli en manifestation för vår
-demokrati och vär rätt att säga vår mening,
+sitt land. Låt det bli en manifestation för vår
+demokrati och vår rätt att säga vär mening,
 klart och tydligt.
 Den svenska neutralitetspolitiken har en fast
 förankring hos Sveriges folk.
 Men moderaterna söker strid om utrikespolitiken.
 [REDACTED]
 
---- PAGE 4/23  [112.2s | ENHANCED | c=29] ---
-Det är det gamla högerparti som på olika sätt sett få in oss i ett samarbete med främmande militärallians. Det är det parti som i BBC-frågan tagit ytterst ringa känslan till neutralitetspolitikens oavvisliga krav och 'som i den frågan förgäves sökt splittra nationen. Det är det parti vars ständpunkter studerat framstått som en reflex på en stormakts missnöje. Bohman trampar vidare i Holmbergs fotspår. Det är en trygghet för Sveriges folk att moderaterna inte har något som helst inflytande på vårt lands utrikespolitik.
+--- PAGE 4/23  [71.5s | ENHANCED | c=29] ---
+Det är det gamla högerparti som på olika sätt sett få in oss i ett samarbete med främmande militär-allians. Det är det parti som i BBC-frågan tagit ytterst ringa känslan till neutralitetspolitikens oavvisliga krav och 'som i den frågan förgäves sökt splittra nationen. Det är det parti vars ståndpunkt- ter stundom framstått som en reflex på en stormakts missnöje. Bohman trampar vidare i Holmbergs fot-spår. Det är en trygghet för Sveriges folk att moderaterna inte har något som helst inflytande på vårt lands utrikespolitik.
 Den tryggheten skall vi slå vakt om den 16 september
-Socialdemokratin förblir en garant för en fast och konsekvent svensk neutralitetspolitiK.
---------------------
+Socialdemokratin förblir en garant för en fast och konsekvent svensk neutralitetspolitik.
 Arbeträvrelsen vet av lång praktisk erfarenhet vad solidaritet innebär.
-För 75 år sedan bildades Landsorganisationen in Sverige. Det är en handledse som varit avgörande för vårt lands utveckling. Packföreningssröelsen satsade på gemenskap och samverkan. Den ville hävdan de egna gruppens intressken. Men den ville någon ting mera. Den ville vara med om att skapa ett nytt samhälle.
+För 75 år sedan bildades Landsorganisationen in Sverige. Det är en handelse som varit avgörande för vårt lands utveckling. Packföreningsrörelsen satsade på gemenskap och samverkan. Den ville hävdas den egna gruppens intressken. Men den ville någon- ting mera. Den ville vara med om att skapa ett nytt samhälle.
 Så här sa Hjalmar Branting just vid denna tid:
-"Arbetarrrelsen är socialismen, trädande ut i
+"Arbetarrävelsen är socialismen, trädande ut i
 [REDACTED]
-[?][?]
+[?]
+[?]
 
---- PAGE 5/23  [104.3s | ENHANCED | c=28] ---
-det praktiska livet. Ingendera får tänkas i någon dogmatisk stelhet; de verka i levande livet och livet står aldrig stilla, varje nytt skede av samhällsutvecklingen ställer nya krav eller ger något förändrad belysning över det gamla. Men de ledande grundtankarna bestå, hos socialismen liksom hos arbetarrörelsen, och de är solidaritet i stället för privatfördelar på andras bekostnad, organisation i stället för planlös anarki, kraftförlust och ruin".
-Den framväxande arbetarrörelsen utsattes för en hänsynslös kampanj från de borgerliga och från privata kapitalintressens, en skamlös förföljeelse av enskilda människor.
+--- PAGE 5/23  [65.4s | ENHANCED | c=28] ---
+det praktiska livet. Ingendera får tänkas i någon dogmatisk stelthet; de verka i levande livet och livet står aldrig stilla, varje nytt skede av samhällsutvecklingen ställer nya krav eller ger något förändrad belysning över det gamla. Men de ledande grundtankarna bestå, hos socialismen liksom hos arbetarrörelsen, och de är solidaritet i stället för privatfördelar på andras bekostnad, organisation i stället för planlös anarki, kraft- förlust och ruin".
+Den framväxande arbetarrörelsen utsattes för en hänsynslös kampanj från de borgerliga och från privata kapitalintressen, en skamlös förföljeelse av enskilda människor.
 Man talade med ilska om maktkoncentration och centraldirigering. Precis som idag.
-Man angrep arbetarrörelsen med värdeleddade och hätska ord därför att man upplevde den egna makten som hotad. Precis som idag.
-Makten och dess utövare skall alltid stå under debatt. Men då är det vissa ting man skall ha kliart för sig.
+Man angrep arbetarrörelsen med värdeaddade och hätska ord därför att man upplevde den egna makten som hotad. Precis som idag.
+Makten och dess utövare skall alltid stå under debatt. Men då är det vissa ting man skall ha klart för sig.
 Vi har en stor ekonomiskmakt samlad hos privata kapitalintressen. Den makten är inte föremål för den borgerliga pressens kampanjer.
 
---- PAGE 6/23  [127.0s | ENHANCED | c=30] ---
+--- PAGE 6/23  [70.5s | ENHANCED | c=30] ---
 Härom talar man föga. När Arbetsgivarföreningens
-direktör häromdagen skulle i en teckning skildra
-maktstrukturen i Sverige gav han stort utrymme
-åt Broderskapsrörensen. Den framstod som ofant-
-ligt maktig. Men Svenska Arbetsgivareföræringen
+direktör häroundagen skulle i en teckning skildra
+maktstrukturen i Sverige gav han stort utrymmne
+åt Broderskapsrörrelsen. Den framstod som ofant-
+ligt maktig. Men Svenska Arbetsgivareföreningen
 fanns inte med och inte storbankerna och stor-
 koncernerna. De hade på ett mirakulöst sätt
 helt försvunnit ur bilden.
-Inflytande gen möjlighet-ått få något uthämtat.
-Vart lands arbetare kämpade en mansålder för-
+Inflytande gen möjlighet- åt få något uträttat.
+Värt lands arbetare kämpade en mansälder för-
 den allmänna rösträtten, därför att de på poli-
 tisk väg ville förbättra sina villkor. Tillsam-
 mans med liberalerna genomförde man den poli-
-tiska demokratin som åt medborgarna gav möjlig-
+tiska demokratin som ät medborgarna gav möjlig-
 heter att förändra samhället. Demokratin var en
 god makt.
-Det går inte att skapa sociala trygghets-
+Det går inte att skapa sociala trygghegs- 
 anordningar, en sjukvård för hela rolket, rjm-
 liga pensioner, utbildning, arbete utan att
-samhället får möjlighet att handla.
+samhället får möjlighet att handleda.
 Arbetarna slöt sig sammen i fackföreningar. De
 gav sina företrädare mandat att förhandla och
-sluta avtal. Därmmed berörde man arbetsgivaren
+sluta avtal. Däremd berövade man arbetsgivaren
 och marknadskrafterna rätten att ensidigt be-
-stämma över lön, arbetstid och arbetsvillkor.
+stämmer över lön, arbetstid och arbetsvilkor.
 Den gav honom människovärde.
-
---- PAGE 7/23  [111.1s | ENHANCED | c=29] ---
-Vi skall alltid vara noga med att fråga: Vilka intressen är det som har makt, och vartill skall den användas.
-Tänk om man fallit undan för den borgerliga propagandan för 75 år sedan och sagt: Vi är så rädda för talet om pampar och maktkoncentration att vi bryr oss inte om att bilda fackföreningar. Hjelre får arbetsgivarna sitta i orubbat bo. Det hade hårt och hänsynslöst drabbat de vanliga lönstagarna.
-Tänk om Per Albin Hansson för 40 år sedan fallit undan för den borgerliga propaganda och sagt: Vi är så rädda för talet om tvång och centraldirigering att vi bryr oss inte om att använda det demokratiska samhället för att skapa sysselsättning, trygghet för de gamla, utbildning åt de unga, vård för de sjuka. Hjelre får det borgerliga samhället färbl i orubbat bo. Det hade hårt och hänsynslöst drabbat de mindre inkomsttagarna i samhället.
-Vi skall ha fullständigt klart för oss att en förändring av maktförhållanden på demokratins väg till löntagarnas förmån har varit och är en helt avgörande förutsättning för en förbättring av deras villkor. Så var det för 75 år sedan. Så var det för 40 år sedan. Så är det e i dag.
 [REDACTED]
-[?]
 
---- PAGE 8/23  [105.2s | ENHANCED | c=27] ---
-De som idag med enkla slagord om ågaredemokrati
+--- PAGE 7/23  [76.3s | ENHANCED | c=29] ---
+Vi skall alltid vara noga med att fråga: Vilka intressen är det som har makt, och vartill skall den användas.
+Tänk om man fallit undan för den borgerliga propagandan för 75 år sedan och sagt: Vi är så rädda för talet om pampar och maktkoncentration att vi bryr oss inte om att bilda fackföreningar. Hellre får arbetsgivarna sitta i orubbat bo. Det hade hårt och hänsynslöst drabbat de vanliga lönstagarna.
+Tänk om Per Albin Hansson för 40 år sedan fallit undan för den borgerliga propaganda och sagt: Vi är så rädda för talet om tvång och centraldirigering att vi bryr oss inte om att använda det demokratiska samhället för att skapa syssel- sättning, trygghet för de gamla, utbildning åt de unga, vård för de sjuka. Hellre får det borgerliga samhället färbl i orubbat bo. Det hade hårt och hänsynslöst drabbat de mindre inkomsttagarna i samhället.
+Vi skall ha fullständigt klart för oss att en förrädring av maktförhållanden på democratisens väg till lönstagarnas forman har varit och är en helt avgörande zörsutsättning för en förbättring av deras villkor. Så var det för 75 år sedan. Så var det för 40 år sedan. Så är det e dag.
+[REDACTED]
+
+--- PAGE 8/23  [65.7s | ENHANCED | c=27] ---
+De som idag med enkla slagord om ägaredemokrati
 och decentralisering söker förhindra att lön-
-tagarna får ett ökat inflytande i det ekonomiska
-livet, de kämpar in grundan bara vidare i spåren
+tagarna får att ökat inflytande i det ekonomiska
+livet, de kämpar i grunden bara vidare i spåren
 från sekelskilltet och från 30-talet. Faller vi
 undan betyder det bara att löntagarnas trygghet
 försvagas och att möjligheten till bättre vill-
 kor och en fördjupad demokrati förmenas dem.
 Låt oss se på ekonomi och sysselsättning.
-Den iagkonjunktur vi upplevt de senaste åren
-är nu slut. Alltjust finns det många orosmoment
+Den jagkonjunktur vi upplevt de senaste åren
+är nu slut. Alltjuft finns det många orosmoment
 i den internationella ekonomiska utvecklingen och
 de långsiktiga problemen är många.
-Men så mycket är klart att produktion, inverste-
+Men så mycket är klart att produktion, invester-
 ringar och ekonomisk tillväxt nu på nytt tagit
 fart.
 Den svenska exporten ökar i rekordatrad takt.
@@ -139,179 +140,143 @@ I mars i år var vår export nära 40 procent högre
 än i mars för ett år sedan.
 Det är en effektiv dementi på kampanjerna om
 att vär industri skulle sakna konkurrensför-
-måga, att arbetsgivaravgiften skulle köra vara
+måga, att arbetsgivaravgiften skulle köra var
 ekonomi i botten.
 
---- PAGE 9/23  [115.7s | ENHANCED | c=28] ---
-Arbetsr�relsens arkiv och bibliotek | © Olof Palmes familj
-9
-Vi kan i år räkna med en tillväxt som ligger
-väl i nivå med det-som-borgersliga-ekonomer
-kallar 60-talets gyllene år. Det finns goda
-möjligheter att denna tillväxt kommer att
-fortsatta under de närmaste åren.
+--- PAGE 9/23  [68.9s | ENHANCED | c=28] ---
+Vi kan i år räkna med en tillväxt som ligger väl i nivå med det-som-borgerliga-ekonomer kallar 60-talets gyllene år. Det finns goda möjligheter att denna tillväxt kommer att fortsatta under de närmaste åren.
 Sveriges ekonomi är stark, våra framtidsut-
 sikter är gynnsamma, vi har ett Gott utgångs-
 läge inför konjunkturuppgången.
 Vår valutareserv är rekordstor.
 Vår konkurrenskraft är ged. Det visar export-
-siffrorna. Därtill kommer att frihandelsavtalet
-med europamarknaden steg för steg tur bort de
-tullar som möter den svenska exportindustrin.
+siffrona. Därtill kommer att frihandelsavtalet
+med europamarknaden steg för steg tur bort de tullar som möter den svenska exportindustrin.
 Vi har trots lågkonjunkturen lyckats hålla in-
-dustriinvesteringarna uppe och till och med åka
-dem. Det här vi nyttja av nu. Man gör i borger-
+dustriinvesteringarna uppe och till och med åka dem. Det här vi nyttja av nu. Man gör i borger-
 lig press sitt bästa för att sprida föreställ-
-ningen att industrins investeringar gått till-
+ningen att industrins investeringar gåt till-
 baka under senare år. I verkligheten kommer
-industrins investeringar i år att vara inte
-mindre än 50 procent högre än 1968.
-Vi har trots lågkonjunkturen kunnat äka antalet
-sysselsatta. Aldrig någonsin har vårt samhälle
+industrins investeringar i år att vara inte mindre än 50 procent högre än 1968.
+Vi har trots lågkonjunkturen kunnat äka antalet sysselsatta. Aldrig någonsin har vårt samhälle
 satsat så hårt på att skapa arbetstillfällen.
 En stor del av insatserna har gällt yrkesutbildning
+Arbetarrörelsens arkiv och bibliotek | © Olof Palmes familj
 [REDACTED]
-[?]
-[?]
+[?][?]
 
---- PAGE 10/23  [155.8s | ENHANCED | c=27] ---
+--- PAGE 10/23  [69.4s | ENHANCED | c=27] ---
 miljövård, ett renare Sverige. Det har varit en klart framtidsinriktad satsning.
 Den förbättrade konjunkturen får effekt också på arbetsmarknaden. Efterfrågan på folk ökar.
 På en del håll är det redan arbetskraftsbrist.
 Men stora grupper har alltjämt svårigheter.
-Arbetslusheten har haft en klar nedgäng de senaste månaderna. Men den är alltjämt för hög.
-Det tar tid innan konjunkturförbättringen slar igenom-på-allvar...
+Arbetslösheten har haft en klar nedgäng de senaste månaderna. Men den är alltjämt för hög.
+Det tar tid innan konjunkturförbättringen slår igenom-på-allvar...
 Till dess måste vi göra fortsatta insatser
 för att skapa sysselsättning.
 Men även när konjunkturuppgången fått full effekt så kommer-det att finnas grupper som har svårigheter-att-få.jobb. Det är de äldre, det är de handikappade, det är ungdomar. Det gäller rättsvisa för kvinnorna på arbetsmarknaden.
 Vi vet hur det var i förra högkonjunkturen. De äldre fick inte plats i arbetslivet trots att hjulen snurrade för fullt.
-Vi vet också att i en del regioner och i en del branscher så hjälper inte högkonjunkturen.
+Vi vet också att i en del regioner och i en del branscher sä hjälper inte högkonjunkturen.
 Därför skall vi fullfölja den aktiva arbets-
 marknadspolitiken. Den har gett 100 000-tals människor trygghet.
 [REDACTED]
+[?]
+[?]
 
---- PAGE 11/23  [130.8s | ENHANCED | c=28] ---
+--- PAGE 11/23  [73.4s | ENHANCED | c=28] ---
 Därför skall vi fullfölja den aktiva närings-
 politiken. Den har redan gett 10 000-tals nya
 jobb.
-Samhället och löntagarna kan inte stå passiva
-vid sidan om, når strukturomdningar och tek-
+Samhället och löntagarna kan inte sta passiva
+vid sidan om, når strukturomdanningar och tek-
 niska och ekonomiska förändringar hotar lön-
 tagarnas trygghet och sysselsättning.
 För socialdemokratin är 'sysselsättningen den
 viktigaste frågan. Sysselsättningspoliti ken
-är också det ompåde, där de ideologiska skilje-
+är också det ompäde, där de ideologiska skilje-
 linjerna mellan socialdemokrati och borgerlig-
-het fått lätt klaraeste uttryck. Sä var det på
+het fått lätt klaraste uttryck. Så var det på
 30-talet. Så har det varit under hela tiden
 sedan dess.
-De borgerliga tror att man kan läsa sysselsätt-
+De borgerliga tror att man kan läsa sysselsät-
 ningsfrågen framför allt genom skattesänkningar
 för företagen. De beskriver samhället som ett
-hot mot den enskildes fthitet.
+hot mot den enskildes fithet.
 Socialdemokratin kan inte godta att de ekono-
-miska krafternas fria spel skal bestamma över
+miska krafternas fria spel skal bestämma över
 människors arbete och trygghet. Marknadskrafter-
 na är ingen garanti för sysselsättningen. Det
-har erfarenheten lär oss.
+har erfarenheten lärt oss.
 Det finns en egendomlig borgerlig propaganda
 som skillrar den sysselsättning som skapas av
 samhället som mindervårdig. De som får arbetc
 
---- PAGE 12/23  [132.2s | ENHANCED | c=26] ---
-på så sätt betraktas som arbetsl��sa.
-L�t mig ta ett enda exempel: En 55-årig kvinna
-i Norrland har i 30 år g�t hemma och sk�tt
+--- PAGE 12/23  [64.9s | ENHANCED | c=26] ---
+på så sätt betraktas som arbetsläsa.
+Lät mig ta ett enda exempel: En 55-årig kvinna
+i Norrland har i 30 år gått hemma och skött
 familjen. Nu är mannen sjuklig och kan inte
-arbeta. Rustrun har f�tt jobb i ett industri-
+arbeta. Rustrun har fått jobb i ett industri-
 eller beredskapsarbete med 12:50 i timmen. Hur
-mangne medlemmar av Sveriges F���tagares Riks-
-f�rbund tror ni st�tt i k� för att erbjudna
-hene jo>> om vi s��kt arbetsgivavrgiften
+många medlemmar av Sveriges Företagares Riks-
+förbud tror ni stått i kör för att erbjuda
+hence jogg om vi sänkt arbetsgivaravgiften
 med en eller annan procent?
-Men hon skildras som egentligen arbetsl�s. Och
-så blir dcmn kvinna i den borgerliga propagand-
-dan ett argument met socialdemokratis ns sysseI-
-s�ttningspolitik och f\"or skattelattnader åt
-bolagen. Det är en of\"rsynthet.
-Sysels?sättningen er och f\"orbliar socialdemokratins
-viktigaste fr\u00e4ga. Vi har idag den h\xf6gsta syssel- 
-s\ttingen in n\\got industiriland. Vi ska satta
-in all vär kraft p\\\\ att ytterligare \u00c9ka syssel-
-s\"ttningcn. Men då m\xe5ste lunttagarna ha \u00d8kat in-
-flytande over samhällsekonomin. Det avg\xfors den
+Men hon skildras som egentligen arbetslös. Och
+så blir denna kvinna i den borgerliga propagand-
+dan ett argument met socialdemokratis ns syssel-
+sättningspolitik och för skattelättnader åt
+bolagen. Det är en ofürsynthet.
+Sysselsästningen är och förlirar socialdemkratins
+viktigaste fråga. Vi har idag den högsta syssel-
+sättningen in något industriland. Vi ska sätta
+in all vår kraft på att ytterligare öka syssels-
+ättningen. Men då måste lüntagarna ha ökat in-
+flytande över samhällsekonomin. Det avgör des
 16 september.
-i : ---------
+i :
+: - -
 [REDACTED]
+[?]
 
---- PAGE 13/23  [142.9s | ENHANCED | c=29] ---
+--- PAGE 13/23  [70.0s | ENHANCED | c=29] ---
 Socialdemokratin vill slå vakt om det praktiska yrkesarbetsvärde och värdighet i det svenska samhället. Det sker inte genom allmänt tai.
 Det sker genom att förändra människors sociala villkor i arbetslivet till större rättfärdig-
-het. För att kunna genomsöka detta måste lön-
-tagarna få mer säll vi kom på 1 arbetslivet.
-Socialdemokratin och fackföreningsrårelsen har gemensamt lagt fram ett genomgripande program
+het. För att kunna genomföra detta måste lön- tagarna få mer sälls billi om 1 arbetslivet.
+Socialdemokratin och fackföreningsrålsen har gemensamt lagt fram ett genomsnignande program
 för arbetslivets reformering och demokratisering.
-För det första: 8 000 löntagare trhäuer in i före-
+För det första: 8000 löntagare trhäuer in i före-
 tagens styrelser.
-För det andra: 30 000 skyddsombud får genom en ny lag om arbetsmiljön, som läggas från den 10 maj, ett helt annat inflytande över arbetsmiljön.
-Det inflyttandet får de för att värna arbetskamraternas liv och hälsa.
-För det tredje: En ny lag om anställningstrygget,
-som läggs fram 1 juni, skall ge lönstagarna ett bättre skydd mot obehagade uppsägningar. Det får inte vara så att den som är lite äldre kastas ut från arbetsmarknaden, därför att han eller hon inte längre är tillräckligt lönsam. Vi har inget emot lönsamma företag. Men vi kan aldrig godta att lönsamhetskraev ensidigt och hän-
-synslöst går ut över enskilda människors trygg- het och välfärld.
+För det andra: 30 000 skyddsombud får genom en ny lag om arbetsmiljön, som läggs från den 10 maj, ett helt annat inflytande över arbetsmiljön. Det inflytandet får de för att värna arbetskam- raternas liv och hälsa.
+För det tredje: En ny lag om anställningstrygg-
+het, som låggs fram i juni, skall ge lönstagarna ett bättre skydd mot obeftogade uppsägningar. Det får inte vara så att den som är lite äldre kastas ut från arbetsmarknaden, därför att han eller hon intc längre är tillräckligt lönsam. Vi har inget emot länsamma företag. Men vi kan aldrig godta att lönsamhetskraven ensidigt och hän- synslöst går ut över enskilda människors trygg-
+het och välfärд.
 [REDACTED]
-13
-Arbeterörelsens arkiv och bibliotek | © Olof Palmes familj
 
---- PAGE 14/23  [198.3s | ENHANCED | c=29] ---
-Idag kan arbetsgivarna, vid rationaliseringar
-och inskränkningar, göra en kall effektivitets-
-beräkning när det gäller hur många som skall
-få gå och vilka som skall avskedas. Det systemet
-kan inte få fortsätta i denna tid av allt
-snabbare rationaliseringar. Det gäller-enskilde
-människors-trygghet. Men då näste samhället
-stifta en lag till skydd och stöd för anställningen
-och-då-måste löntagarna, få ett större
-inflytande över företagens personalpolitik och
-planering, ta ansvar för varandra.
-För det fjärde: 500 miljoner ur AF-fonderne
-skall satsc_ på att bygga upp framtidens indu-
-stri. Det är löntagarnas pengar. De stora län-
-tagarorganisationerna står bakom förslaget. De
-är beredda att satsa dem på nya arbetsplatser,
-ta ansvar för vår gemensamma framtid. Hårom ligger
-ett förslag på riksdaysbord.
-För det femte: Vi vill ge löntagarna en starkare
-ställning vid förhandlingsbordet. Därem pagår
-utredning under Kurt Nordgrens ledning. Vi skall
-lägga förslag under den kommande valperioden.
-Jag har sagt fyrut - och jag upprepar det -
-att detta sammanaget kanske är den största
-demokratiseringsprocess som ägt rum i det
-svenska samhället sedan den allmänna rösträtten
+--- PAGE 14/23  [67.8s | ENHANCED | c=29] ---
+Idag kan arbetsgivarna, vid rationaliseringar och inskränkningar, göra en kall effektivitetsberäkning när det gäller hur många som skall få gå och vilka som skall avskedas. Det systemet kan inte få fortsätta i denna tid av allt snabbare rationaliseringar. Det gäller-enskilde människors-trygghet. Men då näste samhället stifta en lag till skydd och stöd för anställningen och-då-måste löntagarna få ett större inflytande över företagens personalpolitik och planering, ta ansvar för varandra.
+För det fjärde: 500 miljoner ur AF-fonderne skall satsa på att bygga upp framtidens industri. Det är löntagarnas pengar. De stora läns-tagarorganisationerna står bakom förslaget. De är beredda att satsa dem på nya arbetsplatser, ta ansvar för vår gemensamma framtid. Här om ligger ett förslag på riksdaysbord.
+För det femte: Vi vill ge löntagarna en starkare ställning vid förhandlingsbordet. Därem pågår utredning under Kurt Nordgrens ledning. Vi skall lägga förslag under den kommande valperioden.
+Jag har sagt fyrut - och jag upprepar det - att detta sammanaget kanske är den största democratiseringsprocess som ägt rum i det svenska samhället sedan den allmänna rösträtten
+[REDACTED]
+14
+Arbetsrörenens arkiv och bibliotek | © Olof Palmes familj
 
---- PAGE 15/23  [129.1s | ENHANCED | c=30] ---
-genomfördes. Det är förmågeln också den största decentralisering av makt och inflytande till vanliga löntagare som någonsin ägt rum i det svenska samhället. Det är ett stort stej mot jämlikhet.
-Vi vill demokratin. Därför att den ger värdig-
-het åt ett samhälle, Men demokratin innebär
-också en möjlighet att skapa ett bättre sam-
-hälle. Så var det med den politiska demokratin.
+--- PAGE 15/23  [70.8s | ENHANCED | c=30] ---
+genomfördes. Det är förmödlingen också den största decentralisering av makt och inflytande till vanliga löntagare som någonsin ägt rum i det svenska samhället. Det är ett stort steget mot jämlikhet.
+Vi vill demokratin. Därför att den ger världighet åt ett samhälle, Men demokratin innebär också en möjlighet att skapa ett bättre samhälle. Så var det med den politiska demokratin.
 Så är det också med den ekonomiska demokratin.
-Demokrati, makt över arbetsmiljon och produktionen betyder att arbetaren och tjänstemannen kan skydda sig från ckador i jobbet. Det betyder att människors hälso kan förbättras - hur många sjukdomar och krämpor har inte sitt upphov i ett hårt arbetsliv. Det betyder att nya jobb kan skapas. Det betyder större trygghet i an-
-ställningen. Man skall inte behöva känna den
-ständiga fruktan när man blir lite äldre. Får
-man vara med och bestämma om förhållandena på arbetssplatsen kan det betyda större trivsel,
-större människokvärde.
-Demokratin betyder en möjlighet att förändra verkligheten. Lär är kräver löntagarna på solidaritetens väg ett större inflytande i arbetslivet.
+Demokrati, maktt över arbetsmiljön och produktionen betyder att arbetaren och tjänstemannen kan skydda sig från ckador i jobbet. Det betydjer att människors hälso kan förbättras - hur många sjukdomar och krämpor har inte sitt upphov i ett hårt arbetsliv. Det betydjer att nya jobb kan skapas. Det betydjer större trygghet i anställningen. Man skall inte behöva känna den ständiga fruktan när man blir lite äldre. Får man vara med och bestämma om förhållandena på arbetssplatsen kan det betyda större trivsel, stärre människokvärde.
+Demokratin betyder en möjlighet att förendra verkligheten. Låter kräver löntagarna på solidaritetens väg ett större inflytande i arbetslivet.
 Självfallet möter demokriseringen motstånd.
 
---- PAGE 16/23  [94.8s | ENHANCED | c=21] ---
+--- PAGE 16/23  [52.3s | ENHANCED | c=21] ---
 För dagen koncentreras det till frågan om AP-
 fonderna.
-I dema fråga är de borgerliga partierna djupt
-splitttrade. Därför vill de skjuta på den till
+I demna fråga är de borgerliga partierna djupt
+splittrade. Därför vill de skjuta på den till
 efter valet. Om de vinner valet skall de allt-
-så sätta sig ner och förutsöka utforma en gemen-
+så sätta sig ner och försöka utforma en geme-
 sam ståndpunkt. Jag vågar påstå att då blir det
 ingenting av. Folkpartiet och moderaterna går
 hårt emot förslaget.
@@ -319,78 +284,78 @@ De borgerliga säger att förslaget innebär att
 man riskerar löntagarnas pensioner. Det är en
 närmast rörande omsorg om pensionerna som nu
 visas från de partier som slog mot ATP-refor-
-men och aldrig ville ha några fonder över
+men och äldrig ville ha några fonder över
 huvud taget.
-[REDACTED]
 
---- PAGE 17/23  [116.1s | ENHANCED | c=27] ---
-Kan vi genom att satsa 500 miljoner av AP-
+--- PAGE 17/23  [64.7s | ENHANCED | c=27] ---
+Kan vi genom att satsa 500 miljoner av AF-
 fonderna bygga ut vår industri, så säkrar vi
-både framtida jobb och pensioner.
+både framtidiga jobb och pensioner.
 De borgerliga talar om maktkoncentration.
 Det går an för bünderna att köpa in sig i varu-
-husen vid Sverkels tong. Det går an för bünderna
+husen vid Serkels tong. Det går an för bünderna
 att köpa upp företag efter företag. Det går an
 för multinationella storföretag att köp- upp
 svenska industrier. Då audas man inte ett ord
 om maktkoncentration.
 Däremot blir man djupt orolig om den privata
 makten i företagen som representerar miljarder
-kronor blandas med 500 miljoner som represe-
-rar löntagarnas pengar. Helén vill slå vekt om
-blandeekonomi, säger han. Men någon blandeekomi
-i företagen får det tydligest inte bli.
+kronor blandas med 500 miljoner som represente-
+rar löntagarnas pengar. Helån vill slå vekt om
+blandeekonomi, säger han. Men någon blandeekonomi
+i företagen får det tydligint bli.
 Minns ni striden om investeringsbanken? Den på-
 stod de borgerliga skulle leda till tvång och
-socialisering. Till slut gick mittpartierna med
-på en ett-ärg provbank. De blev några slags
-ett-äriga provsocialister.
-Nu har investeringsbanken satsat över 3 000
+socialisering. Till slut gick mittparterna med
+på en ett-årig provbank. De blev några slags
+ett-åriga provsocialister.
+Nu har investeringsbanken satset över 3 000
 miljoner kronor på industriell utbyggnad. Det
 har gett många jobb. Investeringsbanken går
 
---- PAGE 18/23  [133.9s | ENHANCED | c=26] ---
-med vinst, som avsätts till en utvecklingsfond
-för mindre företag. Nu har skruckpropagandan
+--- PAGE 18/23  [63.4s | ENHANCED | c=26] ---
+med vinst, som avsåts till en utvecklingsfond
+för mindre företag. Nu har skräckpropagandan
 tystnat.
 Man talar om centralisering, pampar. Om AP-
-fonder uppdrar åt de lokalt anställda arbetarna
-och tjänstemännen att på bolagsstämma förträdade
-lönagerintrressen, då skildras dessa som pam-
-per. Då blir det den största socialiserings-
+fonden uppdrar åt de lokalt anställda arbetarna
+och tjänstemännen att på bolagsstämma företedda
+lönagerintressen, då skildras dessa som pam-
+per. Där blir det den största socialiserings-
 aktionen i vår historia. Storbankernas och de
-privata stiftelsernas företrädare på samma
+privata stiftelsernas förträdare på samma
 bolagsstämma skildras däremot som det fria,
 enskilda och dynamiska näringslivets represen-
 tanter, näst intill vardagsmänniskor på egna
 ben. Hur oändligt sitter inte den svenska
-borgerligheten fast i gamla dogmer och förlegat
-klastänckande!
-Vi kommer att stå fast när det gäller lagen om
+borgerligheten fast i gamla dogmer och förlagat
+klasstankande!
+Vi kommer att sta fast när det gäller lagen om
 arbetsmiljön.
 Vi kommer att stå fast när det gäller lagen om
 anställningstrygghet.
 Vi kommer att stå fast när det gäller AP-fonder-
-nas medverkan i den industriella upphygnaden.
-Vi kommer att stå fast när det gäller utredning-
-en om vidgad fördelningsrätt.
+nas medverkan i den industriella uppbrygnaden.
+Vi kommer att stå fast när det gäller utredning--
+en om vidgad förhandlingssätt.
+[REDACTED]
 
---- PAGE 19/23  [113.8s | ENHANCED | c=26] ---
+--- PAGE 19/23  [63.0s | ENHANCED | c=26] ---
 Kravet på en förnyelse av arbetslivet har växt
 från ur löntagarnas egna upplevelser av verkligheten. Det är djupt förankrat i vår rörelse.
 Den förnyelsen skall vi genomföra gemensamt,
 fackligt och politiskt. Det förutsätter en
-stark fackföreningsrörreise. Det förutsåter
+stark fackföringsrörreise. Det förutsätter
 också en socialdemokratisk valseger den 16 sep-
 tember.
 Men tro inte att striden blir lätt. De borger-
 liga är redan övermodiga. De har inte något
 gemensamt program. De är djupt splittrade i de
-flesta sakfrägor. Men de vill gemeinsamt erövra
-muktten. De har stött av stora ekonomiska intres-
+flerta sakfrågor. Men de vill gemeinsamt erövra
+mukten. De har stött av stora ekonomiska intres-
 sen. Och det är högkrafterna som anger tonen.
-Man satsar framför allt på att svartmålade Sverige
-för att sprida missnõjje.
+Man satsar framför allt på att svart målade Sverige
+för att sprida missnöje.
 KFML:rs revolutionärer står under röda plakat
 och talar illa om Sverige.
 Moderaterna står under blåglula fanor och talar
@@ -399,18 +364,18 @@ Deras beskrivning av verkligheten skiljer sig
 inte så väldigt mycket åt, även om deras idéo-,
 logi och deras metoder är mycket olika.
 
---- PAGE 20/23  [142.5s | ENHANCED | c=25] ---
+--- PAGE 20/23  [61.2s | ENHANCED | c=25] ---
 Den svenska arbetarrörelsen slår behårt vakt
 om vårt demokratiska samhällsskick och en
 lugn och stabil samhällsutveckling i Sverige.
 Jag har vid många tillfällen klart sagt ifrån
-mär det gäller extremismen till vänster.
-Det finns anledning att också klart säga ibrån
-när det gäller extremismen till höger.
+mär det gäller extremismen till väster.
+Det finns anledning att också klart säga ifrån
+mär det gäller extremismen till höger.
 Dot finns särskild anledning till detta när
-högextremismen är företrädid mitt inne i
-moderata samlingspartiets riksdeagsgrupp.
-Man frågade Gösta Bohman in TV vad som skulle
+högextremismen är företräd ö mitt inne i
+moderatora samlingspartiets riksdeagsgrupp.
+Man frågade Göste Bohman in TV vad som skulle
 hända om socialdemokraterna vinner valet.
 Han svarade att många människor skulle bli
 deprimerade och flytta från landet.
@@ -421,65 +386,67 @@ til l sin bankkonton i utlandet, om arbetar-
 rörelsen vinner valet? Nej, deras drömmar kret-
 sar kriglig het in jobbet, arbetsmiljon och
 en hygglig lön.
+[REDACTED]
+20
 
---- PAGE 21/23  [143.2s | ENHANCED | c=28] ---
+--- PAGE 21/23  [72.2s | ENHANCED | c=28] ---
 Tror ni att det är de gamla pensionärerna som köpt biljett till guldkusten i Spanien? Nej,
-deras förhoppningar, kretsar säkert kring att
-socialdemokratin skall fortsätta att förhåttra
-deras pensioner, bostadstillägg, färd tjänsten.
-De som Bohman tänker på är naturligtvis de
-välsluterade och privilegierade. Och ett finns
+deras förhoppningar, kretsar säkrat kring att
+socialdemokratin skall fortsätta att förbättra
+deras pensioner, bostadstillägg, färdtjänsten.
+De som Bohman tänker på år naturligtvis de
+valsituerade och privilegierade. Och ett finns
 naturligtvis ännu länder kvar där fattigdomen
 är stor och de rika kan käna sig hemma.
 Vi påstår inte att allting är bra i det här
-samhället. Längt därför från. Men när vi talar
-om dess brister, är det främst de vanliga lön-
+samhället. Långt därför från. Men när vi talar
+om dess brister, är det främst de vanliga lån-
 tagarna vi tänkter på, de som känner oro för
-jobbet, för sin hälsa och sin trygghet, det är
+jobbet, för sin hälse och sin trygghet, det är
 de gamla, de sjuka, de handikappade vi talar
 om. Det är framför allt för den som vi skall
 försöka göra livet lättare.
-Vi har anledning att slå tillbaka svartmåländet
+Vi har anledning att slå tillbaka svartmålansdet
 och missnöjespropagandan. Vi kan käna stolthet
 över det här landet. Inte därför att allting är
 bra på alla sätt. Utan därför att vi ständigt
 är på väg att göra det bättre. Det är den demo-
-kratiska, reformistiska politiken.
+kratiske, reformistiska politiken.
 För oss betyder den röda fanen demokrati, avsky
 mot våld, hänsyn och tolerans mot andra. Det
-må väldsnähgarna besinna.
+må valdsanhängarna besinna.
 [REDACTED]
-21
 
---- PAGE 22/23  [127.3s | ENHANCED | c=26] ---
+--- PAGE 22/23  [65.4s | ENHANCED | c=26] ---
 För oss betyder den blågula fans en fast
 svensk neutralitetspolitik och solidaritet
 med de svaga i samhället. Det bör moderaterna
-besinna.
-Mitt under en av de värdigaste hetskampanjer
+besinne.
+Mitt under en av de värägaste hetskampanjer
 som svensk arbetarrörelse varit utsatt för,
 talade Per Albin Hansson om folkhemmet.
 SÅ här sa han 1928:
 "Skall det svenska samhället bli det goda
-folkemättet, måste klasskillnaderna avlägsnas,
+folkhemmet, måste klasskillnaderna avlägenas,
 den sociala omsorgen utvecklas, en ekonomisk
-utjämning ske, de arbeteande beredas andel även-
+utjämning ske, de arbetande beredas andel även-
 i det ekonomiska förvaltandet, demokratin ge-
 nomföras även socialt och ekonomiskt."
 Man har försökt använda folkhemstanken till
 försvar för det bestående. Det var någonting
- helt annat Per Albin talade om. Han talade om
+helt annat Per Albin talade om. Han talade om
 att vi måste försvera och bygga ut den politis-
 ka demokratin. Vi måste gå vidare med den
-sociala och ekonomiska demokratin för att skapa
+sociala och ekonomiska demokratin för att skepa
 ett samhälle av likställda medborgare, som ge-
 mensamt tar ansvar för sin framtid. När vi
 lyckats med detta har vi skapat Per Albins folk-
 hem.
-Arbetsrörrelsens arkiv och bibliotek | © Olcf Palmes familj 22
+Arbetsrörrelsens arkiv och bibliotek | © Olof Palmes familj
+22
 
---- PAGE 23/23  [86.7s | ENHANCED | c=13] ---
-SÅ började arbetarrårslen bygga om samhället.
+--- PAGE 23/23  [49.5s | ENHANCED | c=13] ---
+Så började arbetarrärelsen bygga om samhället.
 Vi befinner oss mitt uppe i det samhällsbygget.
 På den vägen har vi varit, och på den vägen
 skall vi gå vidare.
@@ -487,6 +454,6 @@ På den vägen skall vi vinna valct den 16 sep-
 tember.
 
 ============================================================
-Completed : 2026-03-03 21:14:07
+Completed : 2026-03-05 19:38:52
 Pages     : 23  (errors: 0)
-Total time: 47.9 minutes
+Total time: 25.8 minutes

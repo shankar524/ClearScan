@@ -1,245 +1,245 @@
 OCR OUTPUT: akl-2017-02-27-AM-2017-1099-SA-Brev-till-KP.pdf
 Model    : Qwen3-VL-2B (Q4_K_M GGUF)
-Started  : 2026-03-03 22:11:43
+Started  : 2026-03-05 20:15:09
 Settings : ctx=4096, temp=0.7, presence_penalty=1.5, jinja=ON, no_think=ON, max_size=1120px
 ============================================================
 
---- PAGE 1/15  [144.4s | ENHANCED | c=42] ---
+--- PAGE 1/15  [93.0s | ENHANCED | c=42] ---
 Och till sist, Krister Pettersson: Upp med hela denna dimmiga.
 Palmeutredning på domarens bord!
 Engagerad hälsning
-n Anér, 1
+n Anér, l
 Viktigt tillägg 23.2.2017.
-Jag har sedan jag skrev den första inlagan forskat vidare, och jag överlämnar nu till dig. Krister Petersson, mina resultat. Det direkt nya och sensationella är nu att hela pratet om att � skulle ha mött Anneli på en Finlandsfärja i juni 1992 visar sig vara just bara prat.
-Hela kontakten - om den verkliga har ägt rum - mellan � och Anneli,
-tycks enligt mitt översända material ha skett i Stockholm/Danderyd, vilket gör att ingen förklaring finns till var den ojämna duon�/Anneli faktiskt ska ha mottts den första gången.
-I och med att fiktionen kring Finlandsfärjan försvinner måste noga undersökas hur mötet kan ha skett; en sak för förundersökningen i Palmeärendet, verkligen. Det börjar ju omedelbart stå klart att detta möte har forcerats fram - av vem? Ja. just förundersökarna, framlför allt den polisiara spaningsdelen, måste ha legat hakom.
-I vilket syfte? Jo. det sylte som jag nämnde i min tidigare inlagna, nämligen att meda� � hjälp, inte som skytt utan som sparlaggare - åt.
-att följa efter. Varför? Jo- och nu blir detta alltid tydligare - fös att spanslingsledningen skulle kunna locka med aå som högst tänkbar skyt,
-medan f e i själv verkat antagligen befann sig i bostaden i Söderort under mordnatten, men kom väl till pass efter mordet, som sparlaggare.
-Krängligt? Inte särskilt krängligt, om du som ny chefsfaklägare bestämmer dig för att överpröva Granskningskommissionens redovisning av "Dekorimamannen" och testa de nya sanningar som jag har börjat ta fram, i kölvattnet, inte efter en Finlandsfärja - som aldrig har funnits i bilden -
+Jag har sedan jag skrev den första inlagan forskat vidare, och jag överlämnar nu till dig. Krister Petersson, mina resultat. Det direkt nya och sensationella är nu att hela pratt om att å skull ha mött Anneli på en Finlandsfärja i juni 1992 visar sig vara just bara prat.
+Hela kontakten - om den verkligen har ägt rum - mellan och Annelj,
+tycks enligt mitt översända material ha skett i Stockholm/Danderyd, vilket gör att ingen fördäring finns till var den ojämna duon/Annelli faktiskt ska ha mottts den första gången.
+I och med att fiktionen kring Finlandsfärjan försvinner måste noga undersökas hur mötet kan ha skett; en sak för förundersökningen i Palmeårendet, verkligden. Det börjar ju omedelbart stå klart att detta möte har forcerats fram - av vem? Ja. just förundersöktarna, framför allt den polisiara spaningsdelen, måste ha legat bakom.
+I vilket syfte? Jo, det sylfe som jag nämnde i min tidigare inlagna, nämligen att meda. hjälp, inte som skytt utan som spårläggare, åt. vatt följa efter. Varför? Jo- och nu blr detta allt tydligare - fos att spansledningen skulle kunna locka med såsom högst tänkbar skytt,
+medan f e i själva verket antagligen befann sig i bostaden i Söderort under mordnatten, men kom väl till pass efter mordet, som spår lägga.
+Krångligt? Inte särskilt krångligt, om du som ny chefsfaklagare bestämmer dig för att överpröva Granskningskommissionens redovisning av "Dekorimamannen" och testa de nya sanningar som jag har börjat ta fram, i kolvattnet, inte efter en Finlandsfärja - som aldrig har funnits i bilden -
 men efter Hedberg/Halls senaste bok. Där sanningar har börjat lossna.
-Krister Petersson: Jag ber dig läsa mina tre bilagor, där de nya sanningarna står att läsa. Du kommer rimligen med ett nytt och fråsärt engagemang. Då räcker det ju inte att endast granska vad dina företträdare har sysslat med-
-med många förutfattade åskiter, utan framför allt bråvett ett antal helt nya tag-
+Krister Petersson: Jag ber dig läsa mina tre bilagor, där de nya sanningarna står att läsä. Du kommer rimligen med ett nytt och frånskot engagemang. På räcker det ju inte att endast granska vad dina företradare har sysslat med-
+med många förutfatta åskiter, utan framför allt bråv ett antal helt nya tag-
 
---- PAGE 2/15  [96.5s | ENHANCED | c=27] ---
-Min senaste dokumentation, i tre delar, översänds, tillsammans med min
-bgåran om en överprövning av hittills fattat åklagarbesluti
+--- PAGE 2/15  [63.6s | ENHANCED | c=27] ---
+Min senaste dokumentation, i tre delar, översånds, tillsammans med min
+bgårn om en överprövning av hittills fattat åklagarbeslut!
 Engagerad hälsning och förhoppning om ett snabbt svar!
-Låt mig endast tillägga att jag aldrig, under de gångna 31 åren, beslagits
-med lögnet i Palmeårendet. Jag har bara knuffats bort av utredande
+Lät mig endast tidlägga att jag aldrig, under de gångna 31 åren, beslagits
+med lögne i Palmeärendet. Jag har bara knuffats bort av utredande
 myndigheter, som aldrig velat medge att Palmeutredningen, under dessa 31
 år; varit sluten och närsynt och vägrat se faktiska sanningar.
-Hur föklrar du till exempel Lisbeth-bilden, där hon anlände till
+Hur förklarar du till exempel Lisbeth-bilden, där hon anlände till
 Sabbatsbergsakuten, efter att ha övergivit sin döende/döde man samt bytt
-ytterplagget från Dekorima. Varken RÅ eller Riksrim/Noa har någonsin
+ytterplagget från Dekorima. Varken RÅ eller Rikskrim/Noa har någonsin
 förklarat denna bild.
 Jag hoppas på ett framåtsyftande samarbete!
-s.- 1 Anér
-/. Bilagor: Brev från Claes Hedberg samt brevkladd från . T jämte min
-kommentar till Halls brevkladd.
-[?]
+5.. 1 Anér
+/. Bilagor: Brev från Claes Hedberg samt brevkladd från . Tjämte min
+kommentar till Halls brevkllad.
 [?]
 
---- PAGE 3/15  [89.9s | ENHANCED | c=42] ---
-Hej �n Anér!
+--- PAGE 3/15  [59.7s | ENHANCED | c=42] ---
+Hej ? -n Anér!
 2017-02-17
 Vi blev båda mycket förvånade över att du
-slängde luren i örat på� Det verkar inte
+slängde luren i örat på  Det verkar inte
 som att du är intresserad av sanningen.
 Eller är du det? I så fall kan du fortsätta läsa.
 Du framstår som klok och kunnig i dina böcker
 och trots att du ofta avslutar telefonsamtal helt
-abrupt eller med orden - jag är så trött - har du
+abrupt eller med orden – jag är så trött – har du
 skrivit 7 A4-sidor till Claes innehållande frågor
 som vi härmed vill besvara.
 Det verkar som att du tror att vi medvetet ljuge
-i boken. Detta känsnar särande att höra.
+i boken. Detta käns särande att höra.
 Vi förstår att du hakat upp dig på att det finns
 en uppgift i boken som inte stämmer med din
 uppfattning. Är det korrekt?
 [REDACTED]
 [?]
+[?]
 
---- PAGE 4/15  [95.2s | ENHANCED | c=46] ---
+--- PAGE 4/15  [65.8s | ENHANCED | c=46] ---
 När vi (och Claes) träffades i januari 2011
 efter att Claes pratat i "Ring P1" insåg vi att vi
 båda räkat hamna i var sin märklig situation
 relaterat till Palmemordet.
 Vi började därför regelbundet ses och samtala.
-Claes samlade fakta till en-eventlert kommande
-bok. � berättade om sitt möte med Anneli på
+Claes samlade fakta till en eventlellt kommande
+bok. berättade om sitt möte med Anneli på
 en finlandsbåt. På frågan när detta ägde rum
-gav� svaret "Det var så länge sedan, men det
+gav svaret "Det var så länge sedan, men det
 måste ha varit 6 år efter mordet, lite drygt
 kanske. Säkerligen på sommaren 1992. När det
 var dags att börja skriva boken ville Claes veta
-mer specifikt när på sommaren det var. � sa
+mer specifikt när på sommaren det var. sa
 att det bör ha varit i juni. Denna uppgift är
 alltså från själv. gav Claes information
-om det första mötets med Anneli och hur det
+om det första mötet med Anneli och hur det
 sedan utvecklade sig, vilket Claes skrivit ned
-ordragrant i boken.
+ordagrant i boken.
 
---- PAGE 5/15  [90.9s | ENHANCED | c=47] ---
+--- PAGE 5/15  [60.8s | ENHANCED | c=47] ---
 Under sensommaren 2016 läste Claes din bok
 "Affären" och fann då att det
 dröjde ända till november 1992 innan
-tog flickrona till Palmeutredarna. När
+tog flickorna till Palmeutredarna. När
 Claes säg detta i din bok tog han kontakt med
 för att fråga varför det dröjde så länge
 innan gick till polisen (från juni till nov)
 svarade då att han ville "mjölka" Anneli på
 mer information och bad vänta en tid.
-Jag tyckte ändå att ett halvår verkade väl långe,
+Jag tyckte ändå att ett halvår verkade väl länge,
 så jag frågade igen hur det kunde komma
 sig att det dröjde till november. Han svarade då
 att det var svårt att minnas efter så lång tid,
 men att det i sammanhanget inte kunde betyda
-så mycket om det var i juni, juli, aug eller sept.
+så mycket om det var i juni, julii, aug eller sept.
 som mötet med Anneli ägde rum på bätten.
 Åren går och det viktiga är ändå att fick kontakten med flickorna. Varken [?] eller
 
---- PAGE 6/15  [92.3s | ENHANCED | c=46] ---
-Claes kände till Anér på 90-talet. har inte läst dina böcker Sven. Orsaken är främst att har en svår ögonsjukdom. vänstra öga är ett öga av glas. Höger öga har grön starr och en synförmåga på mindre än 5 %.
-Därför är det Claes som skrivit all text i boken.
-Allt som har med uppgifter att göra bygger på Claes intervjuer mec.
-Sedan Claes läst din bok Sven, valde att det ändå skulle sta "juni". Detta kan inte Claes klandras för. För att ändå förtydliga att agerade först i nov valde Claes att ta med citat direkt från din bok Sven (sid 154-155 i vår bok) för att tydliggöra att möte med Anneli blev registrerad hos polisen först 1992-11-21.
+--- PAGE 6/15  [63.6s | ENHANCED | c=46] ---
+Claes kände till Anér på 90-talet. har inte läst dina böcker Sven. Orsaken är främst att har en svår ögonsjukdom. vänstra oga är ett öga av glas. Höger oga har grön starr och en synförmåga på mindre än 5 %.
+Därför är det Claes som skrivit all text i boken. Allt som har med uppgifter att göra bygger på Claes intervjuer mec. Sedan Claes läst din bok Sven, valde att det ändå skulle sta "juni". Detta kan inte Claes mät klandras för. För att ändå förtydliga att agerade först i nov valde Claes att ta med citat direkt från din bok Sven (sid 154-155 i vår bok) för att tydliggöra att möte med Anneli blev registrerad hos polisen först 1992-11-21.
 När Claes fått ditt brev valde han att resa till Stockholm för att möta och läsa upp ditt
 [REDACTED]
+??
+??
 
---- PAGE 7/15  [92.2s | ENHANCED | c=43] ---
+--- PAGE 7/15  [59.8s | ENHANCED | c=43] ---
 långa brev för Detta resulterade i att började söka i mappar, lådor och kartonger efter ett brev han skickade till och sin bror en tid efter mötet på färjan. hittade brevet. Det visar sig att brevet skrev 31 oktober 1992. Claes har aldrig tidigare sett detta brev. Nu fick Claes svart på vitt vad skrivit hösten 1992.
-Du har reagerat häftigt på boken och tydigen inte alls uppmärsammat att boken i mångt oc mycket är en hyllning till dig! Har du läst sid 594-595? Det är ju tack varde dig Sven som de saknade pusselbitarna nu är på plats.
+Du har reagerat häftigt på boken och tydigen inte alls uppmärksammat att boken i mångt oc mycket är en hyllning till dig! Har du läst sid 594-595? Det är ju tack vare dig Sven som de saknade pusselbitarna nu är på plats.
 Givetvis kommer vi att i en eventuell ny upplaga att rätta till uppgiften om tidpunkten för möte med Anneli på färjan.
-Med vänlig hälsning
-[REDACTED]
+Med välgång hälssing
 
---- PAGE 8/15  [64.6s | ENHANCED | c=16] ---
-P.S. Kopia på: brev bifogas
+--- PAGE 8/15  [41.3s | ENHANCED | c=16] ---
 Claes Hedberg
+P.S. Kopia på - brev bifogas
 
---- PAGE 9/15  [86.8s | ENHANCED | c=21] ---
+--- PAGE 9/15  [64.3s | ENHANCED | c=21] ---
 Kopia
 Bröder,
-i går kallt tråffade jag en kväll
+i går kallt tråffade jag en berörda
 Annoli:
-Hon var så skämta och ganska liten,
-Som jag inte finner minst i hjärn. Jag blev dåfört nöjd att sitt av De berorar de till
-han bryter om, vänlig förlaglare det till!
-Polisen som möjligt skulle hända ring.
-Hon är en vänninna för klasse
-motto Palme's mörda stark egenan bra
-mordades. Vänninnan kan du sjung med
-som men lever i Uppland, Varby som en
-vänlig familjefar: Vänninnan ett on
-ochsä in upplands varby. Hon har ett be-
-skrivet arvet och ganska liten,
-är mer än hon skrev att komma från eller:
-mer man inte så tydliga om det kring
+Hon varit hade en fantastisk skriven,
+Som jag inte finner minligt. Jag blev
+därför nöjd och vitt är De bevarar de
+han haveret om i län, börjades det till!
+Polisen an något ställe lärdna ring.
+Hun är en växande ftt haare
+amotte Palme's mindre som egenan har
+muddadde. Värminnan kan du igen munka
+som mr lever in Upplande Varby som er
+vanslig familjejar: Vårinnman ett on
+olvisa : Upplands Varby. Hon har att ber
+och vågar inte säg till polisen, båda bor
+amer han och liennes deller ab orä
 [REDACTED]
 
---- PAGE 10/15  [88.9s | ENHANCED | c=23] ---
-Ammot an växlingen mot He mörda
-ren där han vänlade på Palme, 
-fördes en talade i en svedt telefon - Walte.
-Talrike och meddelade att han var
-isertändig men fick instruktioner att
-genomföra uppdraget. Växlingan såg alls
-ett av personen kunde göra,
-hundrta 2018 förväntar man
-# T-Centrum . Eftersom ett stort bråd de
-är ockst vara vid växlingar vilke aktsvar
-all se vad som händ, huru skrivit:
-drag i vrap hemma till T-banan. Därefter
-dagin fick de vem att det var Palme
-som hade snytt.
-Ett regnigt glöda uppgör medlare
-fån slutet.
-[REDACTED]
+--- PAGE 10/15  [63.0s | ENHANCED | c=23] ---
+Ammot! an värinman motta smöda
+ren den från växelk jf Pälme, 
+Näddaren talade i en suolbt telefon - Walle.
+Talkie och meddelande att han var
+isertändy men fick instruktioner att
+genomfria uppdraget. Värinman säg obs
+att är sammans ladda glibb-
+hundr 01 hän in rätt som mot
+T-Centalen. Efter en stund hade de
+så oksv vanlid värininan ville akrssu
+ah se vad som handt, mien strumli"
+dung ivap heune ktt T-banan. Dera,
+danpä fike de veh att det var Pälme
+som hade skjutte.
+Ei regnsikt glöda gåpp upp smörare
+flur skillet.
 
---- PAGE 11/15  [83.3s | ENHANCED | c=22] ---
+--- PAGE 11/15  [58.5s | ENHANCED | c=22] ---
 Fråga:
-Varför kände. inte Fisbella Polmar
-igen mordare och pohade ut en.
-Hollades han att odsra" med hämm
+Varför kände, inte förboklad Polens
+igen mörkare och plockade ut en.
+helt annan man?
+Hollades hem tills dags med häm-
 med sina barn?
-Villen organisation har omförlä
-arvättningen? De finkle friska i sän
-Walsie -tallies, därför förstod värdigaren
-och Annollic vad som stödes.
-Datta kan sedan undkommas
-blint livridd fört vara av samma -
-hon hela lämnat 571 bana psyk kreativ
-- hon kom förra börja märkt genom-
-migt bara? Frågorna som inte skilj n
-Hur skall jag agera = Vannun
-...To vitterna pga att han int
-[REDACTED]
+Villen organisationen genomföll
+arrafningen? De färdiga friska i få
+Walkie Talkies, dagfr försök vattningar
+och Annolici vad som stod.
+Datta han saken un-dosommar
+blivit livridd från att vara osta -
+hon har lämnat ett till namn psyk komu-
+- hon kan fört ha minst gatorum
+-mig-t barn ? Fådolen som inte skall a:
+hur skall jag agera = Vannium
+- -Ino vittra pga. att han int[...]
 
---- PAGE 12/15  [77.0s | ENHANCED | c=26] ---
-tor att polisen kan stegla huvud
+--- PAGE 12/15  [48.5s | ENHANCED | c=26] ---
+för att polisen kan steglja bort
 även om de skulle ge honom en
-my idékret på en my plats,
-Frams det en sammanslutning?
-Svenske?
-Idag för framtidiga single an
-tänne på telefonen i ett nytt
-svarande kunde han få luren.
-Jag uppfattade aldrig de förd
-lön sa,
+my idékret på en my plåt,
+Frans. det är en utgångssättning
+i Sverige?
+Idag för framtida sängle on
+härna pe telefonr i ett nytt
+svarade hade han på luren.
+Jap uppfallde aldrig de förd
+lin sa,
 Söndag 31/10-1982
 
---- PAGE 13/15  [142.4s | ENHANCED | c=37] ---
-20.2.2017. Dekorimannen, Finlandsfärjan, till tidigare skrivelser 12, 15
-och 16 februari 20.
-Synnerligen viktig komplettering, ställd till Chefsåklagare Krister
-Petersson!
-Jag, Sven Anér, fick i dag detta dubbla brev från Claes Hedberg______et
-avgörande viktigta brevet bifogas i kopia._håvdar att brevet (en
-klaadd?) söndagen den 31.10 1992 skrivits till_----Kladden är i stort
-sett möjlig att läsa och tyda, med nedanstående undantag: kladden är inte
-paginerad, det är nu jag som använder begreppen sidorna 1, 2, 3, 4..
-Brevsvidorna är snälkopierade i högern marginalena, och på sidan 1 tar texten
-plötsligt slut med orden "att avrå", jags gissar att minst en sida plockats
-bort innan sidorna sänts till mig. Jag kan allstå inte vete hur många sidor
-kladdenn/brevet ursprungligen omfattat.
+--- PAGE 13/15  [86.5s | ENHANCED | c=37] ---
+20.2.2017. Dekorimamannen, Finlandsfärjan, till tidigare skrivelser 12, 15 och 16 februari 20.
+Synnerligen viktigt komplettering, ställd till Chefsåklagare Krister Petersson!
+Jag, Sven Anér, fick i dag detta dubbla brev från Claes Hedberg______het avgörande viktig brevet bifogas i kopia._håvdar att brevet (en kladd?) söndagen den 31.10 1992 skrivits till_.. Kladden är i stort sett möjlig att läsa och tyda, med nedanstående undantag: kladden är inte paginerad, det är nu jag som använder begreppen sidorna 1, 2, 3, 4... Brevsidorna är snälkopierade i högermarginalena, och på sidan 1 tar texten plötsligt slut med orden "att avrå...", jag gissar att minst en sida plockats bort innan sidorna sänts till mig. Jag kan allstå inte vete hur många sidor kladdenn/brevet ursprungligen omfattat.
 Mina noteringar till texterna:
-"I går kväll", alltså lördagen den 30 oktober 1992 (se sista sidan!) Detta är
-en otvetydig datering, fränset att den 30 oktober 1992 inföll på en(sic)
-fredag!
-Pästadår färjetur i juni 1992! Autenticiteteten sjunker alltså redan här ner till
-noll.
-Hall nämnmer ingen bättur över huvud taget, turen verkar vara pähittad över
-fya mändarer efterrät. Var träffades? och Anneli? En viktig fråga, ej
-besvarad.
+"I går kväll", alltså lördagen den 30 oktober 1992 (se sista siden!) Detta är en otvetydig datering, fränset att den 30 oktobr 1992 inföll på en(sic) fredag!
+Pästädd färjetur i juni 1992! Autenticiteteten sjunker alltså redan här ner till noll.
+Hall nämner ingen bättur över huvud taget, turen verkar vara pähittad över fyra månader efterfart. Var träffades? och Anneli? En viktig fråga, ej besvarad.
 Varför antecknas så noggrant Annels telefonnummer?
 " ska allstå inte omedelbart gå till polisen? Märkligt.
-...mördaren som nu lever i Upplands-Väby.."
+...mördaren som nu lever i Upplands-Väsbys..."
 Detta tror tydligen Anneli (om samtalet någonsin ägt rum?)
-U-Väsby är etablerat, som Annelis och Ankis och inte minst!
-bostadsort; i verkligheten bor f . __ med familj i Söderort, men gymmet,
-mycket viktigt, ligge ju faktiskt i U-Väsby, med alla de faktiska spåren, 1993,
-efter_____
-[REDACTED]
+U-Väsby är etablerat, som Annelis och Ankis och inte minst bostadsort; i verkligheten bor f.. ▲ med familj i Söderort, men gymmet, mycket viktigt, ligge ju faktiskt i U-Väsby, med alla de faktiska spåren, 1993, efter_
 
---- PAGE 14/15  [153.8s | ENHANCED | c=44] ---
-Nederst på sidan 1 står alltså ungefär "att avrä", varför både text och papper måste ha brutits här - hur mycket av originaltexten har försvunnit med den sida/de sidor jag aldrig får se? Illavarslande, givetvis)]
-Sidan 2:, ungefärr som andra av kvinnornas versioner, men sista stycket med" en raggarbil som plockar upp mörda ren"
-Sidan 3 och början på 4 år - frågor, som han får svara för själv, och varför en anonym dam ringde åden 31 oktober vet jag inte.
-Så långt min genomgång av brev till. För mig står det, via kladden till detta brev, alldeles klarat att någon tur med en påstådd, anonym Finlandsfärja aldrig har ägt rum, varför Anneli pastädda berättelse är helt påhittad och osann, Men den har flera gånger, faktiskt, på hösten 1992 nägonstans i Stockholm, av Anneli dragits för
-Min klrara förmödan är i dag, Krister Petersson:
-Anneli och längre fram AnkI, kan inte utan professionell assistans ha hittat på denna så dramatiskt utstryda story. De måste ha styrts av professionellt fold, knutna till förundersökningen och dess spanare, vilka bl a har, tror jag, hittat på att placera - vid U-Väsby s gym,dels kring 1986 och dels, inte minst viktigt, vinterm 1992-93, då var enligt flera vitten med gym mee, har varit synlig, för den undersökan-
-narrades tro att kvinnorna faktiskt hade sett - och AnkI talat med - 'mörda ren' Vad som följde efteråt, kanske framför allt inbjudan från lätta Lata sitta med vid två (J) förhör: det första förhört med Anneli, tidigt 1993, samt vid förhört med juli 1994.
-Meningen med arrangemangen har hela tiden varit att hitta en garabterad vän, sam till Anneli och Anki, trimma dessa samt fullborda valsen, över huvudena på veteranjournalisterna och Sven Anér. Arrangörernas syfte: att när som helst kunna ta fram bevis för oskuld (frånsett de många arrangerade besöken i U_Väsby) samt hederligt kunnan säga:
-är ingen mörda ren!
-RÅ. Krkom - och ett antal spanare på fältet sökte inte Olofs-mördare - som de redan hade-ringat in - utan narrade, idogt och flitigt- den tredje statsmakten.
-Min anmälan mot RÅ och kvartar, Krister Petterson, och som jag sagt, avvaktar jag med att agera mot Anneli och Anki. Claes Hedberg arbetar under sekretess- och tryckfrihetsförordningen,
-[REDACTED]
-[?]
-[?]
+--- PAGE 14/15  [111.8s | ENHANCED | c=44] ---
+Nederst på sidan 1 står alltså ungefär "att avrä", varför både text och
+papper måste ha brutits här - hur mycket av originaltexten har försvunnit
+med den sida/de sidor jag aldrig får se? Illavarslande, givetvis))]
+Sidan 2:, ungefärm som andra av kvinnornas versioner, men sista stycket
+med" en raggarril som plockar upp mördaren" är nytt för mig.
+Sidan 3 och början på 4 år ·frågor, som han får svara för själv, och varför
+en anonym dam ringde åden 31 oktober vet jag inte.
+Så långt min genomgång av brev till. För mig står det, via kladden
+til detta brev, alldeles klarat att någon tur med en pstädd, anonym
+Finlandsfärja aldrig har ägt rum, varför Anneli psättadå berättelse är helt
+påhittad och osann, Men den har flera gånger, faktiskt, på hösten 1992
+någonstans i Stockholm, av Anneli dragits för
+Min klrara förmodan år i dag, Krister Petersson:
+Anneli och längre fram Ankld, kan inte utan professionell assistans ha hittat
+på denna så dramatiskt utstryda story. De måste ha styrts av professionellt
+fökl, knutna till förundersökningen och dess spanare, vilka bl a har, tror jag,
+hittat på att placera.
+vid U-Väsbygym,dels kring 1986 och dels,
+inte minst viktigt, vintern 1992-93, då å enligt flera vittnen vid
+gymee, har varit synlig, för den undersökande
+-narrades tro att kvinnorna faktiskt hade sett - och Anki talat med -
+'mördaren" Vad som följde efteråt, kanske framför allt inbjudan
+från ·låta läta sitta med vid tvä (J) förhör: det första
+förhört med Anneli, tidigt 1993, samt vid förhört med i juli 1994.
+Meningen med arrangemangen har hela tiden varit att hitta en garabterad
+vän, sam till Annelli och Anki, trimma dessa samt fullborda valse,
+över huvudena på veteranjournalisterna och Sven Anér.
+Arrangörernas syfte: att när som helst kunna ta fram bevis för · oskuld (frånsett de många arrangerade besökten i U_Väsby) samt hedersligt
+kunna säga:
+är ingen mördare!
+RÅ. Krkom och ett antal spanaare på fältet sökte inte Olofs-
+mörda - som de redan hade-ringat in - utan narrade, idogt och flitigt -
+den tredje statsmakten.
+Min anmälan mot RÅ och kvarstar, Krister Pettersson, och som jag
+sagt, avvaktar jag med att agera mot Anneli och Anki. Claes
+Hedberg arbetar under sekreter- och tryckfrihetsförordningen,
 
---- PAGE 15/15  [74.2s | ENHANCED | c=13] ---
+--- PAGE 15/15  [43.7s | ENHANCED | c=13] ---
 Och till sist, Krister Pettersson: Upp med hela denna dimmiga
 Palmeutredning på domarens bord!
 Engagerad hälsning
@@ -247,6 +247,6 @@ Sven Anér,
 [REDACTED]
 
 ============================================================
-Completed : 2026-03-03 22:36:15
+Completed : 2026-03-05 20:31:35
 Pages     : 15  (errors: 0)
-Total time: 130.0 minutes
+Total time: 78.5 minutes

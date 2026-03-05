@@ -1,5 +1,4 @@
 venv_qwen3vl/
-output/
 models/
 llama_bin/
 temp_images/
