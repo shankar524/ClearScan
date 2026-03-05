@@ -1,30 +1,40 @@
-import os
+#!/usr/bin/env python3
+"""ClearScan — PDF-to-text OCR pipeline using Qwen3-VL-2B via llama.cpp."""
+
+import argparse
 import gc
-import time
+import os
+import re
+import shutil
 import subprocess
+import sys
+import time
+import unicodedata
+
+import cv2
 import fitz
 import numpy as np
-import cv2
 from PIL import Image
 
 # ============================================================
-# CONFIGURATION
+# DEFAULTS  (overridden by CLI args → env vars → these values)
 # ============================================================
-INPUT_DIR   = "data"
-OUTPUT_DIR  = "output"
+_DEFAULTS = {
+    "input_dir":   "data",
+    "output_dir":  "output",
+    "llama_cli":   os.path.join("llama_bin", "llama-mtmd-cli.exe")
+                   if sys.platform == "win32"
+                   else os.path.join("llama_bin", "llama-mtmd-cli"),
+    "model_path":  os.path.join("models", "Qwen3VL-2B-Instruct-Q4_K_M.gguf"),
+    "mmproj_path": os.path.join("models", "mmproj-Qwen3VL-2B-Instruct-F16.gguf"),
+    "dpi":         200,
+    "max_size":    1120,
+    "threads":     4,
+    "max_tokens":  1500,
+    "ctx_size":    4096,
+    "temp":        0.7,
+}
 
-LLAMA_CLI   = os.path.join("llama_bin", "llama-mtmd-cli.exe")
-MODEL_PATH  = os.path.join("models", "Qwen3VL-2B-Instruct-Q4_K_M.gguf")
-MMPROJ_PATH = os.path.join("models", "mmproj-Qwen3VL-2B-Instruct-F16.gguf")
-
-DPI      = 200
-MAX_SIZE = 1120
-
-THREADS    = 4
-MAX_TOKENS = 1500
-CTX_SIZE   = "4096"
-
-TEMP_DIR = "temp_pages"
 DEGRADED_CONTRAST_THRESHOLD = 60
 
 SYSTEM_PROMPT = (
@@ -47,30 +57,64 @@ USER_PROMPT = (
     "- Stop at the end of the visible text"
 )
 
+
 # ============================================================
-# SETUP
+# CLI / ENV CONFIGURATION
 # ============================================================
-os.makedirs(OUTPUT_DIR, exist_ok=True)
-os.makedirs(TEMP_DIR,   exist_ok=True)
+def _env(name, default=None, cast=None):
+    """Read an env var with optional type casting."""
+    val = os.environ.get(name, default)
+    if val is not None and cast is not None:
+        val = cast(val)
+    return val
 
-for path, label in [
-    (LLAMA_CLI,   "llama-mtmd-cli binary"),
-    (MODEL_PATH,  "model GGUF"),
-    (MMPROJ_PATH, "mmproj GGUF"),
-]:
-    if not os.path.isfile(path):
-        print(f"❌ Cannot find {label}: {path}")
-        exit(1)
 
-print("=" * 60)
-print("Qwen3-VL-2B OCR  |  llama-mtmd-cli  |  CPU")
-print(f"  Ctx: {CTX_SIZE}  |  Max tokens: {MAX_TOKENS}  |  Threads: {THREADS}")
-print(f"  DPI: {DPI}  |  Max size: {MAX_SIZE}px")
-print(f"  Jinja: ON  |  Think: OFF  |  Post-processing: OFF")
-print("=" * 60)
-
-import unicodedata
-import re
+def parse_args(argv=None):
+    """Build config from CLI flags → environment variables → built-in defaults."""
+    p = argparse.ArgumentParser(
+        description="ClearScan OCR — transcribe scanned PDFs to text",
+        formatter_class=argparse.RawDescriptionHelpFormatter,
+        epilog=(
+            "Environment variables (used when CLI flags are omitted):\n"
+            "  CLEARSCAN_INPUT_DIR     Input directory with PDFs\n"
+            "  CLEARSCAN_OUTPUT_DIR    Output directory for .txt files\n"
+            "  CLEARSCAN_LLAMA_CLI     Path to llama-mtmd-cli binary\n"
+            "  CLEARSCAN_MODEL_PATH    Path to main GGUF model\n"
+            "  CLEARSCAN_MMPROJ_PATH   Path to mmproj GGUF model\n"
+            "  CLEARSCAN_THREADS       CPU threads  (default: 4)\n"
+            "  CLEARSCAN_CTX_SIZE      Context size  (default: 4096)\n"
+            "  CLEARSCAN_MAX_TOKENS    Max output tokens  (default: 1500)\n"
+            "  CLEARSCAN_TEMP          Sampling temperature  (default: 0.7)\n"
+        ),
+    )
+    p.add_argument("-i", "--input",      dest="input_dir",
+                   default=_env("CLEARSCAN_INPUT_DIR", _DEFAULTS["input_dir"]),
+                   help="Directory containing PDF files  (default: %(default)s)")
+    p.add_argument("-o", "--output",     dest="output_dir",
+                   default=_env("CLEARSCAN_OUTPUT_DIR", _DEFAULTS["output_dir"]),
+                   help="Directory for OCR text output  (default: %(default)s)")
+    p.add_argument("--llama-cli",        dest="llama_cli",
+                   default=_env("CLEARSCAN_LLAMA_CLI", _DEFAULTS["llama_cli"]),
+                   help="Path to llama-mtmd-cli binary")
+    p.add_argument("--model",           dest="model_path",
+                   default=_env("CLEARSCAN_MODEL_PATH", _DEFAULTS["model_path"]),
+                   help="Path to Qwen3-VL GGUF model")
+    p.add_argument("--mmproj",          dest="mmproj_path",
+                   default=_env("CLEARSCAN_MMPROJ_PATH", _DEFAULTS["mmproj_path"]),
+                   help="Path to mmproj GGUF model")
+    p.add_argument("-t", "--threads",    type=int,
+                   default=_env("CLEARSCAN_THREADS", _DEFAULTS["threads"], int),
+                   help="CPU threads  (default: %(default)s)")
+    p.add_argument("--ctx-size",         type=int,
+                   default=_env("CLEARSCAN_CTX_SIZE", _DEFAULTS["ctx_size"], int),
+                   help="Context window size  (default: %(default)s)")
+    p.add_argument("--max-tokens",       type=int,
+                   default=_env("CLEARSCAN_MAX_TOKENS", _DEFAULTS["max_tokens"], int),
+                   help="Max output tokens  (default: %(default)s)")
+    p.add_argument("--temp",             type=float,
+                   default=_env("CLEARSCAN_TEMP", _DEFAULTS["temp"], float),
+                   help="Sampling temperature  (default: %(default)s)")
+    return p.parse_args(argv)
 
 def safe_stem(filename_stem):
     """
@@ -80,13 +124,11 @@ def safe_stem(filename_stem):
         Åke-Malmström-hörd  →  Ake-Malmstrom-hord
         Östergård           →  Ostergard
     """
-    # Decompose unicode characters (Å → A + combining ring)
     normalized = unicodedata.normalize("NFD", filename_stem)
-    # Keep only ASCII characters
-    ascii_only  = normalized.encode("ascii", "ignore").decode("ascii")
-    # Replace any remaining non-alphanumeric/dash/underscore with underscore
-    safe        = re.sub(r"[^\w\-]", "_", ascii_only)
+    ascii_only = normalized.encode("ascii", "ignore").decode("ascii")
+    safe       = re.sub(r"[^\w\-]", "_", ascii_only)
     return safe
+
 
 # ============================================================
 # PREPROCESSING
@@ -113,7 +155,7 @@ def preprocess_image(pil_img):
     return result, mode, contrast
 
 
-def render_page(page, out_path, dpi=DPI):
+def render_page(page, out_path, dpi, max_size):
     zoom = dpi / 72.0
     mat  = fitz.Matrix(zoom, zoom)
     pix  = page.get_pixmap(matrix=mat, colorspace=fitz.csRGB)
@@ -122,8 +164,8 @@ def render_page(page, out_path, dpi=DPI):
     del pix, arr
 
     w, h = img.size
-    if max(w, h) > MAX_SIZE:
-        scale = MAX_SIZE / max(w, h)
+    if max(w, h) > max_size:
+        scale = max_size / max(w, h)
         img   = img.resize((int(w * scale), int(h * scale)), Image.LANCZOS)
 
     img, mode, contrast = preprocess_image(img)
@@ -136,26 +178,27 @@ def render_page(page, out_path, dpi=DPI):
 # ============================================================
 # OCR — raw output, no post-processing
 # ============================================================
-def ocr_image(image_path):
+def ocr_image(image_path, cfg):
+    """Run llama-mtmd-cli on a single image and return (text, had_error)."""
     cmd = [
-        LLAMA_CLI,
-        "-m",                 MODEL_PATH,
-        "--mmproj",           MMPROJ_PATH,
+        cfg.llama_cli,
+        "-m",                 cfg.model_path,
+        "--mmproj",           cfg.mmproj_path,
         "--image",            image_path,
         "--jinja",
         "-sys",               SYSTEM_PROMPT,
         "-p",                 USER_PROMPT,
-        "-n",                 str(MAX_TOKENS),
-        "--ctx-size",         CTX_SIZE,
+        "-n",                 str(cfg.max_tokens),
+        "--ctx-size",         str(cfg.ctx_size),
         "-ngl",               "0",
-        "--temp",             "0.7",
+        "--temp",             str(cfg.temp),
         "--top-p",            "0.8",
         "--top-k",            "20",
         "--min-p",            "0.0",
         "--presence-penalty", "1.5",
         "--repeat-penalty",   "1.1",
         "--repeat-last-n",    "128",
-        "-t",                 str(THREADS),
+        "-t",                 str(cfg.threads),
     ]
 
     try:
@@ -175,7 +218,6 @@ def ocr_image(image_path):
         return f"[OCR FAILED (code {result.returncode}):\n{stderr}]", True
 
     # Strip only llama.cpp internal diagnostic lines from stdout.
-    # Everything else is written to the file as-is.
     skip_prefixes = (
         "llama_", "ggml_", "load_", "build:", "system_info",
         "sampling:", "generate:", "clip_", "encode_", "Log ",
@@ -194,111 +236,145 @@ def ocr_image(image_path):
 
 
 # ============================================================
-# MAIN LOOP
+# MAIN
 # ============================================================
-pdf_files = sorted([
-    f for f in os.listdir(INPUT_DIR)
-    if f.lower().endswith(".pdf")
-])
+def main(argv=None):
+    cfg = parse_args(argv)
 
-if not pdf_files:
-    print(f"❌ No PDFs found in '{INPUT_DIR}/'")
-    exit(1)
+    dpi      = _DEFAULTS["dpi"]
+    max_size = _DEFAULTS["max_size"]
+    temp_dir = "temp_pages"
 
-print(f"\nFound {len(pdf_files)} PDF(s):\n")
-for f in pdf_files:
-    size_mb = os.path.getsize(os.path.join(INPUT_DIR, f)) / (1024 * 1024)
-    print(f"  • {f}  ({size_mb:.1f} MB)")
-print()
+    # Create directories
+    os.makedirs(cfg.output_dir, exist_ok=True)
+    os.makedirs(temp_dir, exist_ok=True)
 
-grand_start = time.time()
+    # Validate required files
+    for path, label in [
+        (cfg.llama_cli,   "llama-mtmd-cli binary"),
+        (cfg.model_path,  "model GGUF"),
+        (cfg.mmproj_path, "mmproj GGUF"),
+    ]:
+        if not os.path.isfile(path):
+            print(f"ERROR: Cannot find {label}: {path}", file=sys.stderr)
+            sys.exit(1)
 
-for pdf_filename in pdf_files:
-    pdf_path = os.path.join(INPUT_DIR, pdf_filename)
-    stem     = os.path.splitext(pdf_filename)[0]
+    print("=" * 60)
+    print("Qwen3-VL-2B OCR  |  llama-mtmd-cli  |  CPU")
+    print(f"  Input : {cfg.input_dir}")
+    print(f"  Output: {cfg.output_dir}")
+    print(f"  Ctx: {cfg.ctx_size}  |  Max tokens: {cfg.max_tokens}  |  Threads: {cfg.threads}")
+    print(f"  DPI: {dpi}  |  Max size: {max_size}px  |  Temp: {cfg.temp}")
+    print(f"  Jinja: ON  |  Think: OFF  |  Post-processing: OFF")
+    print("=" * 60)
 
+    # Discover PDFs
+    pdf_files = sorted([
+        f for f in os.listdir(cfg.input_dir)
+        if f.lower().endswith(".pdf")
+    ])
+
+    if not pdf_files:
+        print(f"ERROR: No PDFs found in '{cfg.input_dir}/'", file=sys.stderr)
+        sys.exit(1)
+
+    print(f"\nFound {len(pdf_files)} PDF(s):\n")
+    for f in pdf_files:
+        size_mb = os.path.getsize(os.path.join(cfg.input_dir, f)) / (1024 * 1024)
+        print(f"  - {f}  ({size_mb:.1f} MB)")
+    print()
+
+    grand_start = time.time()
+
+    for pdf_filename in pdf_files:
+        pdf_path = os.path.join(cfg.input_dir, pdf_filename)
+        stem     = os.path.splitext(pdf_filename)[0]
+
+        print(f"\n{'='*60}")
+        print(f"Processing: {pdf_filename}")
+        print(f"{'='*60}")
+
+        out_path = os.path.join(cfg.output_dir, stem + ".txt")
+        with open(out_path, "w", encoding="utf-8") as fh:
+            fh.write(f"OCR OUTPUT: {pdf_filename}\n")
+            fh.write(f"Model    : Qwen3-VL-2B (Q4_K_M GGUF)\n")
+            fh.write(f"Started  : {time.strftime('%Y-%m-%d %H:%M:%S')}\n")
+            fh.write(f"Settings : ctx={cfg.ctx_size}, temp={cfg.temp}, presence_penalty=1.5, "
+                     f"jinja=ON, no_think=ON, max_size={max_size}px\n")
+            fh.write("=" * 60 + "\n\n")
+
+        doc       = fitz.open(pdf_path)
+        num_pages = len(doc)
+        print(f"  Pages: {num_pages}")
+
+        page_errors = 0
+
+        for page_num in range(num_pages):
+            t0 = time.time()
+            print(f"\n  Page {page_num+1}/{num_pages}  ", end="", flush=True)
+
+            page     = doc[page_num]
+            img_path = os.path.join(temp_dir, f"{safe_stem(stem)}_p{page_num+1}.jpg")
+
+            try:
+                size, mode, contrast = render_page(page, img_path, dpi, max_size)
+                print(f"({size[0]}x{size[1]}px {mode} c={contrast:.0f})  ",
+                      end="", flush=True)
+            except Exception as e:
+                print(f"RENDER ERROR: {e}")
+                with open(out_path, "a", encoding="utf-8") as fh:
+                    fh.write(f"--- PAGE {page_num+1}/{num_pages} ---\n")
+                    fh.write(f"[RENDER ERROR: {e}]\n\n")
+                page_errors += 1
+                continue
+
+            text, had_error = ocr_image(img_path, cfg)
+            elapsed = time.time() - t0
+
+            if had_error:
+                status = f"FAIL  {elapsed:.1f}s"
+                page_errors += 1
+            else:
+                status = f"OK  {elapsed:.1f}s  (~{len(text.split())} words)"
+            print(status)
+
+            with open(out_path, "a", encoding="utf-8") as fh:
+                fh.write(f"--- PAGE {page_num+1}/{num_pages}  "
+                         f"[{elapsed:.1f}s | {mode} | c={contrast:.0f}] ---\n")
+                fh.write(text)
+                fh.write("\n\n")
+                fh.flush()
+
+            print(f"     -> {out_path}")
+
+            try:
+                os.remove(img_path)
+            except OSError:
+                pass
+            gc.collect()
+
+        doc.close()
+
+        elapsed_total = time.time() - grand_start
+        with open(out_path, "a", encoding="utf-8") as fh:
+            fh.write("=" * 60 + "\n")
+            fh.write(f"Completed : {time.strftime('%Y-%m-%d %H:%M:%S')}\n")
+            fh.write(f"Pages     : {num_pages}  (errors: {page_errors})\n")
+            fh.write(f"Total time: {elapsed_total/60:.1f} minutes\n")
+
+        print(f"\n  Done: {out_path}  ({page_errors}/{num_pages} errors)")
+
+    try:
+        shutil.rmtree(temp_dir)
+    except OSError:
+        pass
+
+    grand_total = time.time() - grand_start
     print(f"\n{'='*60}")
-    print(f"Processing: {pdf_filename}")
+    print(f"ALL DONE  —  {grand_total/60:.1f} minutes")
+    print(f"Results in: '{cfg.output_dir}/'")
     print(f"{'='*60}")
 
-    out_path = os.path.join(OUTPUT_DIR, stem + ".txt")
-    with open(out_path, "w", encoding="utf-8") as fh:
-        fh.write(f"OCR OUTPUT: {pdf_filename}\n")
-        fh.write(f"Model    : Qwen3-VL-2B (Q4_K_M GGUF)\n")
-        fh.write(f"Started  : {time.strftime('%Y-%m-%d %H:%M:%S')}\n")
-        fh.write(f"Settings : ctx={CTX_SIZE}, temp=0.7, presence_penalty=1.5, "
-                 f"jinja=ON, no_think=ON, max_size={MAX_SIZE}px\n")
-        fh.write("=" * 60 + "\n\n")
 
-    doc       = fitz.open(pdf_path)
-    num_pages = len(doc)
-    print(f"  Pages: {num_pages}")
-
-    page_errors = 0
-
-    for page_num in range(num_pages):
-        t0 = time.time()
-        print(f"\n  Page {page_num+1}/{num_pages}  ", end="", flush=True)
-
-        page     = doc[page_num]
-        img_path = os.path.join(TEMP_DIR, f"{safe_stem(stem)}_p{page_num+1}.jpg")
-
-        try:
-            size, mode, contrast = render_page(page, img_path)
-            print(f"({size[0]}×{size[1]}px {mode} c={contrast:.0f})  ",
-                  end="", flush=True)
-        except Exception as e:
-            print(f"❌ RENDER ERROR: {e}")
-            with open(out_path, "a", encoding="utf-8") as fh:
-                fh.write(f"--- PAGE {page_num+1}/{num_pages} ---\n")
-                fh.write(f"[RENDER ERROR: {e}]\n\n")
-            page_errors += 1
-            continue
-
-        text, had_error = ocr_image(img_path)
-        elapsed = time.time() - t0
-
-        if had_error:
-            status = f"❌  {elapsed:.1f}s"
-            page_errors += 1
-        else:
-            status = f"✅  {elapsed:.1f}s  (~{len(text.split())} words)"
-        print(status)
-
-        with open(out_path, "a", encoding="utf-8") as fh:
-            fh.write(f"--- PAGE {page_num+1}/{num_pages}  "
-                     f"[{elapsed:.1f}s | {mode} | c={contrast:.0f}] ---\n")
-            fh.write(text)
-            fh.write("\n\n")
-            fh.flush()
-
-        print(f"     → {out_path}")
-
-        try:
-            os.remove(img_path)
-        except Exception:
-            pass
-        gc.collect()
-
-    doc.close()
-
-    elapsed_total = time.time() - grand_start
-    with open(out_path, "a", encoding="utf-8") as fh:
-        fh.write("=" * 60 + "\n")
-        fh.write(f"Completed : {time.strftime('%Y-%m-%d %H:%M:%S')}\n")
-        fh.write(f"Pages     : {num_pages}  (errors: {page_errors})\n")
-        fh.write(f"Total time: {elapsed_total/60:.1f} minutes\n")
-
-    print(f"\n  ✅ {out_path}  ({page_errors}/{num_pages} errors)")
-
-import shutil
-try:
-    shutil.rmtree(TEMP_DIR)
-except Exception:
-    pass
-
-grand_total = time.time() - grand_start
-print(f"\n{'='*60}")
-print(f"ALL DONE  —  {grand_total/60:.1f} minutes")
-print(f"Results in: '{OUTPUT_DIR}/'")
-print(f"{'='*60}")
+if __name__ == "__main__":
+    main()
