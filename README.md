@@ -22,52 +22,7 @@ ClearScan takes a folder of scanned PDFs and produces clean `.txt` transcription
 
 Each PDF page is processed in two stages: **image preprocessing** then **LLM inference**. A new `llama-mtmd-cli` subprocess is spawned per page to keep memory usage flat across long documents.
 
-```plantuml
-@startuml
-skinparam sequenceMessageAlign center
-skinparam backgroundColor #FAFAFA
-skinparam participantBackgroundColor #EEF5FF
-skinparam noteBackgroundColor #FFFFF0
-
-actor       "User"                         as U
-participant "run_ocr.py"                   as S
-participant "PyMuPDF (fitz)"               as PDF
-participant "OpenCV / PIL"                 as CV
-participant "llama-mtmd-cli (subprocess)"  as LC
-participant "Qwen3-VL-2B (GGUF)"           as M
-
-U  ->  S   : PDFs placed in /input
-loop for each PDF file
-  S  ->  PDF : fitz.open(pdf)
-  loop for each page
-    PDF ->  S  : raw page object
-    S  ->  S   : render at 200 DPI\nresize so long edge ≤ 1120 px
-    S  ->  CV  : preprocess_image()
-    note right of CV
-      grayscale std-dev → contrast score
-      ──────────────────────────────────
-      contrast < 60  →  ENHANCED mode
-        · CLAHE histogram equalization
-        · unsharp-mask sharpening
-        · non-local means denoising
-      contrast ≥ 60  →  CLEAN mode
-        · light unsharp-mask only
-      ──────────────────────────────────
-      save as JPEG @ quality 92
-    end note
-    CV  ->  S  : preprocessed JPEG (temp file)
-    S  ->  LC  : subprocess.run(\n  llama-mtmd-cli\n  --model  Qwen3VL-Q4_K_M.gguf\n  --mmproj mmproj-F16.gguf\n  --image  page.jpg\n  --jinja --temp 0.7 -ngl 0\n)
-    LC  ->  M  : JPEG → vision encoder\n(mmproj) → visual tokens
-    LC  ->  M  : prefill: system prompt\n+ visual tokens + user prompt\nthen autoregressive decode
-    M  ->  LC  : token stream
-    LC  ->  S  : stdout (transcription + llama.cpp diagnostics)
-    S  ->  S   : strip diagnostic lines\nappend page text to output .txt
-    S  ->  S   : delete temp JPEG · gc.collect()
-  end
-end
-S  ->  U   : /output/<name>.txt
-@enduml
-```
+[![](https://img.plantuml.biz/plantuml/svg/nLNDRXit4BxlKmpSYuHWPTbjKzG80YkovAILN0M6V19WqDpHYZ9to99Sn_Affm2v1ds4zXbwxwFuIJgaP7itJg_jwcUrd6zcFdwS6Htx85oeAvtvQqLME561nrzh98bJz5wKED2g99180Lq3TINaTUbCJSNGQEFWc_4WlXe8_WvAAYielFaIF1gDln-F6s0o0P-Xnl7gPvcGWH-trzxSezk3Vxk4XtdMo0nxhgPB8rtFRhxcnVZpDdwscTQpap5qbYhSTR_qOJmRsnw_MAJX1Up3xDtaUGxs65wq7RGMbSYhK1Mvr0ewlhwopaZME-PZXycmxV3-0zAt-SKaFtm3dTFJ-RZ5YnscMJO7o5y3dFF2KUJemMeXiG15iCyoro7JnbXOifGev2fYOAaqPiaf-iQL8uZxxXdUKySMoovRsswMQoABQIDwb_48dFYGB62krYX30fmt6Jca0Xs808VzFfpCtYt8eLTt2Dvm1Ye12tQ___G771mSzi7UDcEml1p3EjpfTAagJjRf9aoi7N2gN0KmooZsLfRIYOsNGdE6KEG5ti3znyyW3GKdV00lZSCTzFxtt_w3zoxP8uDNyB8FYHICpjuEpeQZ4wXCyK0AuE-_O3WPl1t1IlbWojWdt9j2gpiHbA4chYQ_4ixcbV3Na7uYAIgR43AKQyE2G8M2F1H8Hladq2El-qz_FZ4RJaQ3isUqT5AxbTIGtlmVSdfnWx45VfgDJk4OaZvX0pyU9ZjNNQgFz12hwB5Ydug9UoGvTm9MDhL4jrbxas64F_LeZoTAPq7S5wqsZYjv7eNI0AbXkL_VVtVvy-MqLvRrScUlECeQjhTyVF2oOKir3QcDUcjRRXVNYjQ2xubRl_S3v5Hgw2zeop6IYoIdaMFQHJor6pvNGxnvoNJSWZhRVDq78si4mLmZ-UT1M1UMGFEEDvwJyhEfR5ZGYxOZl82Q9_6ZEQoGGDGygB7anlQAJwL0-L0tqwQMAG9tfKDHjGYaW-5kDNNWqt1SfT8f6skTqoMvUz9QA9GeoNYUZxxxVD9mNDN4SB4I-WK9QsCrf2aLy3Om3U14F1YX5sw_ChBu9354B2kVfEN2BsLF6grvnANXmm6p-DdvpPFV_ZRg_YiI5RvEiOyPnF-o_m00)](https://editor.plantuml.com/uml/nLNDRXit4BxlKmpSYuHWPTbjKzG80YkovAILN0M6V19WqDpHYZ9to99Sn_Affm2v1ds4zXbwxwFuIJgaP7itJg_jwcUrd6zcFdwS6Htx85oeAvtvQqLME561nrzh98bJz5wKED2g99180Lq3TINaTUbCJSNGQEFWc_4WlXe8_WvAAYielFaIF1gDln-F6s0o0P-Xnl7gPvcGWH-trzxSezk3Vxk4XtdMo0nxhgPB8rtFRhxcnVZpDdwscTQpap5qbYhSTR_qOJmRsnw_MAJX1Up3xDtaUGxs65wq7RGMbSYhK1Mvr0ewlhwopaZME-PZXycmxV3-0zAt-SKaFtm3dTFJ-RZ5YnscMJO7o5y3dFF2KUJemMeXiG15iCyoro7JnbXOifGev2fYOAaqPiaf-iQL8uZxxXdUKySMoovRsswMQoABQIDwb_48dFYGB62krYX30fmt6Jca0Xs808VzFfpCtYt8eLTt2Dvm1Ye12tQ___G771mSzi7UDcEml1p3EjpfTAagJjRf9aoi7N2gN0KmooZsLfRIYOsNGdE6KEG5ti3znyyW3GKdV00lZSCTzFxtt_w3zoxP8uDNyB8FYHICpjuEpeQZ4wXCyK0AuE-_O3WPl1t1IlbWojWdt9j2gpiHbA4chYQ_4ixcbV3Na7uYAIgR43AKQyE2G8M2F1H8Hladq2El-qz_FZ4RJaQ3isUqT5AxbTIGtlmVSdfnWx45VfgDJk4OaZvX0pyU9ZjNNQgFz12hwB5Ydug9UoGvTm9MDhL4jrbxas64F_LeZoTAPq7S5wqsZYjv7eNI0AbXkL_VVtVvy-MqLvRrScUlECeQjhTyVF2oOKir3QcDUcjRRXVNYjQ2xubRl_S3v5Hgw2zeop6IYoIdaMFQHJor6pvNGxnvoNJSWZhRVDq78si4mLmZ-UT1M1UMGFEEDvwJyhEfR5ZGYxOZl82Q9_6ZEQoGGDGygB7anlQAJwL0-L0tqwQMAG9tfKDHjGYaW-5kDNNWqt1SfT8f6skTqoMvUz9QA9GeoNYUZxxxVD9mNDN4SB4I-WK9QsCrf2aLy3Om3U14F1YX5sw_ChBu9354B2kVfEN2BsLF6grvnANXmm6p-DdvpPFV_ZRg_YiI5RvEiOyPnF-o_m00)
 
 ### Key design decisions
 
