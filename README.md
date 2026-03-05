@@ -201,11 +201,11 @@ models/
 ### 4. Run
 
 ```bash
-python run_ocr.py                              # data/ → output/
-python run_ocr.py --input /path/to/pdfs \
+python main.py                              # data/ → output/
+python main.py --input /path/to/pdfs \
                   --output /path/to/results    # custom paths
-python run_ocr.py --threads 8 --ctx-size 8192  # tuning
-python run_ocr.py --help                       # all options
+python main.py --threads 8 --ctx-size 8192  # tuning
+python main.py --help                       # all options
 ```
 
 ---
